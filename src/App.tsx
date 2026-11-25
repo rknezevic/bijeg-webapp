@@ -3,6 +3,7 @@ import { configured, ensureSession } from './lib/supabase';
 import { Home } from './screens/Home';
 import { RoomPage } from './screens/RoomPage';
 import { Shell } from './components/ui';
+import { unlockAudio } from './lib/sound';
 
 function usePath() {
   const [path, setPath] = useState(window.location.pathname);
@@ -18,6 +19,16 @@ export function App() {
   const path = usePath();
   const [uid, setUid] = useState<string | null>(null);
   const [err, setErr] = useState<string | null>(null);
+
+  useEffect(() => {
+    const unlock = () => unlockAudio();
+    window.addEventListener('pointerdown', unlock);
+    window.addEventListener('keydown', unlock);
+    return () => {
+      window.removeEventListener('pointerdown', unlock);
+      window.removeEventListener('keydown', unlock);
+    };
+  }, []);
 
   useEffect(() => {
     if (!configured) return;

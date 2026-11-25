@@ -107,6 +107,8 @@ begin
     select * into r from public.rooms where id = rid; select * into s from public.room_secrets where room_id = rid;
     qid := (r.state->'h2h'->'q'->>'id')::bigint;
     perform pg_temp.as_user(CH); perform public.h2h_answer(rid, qid, s.correct_idx);
+    select * into r from public.rooms where id = rid;
+    assert (r.state->'h2h'->>'rush')::boolean and r.phase_ends_at <= now() + interval '4 seconds', '4 s rush expected';
     perform pg_temp.expire(rid); perform public.tick(rid);  -- Marko never answers -> reveal
     select * into r from public.rooms where id = rid; assert r.phase = 'h2h_reveal';
     perform pg_temp.expire(rid); perform public.tick(rid);

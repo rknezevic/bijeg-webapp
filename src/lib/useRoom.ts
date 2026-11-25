@@ -112,7 +112,9 @@ export function useRoom(roomId: string) {
     return () => window.clearInterval(id);
   }, [refresh]);
 
-  return { room, players, error, now, refresh };
+  const serverOffset = useCallback(() => offset.current, []);
+
+  return { room, players, error, now, refresh, serverOffset };
 }
 
 /** Realtime and refetch can arrive out of order — keep the most recent row. */

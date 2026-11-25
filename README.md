@@ -10,7 +10,8 @@ A multiplayer quiz game in the style of a TV chase show, in Croatian. One **chas
 2. **Turn on anonymous sign-ins:** *Authentication → Sign In / Providers → Allow anonymous sign-ins*.
 3. **Create the database.** In the *SQL Editor*, run these two files in order:
    1. `supabase/migrations/20261125000000_init.sql`: tables, security and game logic.
-   2. `supabase/seed.sql`: 1,900 questions.
+   2. `supabase/migrations/20261125010000_h2h_rush.sql`: the 4-second rule on the board.
+   3. `supabase/seed.sql`: 1,900 questions.
 
    If you use the Supabase CLI instead, run `supabase db push` and then run `seed.sql`.
 4. **Check Realtime.** Under *Database → Publications → supabase_realtime*, the tables `rooms` and `room_players` must be on. The migration turns them on, but it's worth checking.
@@ -40,7 +41,7 @@ SPA routing is already set up (`vercel.json`, `public/_redirects`).
 | Intro | "Na redu je …" animation (5 s). |
 | Cash builder | 60 s of open questions, 500 € per correct answer. *Dalje* skips. After a wrong answer or a skip, the correct answer shows briefly and the next question appears right away. |
 | Offer | The chaser sets a higher offer (start 2 steps ahead of the chaser) and a lower offer (start 4 steps ahead). The player picks: higher offer, own amount (3 steps ahead), or lower offer. If time runs out, the player keeps their own amount. |
-| Head-to-head | A/B/C questions. The player and the chaser each answer on their own screen. Answers are revealed only once both have locked in. Every step the chaser has covered turns red. A player who reaches the bottom row (CILJ) is home and adds their money to the team pot. A player the chaser catches is out and watches the rest of the game. |
+| Head-to-head | A/B/C questions. The player and the chaser each answer on their own screen. Answers are revealed only once both have locked in. As soon as one side locks in, the other has only 4 seconds left (with a ticking clock). Every step the chaser has covered turns red. A player who reaches the bottom row (CILJ) is home and adds their money to the team pot. A player the chaser catches is out and watches the rest of the game. |
 | Final (team) | 2 minutes. Only the first answer typed by any finalist counts. Each player who made it home gives the team 1 step head start. If nobody made it home, every player plays the final for their cash-builder money. |
 | Final (chaser) | 2 minutes. When the chaser answers wrong or passes, the clock stops and the captain (the first finalist by seat) gets 10 seconds to answer. A correct answer pushes the chaser back one step. If the chaser is still at 0, the team gets an extra step instead. |
 | End | The team splits the pot, or the chaser wins. The host can start a new game with the same players. |
@@ -95,6 +96,20 @@ Some answers must still be exact:
 - **Numbers** must match exactly. "45" and "45 minuta" both count; "40" doesn't.
 - **Very short words** must be typed exactly, so "Iran" ≠ "Irak" and "vitamin C" ≠ "vitamin D".
 - **Nicknames and short forms** are accepted only when they're listed in the file as accepted answers ("Mandžo", "Plitvice").
+
+## Sounds
+
+All sounds are generated in the browser with the Web Audio API (`src/lib/sound.ts`), so there are no audio files. They play after the first click or tap, which is a browser rule. The speaker button in the top bar mutes them.
+
+| Moment | Sound |
+|---|---|
+| Lock-in on the board | "dunk-ding" |
+| The 4 seconds after one side answers | Ticking clock with a heartbeat, faster in the last second, then a buzzer |
+| Correct / wrong answer | Short jingle / low "bonk" |
+| Chaser gains a step | Ominous low hit |
+| Player reaches home, or the team wins | Brass fanfare |
+| Player caught, or the chaser wins | Boom + sad trombone |
+| New player and the final | Dramatic sting |
 
 ## Changing timers or rules
 

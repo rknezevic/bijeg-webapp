@@ -6,6 +6,8 @@ import { Track } from '../components/Track';
 import { AnswerForm } from '../components/AnswerForm';
 import { AnswerReveal, Icon } from '../components/AnswerReveal';
 import { useRoom } from '../lib/useRoom';
+import { useGameSounds } from '../lib/useGameSounds';
+import { isMuted, setMuted, sfx } from '../lib/sound';
 import { api } from '../lib/api';
 import { CATEGORY, PHASE_LABEL, PHASE_SECONDS, euro, koraka } from '../lib/format';
 import type { FeedEntry, Player, QuestionView, Room } from '../types';
@@ -24,8 +26,10 @@ export interface Ctx {
 }
 
 export function Game({ roomId, uid }: { roomId: string; uid: string }) {
-  const { room, players, error, now, refresh } = useRoom(roomId);
+  const { room, players, error, now, refresh, serverOffset } = useRoom(roomId);
   const [toast, setToast] = useState<string | null>(null);
+  const [muted, setMutedState] = useState(isMuted());
+  useGameSounds(room, serverOffset);
 
   useEffect(() => {
     if (!toast) return;
@@ -77,6 +81,22 @@ export function Game({ roomId, uid }: { roomId: string; uid: string }) {
         <Logo small />
         <span className="topbar__phase">{PHASE_LABEL[room.phase]}</span>
         <span className="topbar__code">{room.code}</span>
+        <button
+          type="button"
+          className="sound-toggle"
+          aria-label={muted ? 'Uključi zvuk' : 'Isključi zvuk'}
+          aria-pressed={!muted}
+          onClick={() => {
+            setMuted(!muted);
+            setMutedState(!muted);
+            if (muted) sfx.correct();
+          }}
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+            <path d="M11 5 6 9H2v6h4l5 4V5z" />
+            {muted ? <path d="m23 9-6 6M17 9l6 6" /> : <path d="M15.5 8.5a5 5 0 0 1 0 7M19 5a10 10 0 0 1 0 14" />}
+          </svg>
+        </button>
       </header>
       <main className="stage" key={room.phase === 'h2h_reveal' ? 'h2h' : room.phase}>
         <PhaseView ctx={ctx} />
@@ -124,8 +144,8 @@ function PhaseView({ ctx }: { ctx: Ctx }) {
 
 // ---------------------------------------------------------------------------
 
-function Timer({ ctx, size, seconds }: { ctx: Ctx; size?: number; seconds?: boolean }) {
-  const total = PHASE_SECONDS[ctx.room.phase] ?? 10;
+function Timer({ ctx, size, seconds, total: override }: { ctx: Ctx; size?: number; seconds?: boolean; total?: number }) {
+  const total = override ?? PHASE_SECONDS[ctx.room.phase] ?? 10;
   return <Countdown endsAt={ctx.room.phase_ends_at} now={ctx.now} total={total} size={size} seconds={seconds} />;
 }
 
@@ -302,7 +322,7 @@ function HeadToHead({ ctx }: { ctx: Ctx }) {
       <div className="duel__question">
         <div className="row-between">
           <span className="eyebrow">Pitanje {h.n}</span>
-          {!reveal && <Timer ctx={ctx} size={56} seconds />}
+          {!reveal && <Timer ctx={ctx} size={56} seconds total={h.rush ? 4 : 20} />}
         </div>
         <QuestionCard q={q} />
         <div className="options">
@@ -332,6 +352,11 @@ function HeadToHead({ ctx }: { ctx: Ctx }) {
           })}
         </div>
 
+        {!reveal && h.rush && myPick === null && canAnswer && (
+          <div className="rush pop" role="alert">
+            {isPlayer ? cName : pName}: odgovor zaključan! Imaš još 4 sekunde!
+          </div>
+        )}
         {reveal ? (
           <RevealBanner ctx={ctx} />
         ) : (

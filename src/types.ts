@@ -47,6 +47,8 @@ export interface H2HState {
   q: QuestionView | null;
   lockP: boolean;
   lockC: boolean;
+  /** true once one side has answered: the other has 4 seconds */
+  rush?: boolean;
   reveal: {
     correct: number;
     p: number | null;

@@ -735,6 +735,16 @@ end $$;
 -- Permissions
 -- ---------------------------------------------------------------------
 
+-- Newer Supabase projects no longer grant table access by default, so grant it explicitly.
+grant usage on schema public to anon, authenticated;
+grant select on public.rooms, public.room_players to authenticated;
+grant execute on function public.server_now(), public.create_room(text), public.join_room(text, text),
+  public.room_info(text), public.choose_role(uuid, text, int), public.start_game(uuid), public.reset_room(uuid),
+  public.tick(uuid), public.cash_answer(uuid, bigint, text), public.set_offers(uuid, int, int),
+  public.pick_offer(uuid, text), public.h2h_answer(uuid, bigint, int), public.final_answer(uuid, bigint, text),
+  public.is_member(uuid), public.norm_answer(text), public.check_answer(text, text, text[])
+  to authenticated;
+
 revoke all on public.room_secrets from anon, authenticated;
 revoke all on public.questions from anon, authenticated;
 revoke insert, update, delete on public.rooms, public.room_players from anon, authenticated;
