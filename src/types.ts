@@ -13,7 +13,7 @@ export type Phase =
   | 'final_pushback'
   | 'finished';
 
-export type Category = 'hrvatska' | 'opce' | 'nogomet' | 'sport' | 'geografija' | 'matematika' | 'glazba' | 'stihovi';
+export type Category = 'hrvatska' | 'opce' | 'nogomet' | 'sport' | 'geografija' | 'matematika' | 'glazba' | 'stihovi' | 'igrice';
 
 export interface QuestionView {
   id: number;

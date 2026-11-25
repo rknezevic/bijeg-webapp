@@ -12,6 +12,7 @@ export const CATEGORY: Record<Category, string> = {
   matematika: 'Matematika',
   glazba: 'Prepoznaj pjesmu',
   stihovi: 'Nadopuni stih',
+  igrice: 'Video igre',
 };
 
 /** Full length of each timed phase, used to draw the countdown ring. */
