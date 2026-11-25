@@ -1,0 +1,8 @@
+# Nadopuni stih — pitanja za ploču (dvoboj). Upišite ih sami, jedno pitanje po retku.
+# Format:
+#   izvođač | naslov | stih s ___ na mjestu riječi koja nedostaje | točna riječ | drugi prihvaćeni odgovori (;) | dvije netočne riječi (;)
+# Na ploči se prikaže:  Nadopuni stih (izvođač – naslov): „… ___ …”  i tri ponuđena odgovora.
+# Nakon izmjene pokrenite  npm run questions  i u Supabaseu ponovno pokrenite supabase/seed.sql.
+#
+# Primjer (hrvatska himna, tekst iz 1835., javno dobro) — makni # ispred da ga uključiš:
+# Antun Mihanović | Lijepa naša domovino | Lijepa naša domovino, oj junačka ___ mila | zemljo | | majko; diko

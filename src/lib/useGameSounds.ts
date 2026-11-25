@@ -70,14 +70,19 @@ export function useGameSounds(room: Room | null, offsetMs: () => number) {
     if (!rushing || !endsAt) return;
     const timers: number[] = [];
     const remaining = new Date(endsAt).getTime() - (Date.now() + offsetMs());
-    // Tick every 500 ms, every 250 ms in the last second.
+    if (remaining <= 0) return;
+    const stopTension = sfx.tension(remaining / 1000);
+    // Fast tick-tock every 333 ms, racing every 125 ms in the last second.
     const marks: number[] = [];
-    for (let t = remaining; t > 1000; t -= 500) marks.push(t);
-    for (let t = Math.min(1000, remaining); t > 0; t -= 250) marks.push(t);
+    for (let t = remaining; t > 1000; t -= 333) marks.push(t);
+    for (let t = Math.min(1000, remaining); t > 0; t -= 125) marks.push(t);
     marks.forEach((left, i) => {
       timers.push(window.setTimeout(() => sfx.tick(i, left <= 1000), remaining - left));
     });
-    timers.push(window.setTimeout(() => sfx.buzzer(), Math.max(0, remaining)));
-    return () => timers.forEach((t) => window.clearTimeout(t));
+    timers.push(window.setTimeout(() => sfx.buzzer(), remaining));
+    return () => {
+      timers.forEach((t) => window.clearTimeout(t));
+      stopTension();
+    };
   }, [rushing, endsAt, offsetMs]);
 }

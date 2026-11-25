@@ -13,13 +13,15 @@ export type Phase =
   | 'final_pushback'
   | 'finished';
 
-export type Category = 'hrvatska' | 'opce' | 'nogomet' | 'sport' | 'geografija' | 'matematika';
+export type Category = 'hrvatska' | 'opce' | 'nogomet' | 'sport' | 'geografija' | 'matematika' | 'glazba' | 'stihovi';
 
 export interface QuestionView {
   id: number;
   text: string;
   cat: Category;
   options?: string[];
+  /** song questions: Deezer track + where in the 30 s preview to start */
+  audio?: { deezer: number; start: number };
 }
 
 export interface CashState {

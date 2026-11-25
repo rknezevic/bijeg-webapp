@@ -197,3 +197,33 @@ begin
   raise notice 'questions used: %', (select count(*) from public.questions where times_used > 0);
   raise notice 'ALL GOOD';
 end $$;
+
+-- Song questions: force a few and check shape + answer handling.
+do $$
+declare q jsonb; s public.room_secrets; rid uuid;
+begin
+  select id into rid from public.rooms limit 1;
+  for i in 1..5 loop
+    q := public._song_q(rid);
+    select * into s from public.room_secrets where room_id = rid;
+    assert q->>'cat' = 'glazba' and jsonb_array_length(q->'options') = 3, 'song shape';
+    assert (q->'options'->>s.correct_idx) = s.ans, 'song correct index';
+    assert (q->'audio'->>'deezer')::bigint > 0, 'deezer id';
+  end loop;
+  raise notice 'SONGS OK: %', q;
+end $$;
+
+do $$
+declare rid uuid; q public.questions; n int := 0; mc jsonb;
+begin
+  select id into rid from public.rooms limit 1;
+  for i in 1..30 loop
+    q := public._pick_q(rid);
+    assert q.category <> 'stihovi', 'lyrics must not appear in open rounds';
+  end loop;
+  for i in 1..40 loop
+    mc := public._mc_q(rid);
+    if mc->>'cat' = 'stihovi' then n := n + 1; end if;
+  end loop;
+  raise notice 'LYRICS OK: % lyric questions on the board out of 40', n;
+end $$;

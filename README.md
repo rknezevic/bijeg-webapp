@@ -11,7 +11,11 @@ A multiplayer quiz game in the style of a TV chase show, in Croatian. One **chas
 3. **Create the database.** In the *SQL Editor*, run these two files in order:
    1. `supabase/migrations/20261125000000_init.sql`: tables, security and game logic.
    2. `supabase/migrations/20261125010000_h2h_rush.sql`: the 4-second rule on the board.
-   3. `supabase/seed.sql`: 1,900 questions.
+   3. `supabase/migrations/20261125020000_songs.sql`: song recognition on the board.
+   4. `supabase/seed.sql`: 1,900 questions.
+   5. `supabase/seed_songs.sql`: 560 songs.
+   6. `supabase/migrations/20261125030000_stihovi.sql`: "Nadopuni stih" questions on the board.
+   7. `supabase/migrations/20261125040000_high_offer.sql`: higher offer leaves one empty step between the chaser and the player.
 
    If you use the Supabase CLI instead, run `supabase db push` and then run `seed.sql`.
 4. **Check Realtime.** Under *Database → Publications → supabase_realtime*, the tables `rooms` and `room_players` must be on. The migration turns them on, but it's worth checking.
@@ -40,7 +44,7 @@ SPA routing is already set up (`vercel.json`, `public/_redirects`).
 | Lobby | Everyone joins through `/s/CODE`. Each person picks the chaser seat (only one) or a player seat (1–4). The host starts the game. |
 | Intro | "Na redu je …" animation (5 s). |
 | Cash builder | 60 s of open questions, 500 € per correct answer. *Dalje* skips. After a wrong answer or a skip, the correct answer shows briefly and the next question appears right away. |
-| Offer | The chaser sets a higher offer (start 2 steps ahead of the chaser) and a lower offer (start 4 steps ahead). The player picks: higher offer, own amount (3 steps ahead), or lower offer. If time runs out, the player keeps their own amount. |
+| Offer | The chaser sets a higher offer (one empty step between the chaser and the player) and a lower offer (start 4 steps ahead). The player picks: higher offer, own amount (3 steps ahead), or lower offer. If time runs out, the player keeps their own amount. |
 | Head-to-head | A/B/C questions. The player and the chaser each answer on their own screen. Answers are revealed only once both have locked in. As soon as one side locks in, the other has only 4 seconds left (with a ticking clock). Every step the chaser has covered turns red. A player who reaches the bottom row (CILJ) is home and adds their money to the team pot. A player the chaser catches is out and watches the rest of the game. |
 | Final (team) | 2 minutes. Only the first answer typed by any finalist counts. Each player who made it home gives the team 1 step head start. If nobody made it home, every player plays the final for their cash-builder money. |
 | Final (chaser) | 2 minutes. When the chaser answers wrong or passes, the clock stops and the captain (the first finalist by seat) gets 10 seconds to answer. A correct answer pushes the chaser back one step. If the chaser is still at 0, the team gets an extra step instead. |
@@ -96,6 +100,16 @@ Some answers must still be exact:
 - **Numbers** must match exactly. "45" and "45 minuta" both count; "40" doesn't.
 - **Very short words** must be typed exactly, so "Iran" ≠ "Irak" and "vitamin C" ≠ "vitamin D".
 - **Nicknames and short forms** are accepted only when they're listed in the file as accepted answers ("Mandžo", "Plitvice").
+
+## Song recognition
+
+About 30 % of board (head-to-head) questions are "Koja je ovo pjesma?". The player's and the chaser's phones automatically play a 15-second slice from a random point in the song's 30-second Deezer preview. Spectators press play themselves. The three options are the correct song plus two other songs from the same region (Balkan or international).
+
+Songs live in `questions/pjesme.txt` (`regija | izvođač | naslov | Deezer ID`). The ID is the number in `deezer.com/track/<ID>`. Run `npm run questions` to regenerate `supabase/seed_songs.sql`, then run that file in the SQL Editor again.
+
+## "Nadopuni stih" (fill in the lyric)
+
+Write your own lyric questions in `questions/stihovi.txt` (the format is explained at the top of the file). They appear only on the board, as about 20 % of questions once there are some. Run `npm run questions`, then run `supabase/seed.sql` again in the SQL Editor.
 
 ## Sounds
 

@@ -3,6 +3,7 @@ import { Logo, Shell } from '../components/ui';
 import { Ladder } from '../components/Ladder';
 import { Countdown } from '../components/Countdown';
 import { Track } from '../components/Track';
+import { SongClip } from '../components/SongClip';
 import { AnswerForm } from '../components/AnswerForm';
 import { AnswerReveal, Icon } from '../components/AnswerReveal';
 import { useRoom } from '../lib/useRoom';
@@ -233,7 +234,7 @@ function OfferSet({ ctx }: { ctx: Ctx }) {
         >
           <p className="muted">Ponudi više novca za start bliže tebi, ili manje za start bliže cilju.</p>
           <label className="label" htmlFor="hi">
-            Viša ponuda (2 koraka ispred tebe)
+            Viša ponuda (1 prazna stepenica između tebe i igrača)
           </label>
           <input id="hi" className="input input--red" type="number" inputMode="numeric" step={500} value={high} onChange={(e) => setHigh(e.target.value)} />
           <label className="label" htmlFor="lo">
@@ -325,6 +326,7 @@ function HeadToHead({ ctx }: { ctx: Ctx }) {
           {!reveal && <Timer ctx={ctx} size={56} seconds total={h.rush ? 4 : 20} />}
         </div>
         <QuestionCard q={q} />
+        {q?.audio && <SongClip key={q.id} deezer={q.audio.deezer} start={q.audio.start} autoPlay={isPlayer || isChaser} />}
         <div className="options">
           {q?.options?.map((opt, i) => {
             let cls = 'option';
