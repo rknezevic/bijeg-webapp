@@ -259,7 +259,7 @@ function OfferPick({ ctx }: { ctx: Ctx }) {
     <div className="col">
       <div className="row-between">
         <div>
-          <span className="eyebrow">Prije dvoboja</span>
+          <span className="eyebrow">Prije susreta</span>
           <h2 className="h2">
             <span className="txt-red">{ctx.chaser?.nickname}</span> nudi
           </h2>
