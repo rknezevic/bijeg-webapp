@@ -1,0 +1,417 @@
+# Nogomet — svjetska prvenstva, Euro, Liga prvaka, najjače lige
+# --- Svjetsko prvenstvo ---
+Koja je država osvojila prvo Svjetsko prvenstvo 1930.? | Urugvaj | | Argentina; Brazil
+Koja je država bila domaćin prvog Svjetskog prvenstva? | Urugvaj | | Italija; Brazil
+Koja je reprezentacija osvojila najviše svjetskih prvenstava? | Brazil | | Njemačka; Italija
+Koliko je naslova svjetskog prvaka osvojio Brazil? | 5 | pet | 4; 6
+Tko je osvojio Svjetsko prvenstvo 2022. u Kataru? | Argentina | | Francuska; Hrvatska
+Tko je osvojio Svjetsko prvenstvo 2018. u Rusiji? | Francuska | | Hrvatska; Belgija
+Tko je osvojio Svjetsko prvenstvo 2014. u Brazilu? | Njemačka | | Argentina; Nizozemska
+Tko je osvojio Svjetsko prvenstvo 2010. u Južnoj Africi? | Španjolska | | Nizozemska; Njemačka
+Tko je osvojio Svjetsko prvenstvo 2006. u Njemačkoj? | Italija | | Francuska; Njemačka
+Tko je osvojio Svjetsko prvenstvo 2002.? | Brazil | | Njemačka; Turska
+Tko je osvojio Svjetsko prvenstvo 1998.? | Francuska | | Brazil; Hrvatska
+Tko je osvojio Svjetsko prvenstvo 1994. u SAD-u? | Brazil | | Italija; Švedska
+Tko je osvojio Svjetsko prvenstvo 1990. u Italiji? | Zapadna Njemačka | Njemačka; SR Njemačka | Argentina; Italija
+Tko je osvojio Svjetsko prvenstvo 1986. u Meksiku? | Argentina | | Zapadna Njemačka; Francuska
+Tko je osvojio Svjetsko prvenstvo 1966.? | Engleska | | Zapadna Njemačka; Portugal
+Tko je osvojio Svjetsko prvenstvo 1982. u Španjolskoj? | Italija | | Zapadna Njemačka; Brazil
+Tko je osvojio Svjetsko prvenstvo 1978.? | Argentina | | Nizozemska; Brazil
+Tko je osvojio Svjetsko prvenstvo 1970. u Meksiku? | Brazil | | Italija; Zapadna Njemačka
+Tko je osvojio Svjetsko prvenstvo 1974.? | Zapadna Njemačka | Njemačka; SR Njemačka | Nizozemska; Poljska
+Koja je zemlja bila domaćin Svjetskog prvenstva 2014.? | Brazil | | Argentina; Rusija
+Koja je zemlja bila domaćin Svjetskog prvenstva 2010.? | Južna Afrika | JAR; Južnoafrička Republika | Egipat; Maroko
+Koja je zemlja suorganizator SP-a 2002. stigla do polufinala? | Južna Koreja | Koreja | Japan; Kina
+Koja je zemlja bila domaćin Svjetskog prvenstva 2006.? | Njemačka | | Francuska; Italija
+Koja je zemlja bila domaćin Svjetskog prvenstva 1998.? | Francuska | | Italija; SAD
+Koja je zemlja bila domaćin Svjetskog prvenstva 1990.? | Italija | | Španjolska; Meksiko
+Koja je zemlja dvaput bila domaćin Svjetskog prvenstva, 1970. i 1986.? | Meksiko | | Brazil; Argentina
+Koliko će reprezentacija igrati na Svjetskom prvenstvu 2026.? | 48 | četrdeset osam | 32; 40
+Koja će zemlja odigrati najviše utakmica kao domaćin Svjetskog prvenstva 2026.? | SAD | Sjedinjene Američke Države; Amerika | Brazil; Australija
+Koja će država organizirati Svjetsko prvenstvo 2034.? | Saudijska Arabija | | Katar; Australija
+Koja je afrička zemlja jedan od domaćina Svjetskog prvenstva 2030.? | Maroko | | Egipat; Alžir
+Koji je mjesec počelo Svjetsko prvenstvo 2022. u Kataru? | studeni | novembar | lipanj; listopad
+Koliko je reprezentacija igralo na Svjetskom prvenstvu 2022.? | 32 | | 24; 48
+Tko je najbolji strijelac u povijesti svjetskih prvenstava? | Miroslav Klose | Klose | Ronaldo; Lionel Messi
+Koliko je golova Miroslav Klose zabio na svjetskim prvenstvima? | 16 | šesnaest | 15; 13
+Koji je Francuz zabio 13 golova na samo jednom prvenstvu, 1958.? | Just Fontaine | Fontaine | Raymond Kopa; Michel Platini
+Tko je osvojio Zlatnu kopačku na Svjetskom prvenstvu 2022.? | Kylian Mbappé | Mbappe; Mbappé | Lionel Messi; Olivier Giroud
+Koliko je golova Mbappé zabio na Svjetskom prvenstvu 2022.? | 8 | osam | 7; 6
+Tko je zabio hat-trick u finalu Svjetskog prvenstva 2022.? | Kylian Mbappé | Mbappe; Mbappé | Lionel Messi; Ángel Di María
+Tko je osvojio Zlatnu kopačku na Svjetskom prvenstvu 2018.? | Harry Kane | Kane | Antoine Griezmann; Romelu Lukaku
+Tko je osvojio Zlatnu kopačku na Svjetskom prvenstvu 2014.? | James Rodríguez | James; James Rodriguez | Thomas Müller; Lionel Messi
+Tko je osvojio Zlatnu kopačku na Svjetskom prvenstvu 2002.? | Ronaldo | Ronaldo Nazário; Ronaldo Nazario | Rivaldo; Miroslav Klose
+Tko je bio najbolji strijelac Svjetskog prvenstva 1990.? | Salvatore Schillaci | Schillaci; Totò Schillaci | Roberto Baggio; Gary Lineker
+Tko je bio najbolji strijelac Svjetskog prvenstva 1986.? | Gary Lineker | Lineker | Diego Maradona; Emilio Butragueño
+Tko je bio najbolji strijelac Svjetskog prvenstva 1982. i odveo Italiju do naslova? | Paolo Rossi | Rossi | Dino Zoff; Karl-Heinz Rummenigge
+Tko je bio najbolji igrač (Zlatna lopta) Svjetskog prvenstva 2018.? | Luka Modrić | Modrić | Kylian Mbappé; Eden Hazard
+Tko je proglašen najboljim igračem Svjetskog prvenstva 2022.? | Lionel Messi | Messi | Kylian Mbappé; Luka Modrić
+Koji je vratar proglašen najboljim igračem Svjetskog prvenstva 2002.? | Oliver Kahn | Kahn | Gianluigi Buffon; Rüştü Reçber
+Tko je zabio pobjednički gol u finalu Svjetskog prvenstva 2014.? | Mario Götze | Götze; Gotze | Thomas Müller; André Schürrle
+Tko je zabio pobjednički gol u finalu Svjetskog prvenstva 2010.? | Andrés Iniesta | Iniesta | Xavi; David Villa
+Protiv koje je reprezentacije Španjolska igrala finale 2010.? | Nizozemska | Holandija | Njemačka; Urugvaj
+Koji je francuski igrač isključen u finalu 2006. zbog udarca glavom? | Zinedine Zidane | Zidane; Zizou | Thierry Henry; Patrick Vieira
+Kojeg je talijanskog igrača Zidane udario glavom u finalu 2006.? | Marco Materazzi | Materazzi | Fabio Cannavaro; Gennaro Gattuso
+Koji je talijanski igrač promašio odlučujući penal u finalu 1994.? | Roberto Baggio | Baggio | Franco Baresi; Paolo Maldini
+Tko je zabio dva gola u finalu Svjetskog prvenstva 1998.? | Zinedine Zidane | Zidane; Zizou | Thierry Henry; Emmanuel Petit
+Tko je zabio oba gola Brazila u finalu Svjetskog prvenstva 2002.? | Ronaldo | Ronaldo Nazário | Rivaldo; Ronaldinho
+Koji je engleski igrač zabio hat-trick u finalu Svjetskog prvenstva 1966.? | Geoff Hurst | Hurst | Bobby Charlton; Martin Peters
+Protiv koga je Maradona zabio gol „Božjom rukom” 1986.? | Engleska | | Zapadna Njemačka; Belgija
+Koji je igrač osvojio tri svjetska prvenstva? | Pelé | Pele | Diego Maradona; Ronaldo
+Koliki je bio rezultat polufinala Brazil – Njemačka na Svjetskom prvenstvu 2014.? | 1:7 | 1-7; 7:1; 7-1 | 0:5; 2:6
+Kako se naziva poraz Brazila od Urugvaja u odlučujućoj utakmici 1950.? | Maracanazo | Maracanaço | Mineirazo; Centenario
+Koje je mjesto Hrvatska osvojila na Svjetskom prvenstvu 1998.? | treće | 3; 3. mjesto; brončanu medalju | drugo; četvrto
+Koga je Hrvatska pobijedila u utakmici za treće mjesto 1998.? | Nizozemska | Holandija | Brazil; Njemačka
+Koji je francuski branič zabio oba gola Hrvatskoj u polufinalu 1998.? | Lilian Thuram | Thuram | Laurent Blanc; Marcel Desailly
+Koju je reprezentaciju Hrvatska pobijedila 3:0 u četvrtfinalu 1998.? | Njemačka | | Rumunjska; Italija
+Koga je Hrvatska pobijedila u polufinalu Svjetskog prvenstva 2018.? | Engleska | | Rusija; Danska
+Tko je zabio pobjednički gol protiv Engleske u polufinalu 2018.? | Mario Mandžukić | Mandžukić; Mandžo | Ivan Perišić; Andrej Kramarić
+Tko je zabio prvi gol Hrvatske protiv Engleske u polufinalu 2018.? | Ivan Perišić | Perišić | Mario Mandžukić; Ante Rebić
+S kojim je rezultatom Francuska pobijedila Hrvatsku u finalu 2018.? | 4:2 | 4-2 | 3:1; 2:1
+Koju je reprezentaciju Hrvatska izbacila jedanaestercima u četvrtfinalu 2018.? | Rusija | | Danska; Švedska
+Koji je hrvatski vratar obranio tri jedanaesterca Danskoj 2018.? | Danijel Subašić | Subašić | Dominik Livaković; Lovre Kalinić
+Koji je hrvatski vratar obranio četiri jedanaesterca Japanu i Brazilu 2022.? | Dominik Livaković | Livaković | Danijel Subašić; Ivica Ivušić
+Koju je reprezentaciju Hrvatska izbacila u četvrtfinalu Svjetskog prvenstva 2022.? | Brazil | | Argentina; Japan
+Tko je zabio izjednačujući gol Hrvatske protiv Brazila 2022.? | Bruno Petković | Petković | Andrej Kramarić; Ivan Perišić
+Koga je Hrvatska pobijedila u utakmici za treće mjesto 2022.? | Maroko | | Belgija; Francuska
+Tko je zabio pobjednički gol za treće mjesto protiv Maroka 2022.? | Mislav Oršić | Oršić | Joško Gvardiol; Lovro Majer
+Koja je afrička reprezentacija prva stigla do polufinala Svjetskog prvenstva (2022.)? | Maroko | | Senegal; Gana
+Tko je bio izbornik Argentine na Svjetskom prvenstvu 2022.? | Lionel Scaloni | Scaloni | Jorge Sampaoli; Gerardo Martino
+Tko je bio izbornik Francuske kad je osvojila naslov 2018.? | Didier Deschamps | Deschamps | Laurent Blanc; Zinedine Zidane
+Tko je kao kapetan podigao pokal 1998., a kao izbornik 2018.? | Didier Deschamps | Deschamps | Zinedine Zidane; Laurent Blanc
+Tko je bio izbornik Njemačke kad je osvojila naslov 2014.? | Joachim Löw | Löw; Low; Jogi Löw | Jürgen Klinsmann; Hansi Flick
+Tko je bio izbornik Španjolske kad je osvojila naslov 2010.? | Vicente del Bosque | del Bosque | Luis Aragonés; Luis Enrique
+Koji je Nijemac osvojio Svjetsko prvenstvo i kao igrač (1974.) i kao izbornik (1990.)? | Franz Beckenbauer | Beckenbauer | Gerd Müller; Berti Vogts
+Kako se zvala maskota SP-a 1966., prva maskota svjetskih prvenstava? | Willie | lav Willie; World Cup Willie | Pique; Zakumi
+Koji igrač ima najviše nastupa na svjetskim prvenstvima? | Lionel Messi | Messi | Lothar Matthäus; Miroslav Klose
+Koji je igrač zabio najbrži gol u povijesti svjetskih prvenstava, 2002.? | Hakan Şükür | Hakan Sukur; Şükür | Ronaldo; Clint Dempsey
+Na kojem je Svjetskom prvenstvu prvi put korišten VAR? | 2018 | Rusija 2018 | 2014; 2022
+Koja je reprezentacija igrala tri finala svjetskih prvenstava i nijedno nije osvojila? | Nizozemska | Holandija | Mađarska; Švedska
+U kojem gradu se nalazi sjedište FIFA-e? | Zürich | Zurich; Cirih | Ženeva; Nyon
+U kojem se gradu nalazi sjedište UEFA-e? | Nyon | | Zürich; Bruxelles
+Koje je godine osnovana FIFA? | 1904 | | 1930; 1954
+Kako se zove pokal koji se od 1974. dodjeljuje svjetskom prvaku? | Pokal FIFA Svjetskog prvenstva | FIFA World Cup Trophy; FIFA pokal | Jules Rimet; Henri Delaunay
+Kako se zvao prvi pokal svjetskog prvenstva, koji je Brazil zauvijek zadržao 1970.? | Jules Rimet | pokal Jules Rimet | Henri Delaunay; Coupe du Monde
+# --- Europsko prvenstvo ---
+Tko je osvojio Europsko prvenstvo 2024.? | Španjolska | | Engleska; Francuska
+Koja je zemlja bila domaćin Europskog prvenstva 2024.? | Njemačka | | Francuska; Engleska
+Protiv koga je Španjolska igrala finale Eura 2024.? | Engleska | | Francuska; Njemačka
+Tko je osvojio Europsko prvenstvo 2020. (igrano 2021.)? | Italija | | Engleska; Španjolska
+Na kojem je stadionu igrano finale Eura 2020.? | Wembley | | Olimpijski stadion u Rimu; Stade de France
+Tko je osvojio Europsko prvenstvo 2016. u Francuskoj? | Portugal | | Francuska; Wales
+Tko je zabio pobjednički gol u finalu Eura 2016.? | Éder | Eder | Cristiano Ronaldo; Nani
+Tko je osvojio Europsko prvenstvo 2012.? | Španjolska | | Italija; Njemačka
+Koliki je bio rezultat finala Eura 2012. Španjolska – Italija? | 4:0 | 4-0 | 2:0; 3:1
+Tko je osvojio Europsko prvenstvo 2008.? | Španjolska | | Njemačka; Rusija
+Tko je zabio pobjednički gol u finalu Eura 2008.? | Fernando Torres | Torres | David Villa; Xavi
+Koja je reprezentacija iznenađujuće osvojila Euro 2004.? | Grčka | | Portugal; Češka
+Tko je zabio pobjednički gol Grčke u finalu Eura 2004.? | Angelos Charisteas | Charisteas; Haristeas | Theodoros Zagorakis; Giorgos Karagounis
+Tko je osvojio Europsko prvenstvo 2000.? | Francuska | | Italija; Nizozemska
+Tko je osvojio Europsko prvenstvo 1996. u Engleskoj? | Njemačka | | Češka; Engleska
+Koja je reprezentacija osvojila Euro 1992. iako se naknadno uključila umjesto Jugoslavije? | Danska | | Švedska; Nizozemska
+Tko je osvojio Europsko prvenstvo 1988.? | Nizozemska | Holandija | SSSR; Zapadna Njemačka
+Koji je Nizozemac zabio slavni volej u finalu Eura 1988.? | Marco van Basten | van Basten | Ruud Gullit; Frank Rijkaard
+Koji je francuski igrač zabio 9 golova na Euru 1984.? | Michel Platini | Platini | Jean Tigana; Alain Giresse
+Koja je reprezentacija osvojila prvo Europsko prvenstvo 1960.? | Sovjetski Savez | SSSR; Rusija | Jugoslavija; Španjolska
+Koji je čehoslovački igrač izveo slavni „lobani” jedanaesterac u finalu 1976.? | Antonín Panenka | Panenka | Josef Masopust; Pavel Nedvěd
+U kojem je gradu igrano finale Eura 1976.? | Beograd | | Zagreb; Prag
+Tko je najbolji strijelac u povijesti europskih prvenstava? | Cristiano Ronaldo | Ronaldo; CR7 | Michel Platini; Antoine Griezmann
+Koja će zemlja, uz Tursku, organizirati Euro 2032.? | Italija | | Grčka; Španjolska
+U kojoj će zemlji, uz Wales, Škotsku i Irsku, biti većina utakmica Eura 2028.? | Engleska | Ujedinjeno Kraljevstvo | Francuska; Njemačka
+Koje je godine Hrvatska prvi put igrala na Europskom prvenstvu? | 1996 | | 1992; 2000
+Tko je izbacio Hrvatsku jedanaestercima u četvrtfinalu Eura 2008.? | Turska | | Rusija; Španjolska
+Koji je hrvatski igrač zabio Turskoj u 119. minuti četvrtfinala Eura 2008.? | Ivan Klasnić | Klasnić | Ivica Olić; Luka Modrić
+Tko je bio izbornik Hrvatske na Euru 2008.? | Slaven Bilić | Bilić | Zlatko Kranjčar; Igor Štimac
+# --- Liga prvaka / Kup prvaka ---
+Koji klub ima najviše naslova europskog prvaka (Kup prvaka / Liga prvaka)? | Real Madrid | Real | Milan; Bayern München
+Koji je klub osvojio prvih pet Kupova prvaka zaredom (1956.–1960.)? | Real Madrid | Real | Benfica; Milan
+Tko je osvojio Ligu prvaka 2024.? | Real Madrid | Real | Borussia Dortmund; Bayern München
+Protiv koga je Real Madrid igrao finale Lige prvaka 2024.? | Borussia Dortmund | Dortmund; BVB | Bayern München; Manchester City
+Tko je osvojio Ligu prvaka 2023.? | Manchester City | City; Man City | Inter; Real Madrid
+Koji je igrač zabio jedini gol finala Lige prvaka 2023.? | Rodri | Rodrigo Hernández | Kevin De Bruyne; Erling Haaland
+U kojem je gradu igrano finale Lige prvaka 2023.? | Istanbul | Istambul | Pariz; Porto
+Tko je osvojio Ligu prvaka 2022.? | Real Madrid | Real | Liverpool; Manchester City
+Tko je osvojio Ligu prvaka 2021.? | Chelsea | | Manchester City; PSG
+Tko je osvojio Ligu prvaka 2020. u Lisabonu? | Bayern München | Bayern; Bayern Munchen | PSG; RB Leipzig
+Tko je osvojio Ligu prvaka 2019.? | Liverpool | | Tottenham; Barcelona
+Protiv koga je Liverpool igrao finale Lige prvaka 2019.? | Tottenham | Tottenham Hotspur; Spurs | Chelsea; Ajax
+Koji je klub osvojio Ligu prvaka tri puta zaredom od 2016. do 2018.? | Real Madrid | Real | Barcelona; Bayern München
+Tko je osvojio Ligu prvaka 2015.? | Barcelona | Barca; Barça | Juventus; Real Madrid
+Tko je osvojio Ligu prvaka 2013. u njemačkom finalu? | Bayern München | Bayern | Borussia Dortmund; Schalke 04
+Tko je osvojio Ligu prvaka 2012. nakon jedanaesteraca u Münchenu? | Chelsea | | Bayern München; Barcelona
+Tko je osvojio Ligu prvaka 2010. s Mourinhom? | Inter | Internazionale; Inter Milano | Bayern München; Barcelona
+Tko je osvojio Ligu prvaka 2004. kao iznenađenje, s Mourinhom? | Porto | FC Porto | Monaco; Deportivo
+Koji je klub 2005. u Istanbulu preokrenuo 0:3 protiv Milana? | Liverpool | | Chelsea; Manchester United
+Koji je klub 1999. s dva gola u nadoknadi pobijedio Bayern u finalu? | Manchester United | Man United; United | Arsenal; Juventus
+Koji je jedini francuski klub osvojio Ligu prvaka prije 2025.? | Marseille | Olympique de Marseille; OM | PSG; Monaco
+Koji je jugoslavenski klub osvojio Kup prvaka 1991.? | Crvena zvezda | | Hajduk; Partizan
+Koji je trener osvojio najviše naslova europskog prvaka (Kup prvaka i Liga prvaka)? | Carlo Ancelotti | Ancelotti | Zinedine Zidane; Pep Guardiola
+Koliko je puta zaredom Zidane kao trener osvojio Ligu prvaka? | 3 | tri | 2; 4
+Tko je najbolji strijelac u povijesti Lige prvaka? | Cristiano Ronaldo | Ronaldo; CR7 | Lionel Messi; Robert Lewandowski
+Koji je engleski klub poznat po himni „You'll Never Walk Alone”? | Liverpool | | Manchester United; Celtic
+Kako se zove drugo po jakosti europsko klupsko natjecanje? | Europska liga | Europa League; Liga Europe | Konferencijska liga; Kup UEFA Intertoto
+Koji je klub osvojio najviše naslova Europske lige (Kupa UEFA)? | Sevilla | | Liverpool; Inter
+Kako se zove treće UEFA-ino klupsko natjecanje osnovano 2021.? | Konferencijska liga | Conference League; UEFA Konferencijska liga | Kup Intertoto; Superliga
+# --- Zlatna lopta i igrači ---
+Tko je osvojio najviše Zlatnih lopti? | Lionel Messi | Messi | Cristiano Ronaldo; Michel Platini
+Koliko je Zlatnih lopti osvojio Lionel Messi? | 8 | osam | 7; 6
+Koliko je Zlatnih lopti osvojio Cristiano Ronaldo? | 5 | pet | 4; 6
+Tko je osvojio Zlatnu loptu 2022.? | Karim Benzema | Benzema | Robert Lewandowski; Sadio Mané
+Tko je osvojio Zlatnu loptu 2024.? | Rodri | Rodrigo Hernández | Vinícius Júnior; Jude Bellingham
+Tko je osvojio Zlatnu loptu 2007., posljednji prije ere Messija i Ronalda? | Kaká | Kaka | Ronaldinho; Andrea Pirlo
+Tko je osvojio Zlatnu loptu 2006. nakon naslova svjetskog prvaka? | Fabio Cannavaro | Cannavaro | Gianluigi Buffon; Andrea Pirlo
+Koji je francuski magazin pokrenuo Zlatnu loptu? | France Football | | L'Équipe; Onze Mondial
+U kojem je gradu rođen Lionel Messi? | Rosario | | Buenos Aires; Córdoba
+Na kojem je otoku rođen Cristiano Ronaldo? | Madeira | | Azori; Kanarski otoci
+U kojem je portugalskom klubu Cristiano Ronaldo počeo karijeru? | Sporting | Sporting Lisabon; Sporting CP | Benfica; Porto
+U koji je saudijski klub Cristiano Ronaldo prešao 2023.? | Al-Nassr | Al Nassr | Al-Hilal; Al-Ittihad
+U koji je američki klub Messi prešao 2023.? | Inter Miami | Inter Majami | LA Galaxy; New York City
+Za koji je francuski klub Messi igrao od 2021. do 2023.? | PSG | Paris Saint-Germain; Pariz SG | Marseille; Monaco
+Za koji je klub Neymar igrao prije Barcelone? | Santos | | Flamengo; São Paulo
+Koliko je eura PSG platio Barceloni za Neymara 2017.? (u milijunima) | 222 | 222 milijuna | 180; 160
+Koji je Norvežanin postavio rekord od 36 golova u jednoj sezoni Premier lige? | Erling Haaland | Haaland | Martin Ødegaard; Alexander Sørloth
+Iz kojeg je austrijskog kluba Haaland prešao u Dortmund? | Red Bull Salzburg | Salzburg; RB Salzburg | Rapid Beč; Sturm Graz
+U koji je klub Kylian Mbappé prešao 2024.? | Real Madrid | Real | Liverpool; Barcelona
+U kojem je klubu Mbappé započeo seniorsku karijeru? | Monaco | AS Monaco | PSG; Lyon
+Iz koje je države Mohamed Salah? | Egipat | | Maroko; Alžir
+Iz koje je države Robert Lewandowski? | Poljska | | Češka; Slovačka
+Za koji je klub Lewandowski igrao prije Bayerna? | Borussia Dortmund | Dortmund; BVB | Schalke; Wolfsburg
+Iz koje je države Kevin De Bruyne? | Belgija | | Nizozemska; Danska
+Iz koje je države Zlatan Ibrahimović? | Švedska | | Bosna i Hercegovina; Norveška
+U kojem je švedskom klubu Zlatan počeo karijeru? | Malmö | Malmo; Malmö FF | IFK Göteborg; AIK
+Tko je rekorder po broju golova za reprezentaciju u muškom nogometu? | Cristiano Ronaldo | Ronaldo; CR7 | Ali Daei; Lionel Messi
+Tko je najbolji strijelac u povijesti engleske reprezentacije? | Harry Kane | Kane | Wayne Rooney; Bobby Charlton
+U koji je klub Harry Kane prešao iz Tottenhama 2023.? | Bayern München | Bayern | Manchester United; Real Madrid
+Tko je najbolji strijelac u povijesti Arsenala? | Thierry Henry | Henry | Ian Wright; Robin van Persie
+Tko je najbolji strijelac u povijesti Manchester Uniteda? | Wayne Rooney | Rooney | Bobby Charlton; Ryan Giggs
+Tko je najbolji strijelac u povijesti Premier lige? | Alan Shearer | Shearer | Harry Kane; Wayne Rooney
+U koji je klub David Beckham prešao iz Manchester Uniteda 2003.? | Real Madrid | Real | LA Galaxy; Milan
+Kojeg je američkog kluba David Beckham suvlasnik? | Inter Miami | | LA Galaxy; New York Red Bulls
+Kako se nadimkom zove brazilski napadač Ronaldo, da se razlikuje od Cristiana? | Fenomen | O Fenômeno; Il Fenomeno | Kralj; Čarobnjak
+Koji je brazilski igrač poznat po osmijehu i trikovima, Zlatna lopta 2005.? | Ronaldinho | | Kaká; Rivaldo
+Tko je na Svjetskom prvenstvu 1986. dribljao pola Engleske i zabio „gol stoljeća”? | Diego Maradona | Maradona | Jorge Valdano; Mario Kempes
+U kojem je talijanskom klubu Maradona postao legenda? | Napoli | Napulj; SSC Napoli | Juventus; Roma
+Po kome je preimenovan stadion Napolija 2020.? | Diego Armando Maradona | Maradona; Diego Maradona | Pelé; Gianfranco Zola
+Za koji je brazilski klub Pelé igrao većinu karijere? | Santos | | Flamengo; Corinthians
+Koji je nizozemski velikan dao ime „totalnom nogometu” i Ajaxovu stadionu? | Johan Cruyff | Cruyff; Cruijff | Marco van Basten; Johan Neeskens
+Koji je talijanski vratar bio u sastavu Italije na pet svjetskih prvenstava (1998.–2014.)? | Gianluigi Buffon | Buffon | Dino Zoff; Gianluigi Donnarumma
+Koji je talijanski branič proveo cijelu karijeru u Milanu, 25 sezona? | Paolo Maldini | Maldini | Franco Baresi; Alessandro Nesta
+Koji je igrač Rome proveo cijelu karijeru u klubu i bio „Kralj Rima”? | Francesco Totti | Totti | Daniele De Rossi; Alessandro Del Piero
+Koji je igrač bio kapetan Barcelone i proveo cijelu karijeru u klubu do 2015.? | Xavi | Xavi Hernández | Carles Puyol; Andrés Iniesta
+Koji je velški igrač osvojio pet Liga prvaka s Realom? | Gareth Bale | Bale | Aaron Ramsey; Ryan Giggs
+Koji velški krilni igrač ima najviše nastupa za Manchester United? | Ryan Giggs | Giggs | Gareth Bale; Paul Scholes
+Koji je Liberijac jedini Afrikanac s Zlatnom loptom (1995.)? | George Weah | Weah | Samuel Eto'o; Didier Drogba
+Koji je napadač iz Obale Bjelokosti zabio izjednačujući gol i odlučujući penal u finalu Lige prvaka 2012.? | Didier Drogba | Drogba | Samuel Eto'o; Yaya Touré
+Koji je kamerunski napadač osvojio treble s Barcelonom 2009. i Interom 2010.? | Samuel Eto'o | Eto'o; Etoo | Didier Drogba; Roger Milla
+Koji je Kamerunac s 42 godine zabio na Svjetskom prvenstvu 1994.? | Roger Milla | Milla | Samuel Eto'o; Rigobert Song
+Koji je nizozemski napadač zabio slavni gol Argentini u četvrtfinalu SP-a 1998.? | Dennis Bergkamp | Bergkamp | Patrick Kluivert; Ruud van Nistelrooy
+# --- Hrvatski igrači u inozemstvu ---
+U koji je klub Luka Modrić prešao iz Dinama 2008.? | Tottenham | Tottenham Hotspur; Spurs | Arsenal; Real Madrid
+U koji je talijanski klub Luka Modrić prešao 2025.? | Milan | AC Milan | Inter; Juventus
+Za koji je španjolski klub Ivan Rakitić igrao prije Barcelone? | Sevilla | | Valencia; Atlético Madrid
+U kojem je klubu Ivan Rakitić završio karijeru 2025.? | Hajduk Split | Hajduk | Dinamo Zagreb; Schalke
+Za koji je talijanski klub Zvonimir Boban igrao devet sezona? | Milan | AC Milan | Inter; Juventus
+Za koji je španjolski klub Davor Šuker igrao prije Real Madrida? | Sevilla | | Valencia; Betis
+Za koji je engleski klub Davor Šuker igrao nakon Reala? | Arsenal | | West Ham; Chelsea
+Koji je hrvatski igrač igrao i za Real Madrid i za Barcelonu? | Robert Prosinečki | Prosinečki | Davor Šuker; Ivan Rakitić
+U koji je engleski klub Joško Gvardiol prešao 2023.? | Manchester City | City; Man City | Chelsea; Arsenal
+Iz kojeg je kluba Gvardiol prešao u Manchester City? | RB Leipzig | Leipzig | Dinamo Zagreb; Bayern
+Za koji je talijanski klub Mario Mandžukić igrao od 2015. do 2019.? | Juventus | | Milan; Inter
+S kojim je klubom Mandžukić osvojio Ligu prvaka 2013.? | Bayern München | Bayern | Juventus; Atlético Madrid
+Za koji je talijanski klub Marcelo Brozović igrao osam sezona? | Inter | Internazionale | Milan; Roma
+S kojim je klubom Ivan Perišić osvojio treble 2020.? | Bayern München | Bayern | Inter; Tottenham
+Koji je hrvatski trener vodio Bayern do dvostruke krune 2019.? | Niko Kovač | Kovač | Robert Kovač; Slaven Bilić
+Koji je hrvatski trener vodio West Ham u Premier ligi? | Slaven Bilić | Bilić | Igor Štimac; Ivan Jurić
+Koji je hrvatski igrač osvojio Ligu prvaka s Chelseajem 2021.? | Mateo Kovačić | Kovačić | Marcelo Brozović; Ante Rebić
+Koji je hrvatski igrač asistirao za izjednačenje Sergija Ramosa u finalu Lige prvaka 2014.? | Luka Modrić | Modrić | Mateo Kovačić; Davor Šuker
+Koliko je Liga prvaka osvojio Luka Modrić s Realom? | 6 | šest | 5; 4
+Za koji je engleski klub igrao Dejan Lovren od 2014. do 2020.? | Liverpool | | Southampton; Tottenham
+Koji je hrvatski reprezentativac igrao za Liverpool i osvojio Ligu prvaka 2019.? | Dejan Lovren | Lovren | Ivan Perišić; Andrej Kramarić
+U kojem je njemačkom klubu Andrej Kramarić najbolji strijelac u povijesti? | Hoffenheim | TSG Hoffenheim | Wolfsburg; Leipzig
+Tko je najbolji strijelac u povijesti hrvatske reprezentacije? | Davor Šuker | Šuker | Mario Mandžukić; Ivan Perišić
+Tko ima najviše nastupa za hrvatsku reprezentaciju? | Luka Modrić | Modrić | Darijo Srna; Ivan Perišić
+U kojem je ukrajinskom klubu Darijo Srna proveo većinu karijere? | Šahtar Donjeck | Šahtar; Shakhtar | Dinamo Kijev; Dnjipro
+# --- Premier liga ---
+Koje je godine osnovana Premier liga? | 1992 | | 1888; 1998
+Koji klub ima najviše naslova prvaka Premier lige? | Manchester United | Man United; United | Manchester City; Chelsea
+Koji je klub u sezoni 2003./04. osvojio Premier ligu bez poraza? | Arsenal | | Chelsea; Manchester United
+Kako se naziva Arsenalova momčad koja nije izgubila nijednu utakmicu 2003./04.? | Invincibles | Nepobjedivi | Galácticos; Busby Babes
+Koji je klub senzacionalno osvojio Premier ligu 2016.? | Leicester City | Leicester | Tottenham; West Ham
+Koji je talijanski trener vodio Leicester do naslova 2016.? | Claudio Ranieri | Ranieri | Carlo Ancelotti; Roberto Mancini
+Koji je klub osvojio četiri naslova Premier lige zaredom (2021.–2024.)? | Manchester City | City; Man City | Liverpool; Arsenal
+Koji je klub 2020. osvojio prvi naslov engleskog prvaka nakon 30 godina? | Liverpool | | Arsenal; Tottenham
+Koji je škotski trener vodio Manchester United 26 godina? | Sir Alex Ferguson | Alex Ferguson; Ferguson | Matt Busby; David Moyes
+Koji je francuski trener vodio Arsenal 22 godine? | Arsène Wenger | Wenger; Arsene Wenger | Gérard Houllier; Claude Puel
+Koji je njemački trener vodio Liverpool od 2015. do 2024.? | Jürgen Klopp | Klopp | Thomas Tuchel; Ralf Rangnick
+Koji je španjolski trener osvojio šest naslova Premier lige s Manchester Cityjem? | Pep Guardiola | Guardiola | Mikel Arteta; Manuel Pellegrini
+Koji je portugalski trener nazvao sebe „The Special One”? | José Mourinho | Mourinho; Jose Mourinho | André Villas-Boas; Fernando Santos
+Na kojem stadionu igra Manchester United? | Old Trafford | | Etihad; Anfield
+Kako se naziva Old Trafford? | Kazalište snova | Theatre of Dreams | Katedrala nogometa; Hram
+Na kojem stadionu igra Liverpool? | Anfield | | Goodison Park; Old Trafford
+Na kojem stadionu igra Chelsea? | Stamford Bridge | | Craven Cottage; Emirates
+Na kojem stadionu igra Arsenal? | Emirates | Emirates Stadium | Highbury; Stamford Bridge
+Na kojem je stadionu Arsenal igrao do 2006.? | Highbury | | White Hart Lane; Emirates
+Na kojem stadionu igra Manchester City? | Etihad | Etihad Stadium; City of Manchester Stadium | Old Trafford; Maine Road
+Na kojem stadionu igra Newcastle United? | St James' Park | St. James Park; St James Park | Villa Park; Elland Road
+Na kojem stadionu igra Aston Villa? | Villa Park | | St Andrew's; Molineux
+Koji je nacionalni stadion Engleske? | Wembley | | Old Trafford; Twickenham
+Kako se nadimkom zove Manchester United? | Crveni vragovi | Red Devils; vragovi | Topnici; Svrake
+Kako se nadimkom zove Arsenal? | Topnici | Gunners; Tobdžije | Crveni vragovi; Lisice
+Koji se engleski klub naziva „Svrake”? | Newcastle United | Newcastle | Everton; Southampton
+Koji se engleski klub naziva „Lisice”? | Leicester City | Leicester | Norwich; Fulham
+Koji se engleski klub naziva „Čekići”? | West Ham United | West Ham | Crystal Palace; Sheffield United
+Koji je londonski klub poznat kao „Spurs”? | Tottenham Hotspur | Tottenham | Fulham; Brentford
+Kako se zove derbi Liverpoola i Evertona? | Merseysajdski derbi | Merseyside derbi; Merseyside | Sjeverozapadni derbi; Lancashire derbi
+Kako se zove derbi Arsenala i Tottenhama? | Sjevernolondonski derbi | North London derbi; derbi sjevernog Londona | Londonski klasik; Zapadnolondonski derbi
+Koji je grad dom Evertona? | Liverpool | | Manchester; Leeds
+Koji je engleski kapetan slobodnim udarcem protiv Grčke 2001. odveo Englesku na SP 2002.? | David Beckham | Beckham | Steven Gerrard; Frank Lampard
+Koji je vezni igrač najbolji strijelac u povijesti Chelseaja? | Frank Lampard | Lampard | John Terry; Didier Drogba
+Tko je bio legendarni kapetan Liverpoola od 2003. do 2015.? | Steven Gerrard | Gerrard | Jamie Carragher; Jordan Henderson
+Tko je bio legendarni kapetan Chelseaja? | John Terry | Terry | Frank Lampard; Ashley Cole
+Koji je klub osvojio Premier ligu 2025. pod Arneom Slotom? | Liverpool | | Arsenal; Manchester City
+Koliko klubova igra u Premier ligi? | 20 | dvadeset | 18; 22
+Koliko klubova ispada iz Premier lige svake sezone? | 3 | tri | 2; 4
+Kako se zove najstarije nogometno natjecanje na svijetu, engleski kup? | FA kup | FA Cup | Liga kup; Community Shield
+# --- La Liga ---
+Kako se zove utakmica Reala i Barcelone? | El Clásico | El Clasico; Clásico; Clasico | El Derbi; Superclásico
+Na kojem stadionu igra Real Madrid? | Santiago Bernabéu | Bernabéu; Bernabeu | Vicente Calderón; Mestalla
+Na kojem stadionu igra Barcelona (tradicionalno)? | Camp Nou | Nou Camp; Spotify Camp Nou | Montjuïc; Mestalla
+Na kojem stadionu igra Atlético Madrid? | Metropolitano | Wanda Metropolitano; Cívitas Metropolitano | Vicente Calderón; Bernabéu
+Na kojem stadionu igra Valencia? | Mestalla | | Ciutat de València; Riazor
+Koji baskijski klub igra samo s igračima iz Baskije? | Athletic Bilbao | Athletic Club; Athletic | Real Sociedad; Osasuna
+Na kojem stadionu igra Athletic Bilbao? | San Mamés | San Mames | Anoeta; Mendizorroza
+Koji argentinski trener vodi Atlético Madrid od 2011.? | Diego Simeone | Simeone; Cholo | Mauricio Pochettino; Marcelo Bielsa
+Tko je najbolji strijelac u povijesti španjolske lige? | Lionel Messi | Messi | Cristiano Ronaldo; Telmo Zarra
+Kako se nadimkom zovu igrači Reala Madrida? | Los Blancos | Blancos; Merengues; Los Merengues; Bijeli | Colchoneros; Blaugrana
+Kako se nazivaju Barcelonine boje i igrači? | Blaugrana | Blaugrana; Culés | Blancos; Txuri-urdin
+Kako se nadimkom zovu igrači Atlético Madrida? | Colchoneros | Los Colchoneros; Rojiblancos | Merengues; Blaugrana
+Kako se zove Barcelonina nogometna akademija? | La Masia | Masia | La Fábrica; Valdebebas
+Kako se zove Realova akademija? | La Fábrica | La Fabrica | La Masia; Lezama
+Kako su se zvali Realovi skupi igrači početkom 2000-ih (Zidane, Figo, Beckham, Ronaldo)? | Galácticos | Galacticos; Galaktikosi | Invincibles; Dream Team
+Koji je portugalski igrač prešao iz Barcelone u Real 2000. i izazvao bijes navijača? | Luís Figo | Figo; Luis Figo | Rui Costa; Deco
+Koji je španjolski vratar legenda Reala i kapetan Španjolske 2010.? | Iker Casillas | Casillas | Víctor Valdés; Pepe Reina
+Koji je španjolski branič Reala zabio u 93. minuti finala Lige prvaka 2014.? | Sergio Ramos | Ramos | Gerard Piqué; Pepe
+Koji je Barcelonin trener osvojio šest trofeja u kalendarskoj 2009.? | Pep Guardiola | Guardiola | Frank Rijkaard; Luis Enrique
+Kako se zove poznati napadački trio Barcelone Messi, Suárez i Neymar? | MSN | M-S-N | BBC; MNM
+Kako se zvao napadački trio Reala Bale, Benzema i Cristiano? | BBC | | MSN; BMC
+Koji je urugvajski napadač igrao za Barcelonu i ugrizao protivnika na SP 2014.? | Luis Suárez | Suárez; Suarez | Edinson Cavani; Diego Forlán
+Kojeg je talijanskog igrača Suárez ugrizao na SP 2014.? | Giorgio Chiellini | Chiellini | Leonardo Bonucci; Andrea Pirlo
+# --- Serie A ---
+Koji klub ima najviše naslova talijanskog prvaka? | Juventus | Juve | Inter; Milan
+Koliko je naslova zaredom Juventus osvojio od 2012. do 2020.? | 9 | devet | 7; 8
+Kako se nadimkom zove Juventus? | Stara dama | Vecchia Signora; Stara Gospođa | Bijele lisice; Nerazzurri
+Kako se nazivaju igrači Milana prema bojama dresova? | Rossoneri | crveno-crni | Nerazzurri; Bianconeri
+Kako se nazivaju igrači Intera prema bojama dresova? | Nerazzurri | crno-plavi | Rossoneri; Giallorossi
+Kako se nazivaju igrači Juventusa prema bojama dresova? | Bianconeri | crno-bijeli | Rossoneri; Biancocelesti
+Kako se zove derbi Milana i Intera? | Derby della Madonnina | Madonnina; milanski derbi | Derby d'Italia; Derby della Capitale
+Kako se zove derbi Rome i Lazija? | Derby della Capitale | rimski derbi | Derby della Madonnina; Derby della Mole
+Kako se zove utakmica Intera i Juventusa? | Derby d'Italia | Derbi Italije | Derby della Madonnina; Derby del Sole
+Na kojem stadionu igraju Milan i Inter? | San Siro | Giuseppe Meazza; Stadio Giuseppe Meazza | Olimpico; Allianz Stadium
+Na kojem stadionu igraju Roma i Lazio? | Olimpico | Stadio Olimpico | San Siro; Stadio Flaminio
+Koji je argentinski napadač Intera osvojio Svjetsko prvenstvo 2022.? | Lautaro Martínez | Lautaro; Lautaro Martinez | Julián Álvarez; Paulo Dybala
+Koji je klub osvojio talijansko prvenstvo 2023. nakon 33 godine? | Napoli | Napulj | Lazio; Atalanta
+Koji je klub osvojio Europsku ligu 2024. i prekinuo Leverkusenov niz bez poraza? | Atalanta | | Roma; Fiorentina
+Koji je trener vodio Inter do tri naslova (treble) 2010.? | José Mourinho | Mourinho | Roberto Mancini; Antonio Conte
+Koji je talijanski klub poznat kao „Viola” i igra u Firenci? | Fiorentina | | Pisa; Empoli
+Koji je talijanski klub iz Torina gradski suparnik Juventusa? | Torino | | Sampdoria; Genoa
+Kako se zove derbi u Genovi? | Derby della Lanterna | genovski derbi | Derby della Mole; Derby del Sole
+Koji je talijanski vratar s Juventusom igrao od 2001. do 2018.? | Gianluigi Buffon | Buffon | Walter Zenga; Francesco Toldo
+Koji je talijanski napadač „Il Divin Codino”? | Roberto Baggio | Baggio | Alessandro Del Piero; Christian Vieri
+# --- Bundesliga ---
+Koji klub ima najviše naslova njemačkog prvaka? | Bayern München | Bayern | Borussia Dortmund; Hamburger SV
+Koliko je naslova zaredom Bayern osvojio od 2013. do 2023.? | 11 | jedanaest | 9; 10
+Koji je klub 2024. osvojio Bundesligu bez poraza i prekinuo Bayernov niz? | Bayer Leverkusen | Leverkusen | Borussia Dortmund; RB Leipzig
+Koji je trener vodio Leverkusen do prvog naslova 2024.? | Xabi Alonso | Alonso | Julian Nagelsmann; Hansi Flick
+Kako se zove utakmica Bayerna i Borussije Dortmund? | Der Klassiker | Klassiker | Revierderby; Nordderby
+Kako se zove derbi Dortmunda i Schalkea? | Revierderby | Ruhrski derbi | Der Klassiker; Nordderby
+Kako se zove poznata južna tribina Dortmunda? | Žuti zid | Gelbe Wand; Yellow Wall; Die Gelbe Wand | Crveni zid; Južni zid
+Na kojem stadionu igra Bayern München? | Allianz Arena | | Olympiastadion; Signal Iduna Park
+Na kojem stadionu igra Borussia Dortmund? | Signal Iduna Park | Westfalenstadion | Veltins Arena; Allianz Arena
+Tko je 2021. oborio rekord Gerda Müllera s 41 golom u sezoni Bundeslige? | Robert Lewandowski | Lewandowski | Erling Haaland; Harry Kane
+Koliko je golova Gerd Müller zabio u sezoni 1971./72.? | 40 | četrdeset | 38; 36
+Kako se nadimkom zove Gerd Müller? | Der Bomber | Bombarder; Bomber | Kaiser; Titan
+Koga zovu „Der Kaiser”? | Franz Beckenbauer | Beckenbauer | Gerd Müller; Lothar Matthäus
+Koji je njemački vratar zvan „Titan”? | Oliver Kahn | Kahn | Manuel Neuer; Jens Lehmann
+Iz kojeg je grada klub Schalke 04? | Gelsenkirchen | | Dortmund; Bochum
+Koji je njemački klub vlasnički povezan s Red Bullom? | RB Leipzig | Leipzig | Wolfsburg; Hoffenheim
+Koji je njemački klub u vlasništvu Volkswagena? | Wolfsburg | VfL Wolfsburg | Leverkusen; Ingolstadt
+Koji je njemački klub povezan s tvrtkom Bayer? | Bayer Leverkusen | Leverkusen | Schalke 04; Wolfsburg
+Koji je hrvatski trener vodio Eintracht Frankfurt do njemačkog kupa 2018.? | Niko Kovač | Kovač | Robert Kovač; Ante Čačić
+# --- Ligue 1 i ostalo ---
+Koji klub ima najviše naslova francuskog prvaka? | PSG | Paris Saint-Germain | Saint-Étienne; Marseille
+Na kojem stadionu igra PSG? | Parc des Princes | Park prinčeva | Stade de France; Vélodrome
+Na kojem stadionu igra Marseille? | Vélodrome | Stade Vélodrome; Velodrome | Parc des Princes; Groupama Stadium
+Kako se zove utakmica PSG-a i Marseillea? | Le Classique | Classique; Le Clasico | Derby du Rhône; Derby du Nord
+Koji je klub osvojio Ligu prvaka 2025.? | PSG | Paris Saint-Germain | Inter; Arsenal
+S kojim je rezultatom PSG pobijedio Inter u finalu Lige prvaka 2025.? | 5:0 | 5-0 | 3:0; 2:1
+Na kojem stadionu igra Benfica? | Estádio da Luz | da Luz; Stadion svjetla | Alvalade; Dragão
+Na kojem stadionu igra Porto? | Estádio do Dragão | Dragão; Dragao | da Luz; Alvalade
+Kako se zove Ajaxov stadion? | Johan Cruyff Arena | Amsterdam Arena; Cruyff Arena | De Kuip; Philips Stadion
+Na kojem stadionu igra Feyenoord? | De Kuip | Kuip | Johan Cruyff Arena; Philips Stadion
+Kako se zove derbi Celtica i Rangersa? | Old Firm | | Edinburški derbi; Highlands derbi
+Iz kojeg su grada Celtic i Rangers? | Glasgow | Glazgov | Edinburgh; Aberdeen
+Kako se zove derbi River Platea i Boca Juniorsa? | Superclásico | Superclasico | El Clásico; Derbi de Avellaneda
+Na kojem stadionu igra Boca Juniors? | La Bombonera | Bombonera | El Monumental; Maracanã
+Na kojem stadionu igra River Plate? | El Monumental | Monumental; Más Monumental | La Bombonera; El Cilindro
+Kako se zove najpoznatiji stadion u Rio de Janeiru? | Maracanã | Maracana | Morumbi; Mineirão
+Koji je turski klub poznat po paklenoj atmosferi i 2000. osvojio Kup UEFA? | Galatasaray | | Fenerbahçe; Beşiktaş
+Koji je grčki klub iz Pireja? | Olympiakos | Olimpijakos | Panathinaikos; AEK
+# --- Reprezentacije i nadimci ---
+Kako se nadimkom zove hrvatska nogometna reprezentacija? | Vatreni | | Kockasti; Plavi
+Kako se nadimkom zove brazilska reprezentacija? | Seleção | Selecao; Selesao | Albiceleste; La Roja
+Kako se nadimkom zove argentinska reprezentacija? | Albiceleste | La Albiceleste | Seleção; Celeste
+Kako se nadimkom zove urugvajska reprezentacija? | Celeste | La Celeste | Albiceleste; Seleção
+Kako se nadimkom zove francuska reprezentacija? | Les Bleus | Plavi | Azzurri; Oranje
+Kako se nadimkom zove talijanska reprezentacija? | Azzurri | Gli Azzurri; Plavi | Les Bleus; La Roja
+Kako se nadimkom zove španjolska reprezentacija? | La Roja | Crveni; Furija | Albiceleste; Azzurri
+Kako se nadimkom zove engleska reprezentacija? | Tri lava | Three Lions | Crveni vragovi; Lavovi Atlasa
+Kako se nadimkom zove belgijska reprezentacija? | Crveni vragovi | Red Devils; Les Diables Rouges | Tri lava; Oranje
+Kako se nadimkom zove nizozemska reprezentacija? | Oranje | Narančasti | Les Bleus; Die Mannschaft
+Kako se nadimkom zove marokanska reprezentacija? | Lavovi Atlasa | Atlas Lions | Neukrotivi lavovi; Faraoni
+Kako se nadimkom zove kamerunska reprezentacija? | Neukrotivi lavovi | Indomitable Lions | Lavovi Atlasa; Super orlovi
+Kako se nadimkom zove nigerijska reprezentacija? | Super orlovi | Super Eagles | Crne zvijezde; Neukrotivi lavovi
+Kako se nadimkom zove ganska reprezentacija? | Crne zvijezde | Black Stars | Super orlovi; Lavovi Atlasa
+Koje boje dresova najčešće nosi nizozemska reprezentacija? | narančaste | narančasta | plave; zelene
+# --- Pravila ---
+Koliko traje jedno poluvrijeme nogometne utakmice? | 45 minuta | 45 | 40 minuta; 50 minuta
+Koliko traju produžeci u nogometu ukupno? | 30 minuta | 30; 2 × 15 minuta | 20 minuta; 15 minuta
+S koliko je metara udaljenosti izvodi jedanaesterac? | 11 | 11 metara; jedanaest | 9; 12
+Koliko metara mora biti udaljen zid pri slobodnom udarcu? | 9,15 | 9,15 m; 9.15 | 7; 11
+Kolika je širina nogometnog gola (u metrima)? | 7,32 | 7.32; 7,32 m | 6,5; 8
+Kolika je visina nogometnog gola (u metrima)? | 2,44 | 2.44; 2,44 m | 2; 2,8
+Koliko izmjena je dopušteno u regularnom dijelu utakmice od 2020.? | 5 | pet | 3; 4
+Koliko igrača mora imati momčad na terenu da bi utakmica mogla teći? | 7 | sedam | 8; 6
+Što dobiva igrač nakon dva žuta kartona u istoj utakmici? | crveni karton | crveni; isključenje | treći žuti; opomenu
+Kako se zove pravilo koje zabranjuje napadaču da bude iza zadnjeg braniča pri dodavanju? | zaleđe | ofsajd | korner; aut
+Kako se zove udarac iz kuta? | korner | kornerom; udarac iz kuta | aut; out
+Kako se zove kad igrač zabije tri gola u utakmici? | hat-trick | het-trik; hattrick | dublet; poker
+Kako se zove video-sustav za pomoć sucu? | VAR | video asistent | Hawk-Eye; GLT
+Kako se zove pravilo koje je od 1993. do 2004. odlučivalo produžetke prvim golom? | zlatni gol | golden goal | srebrni gol; sudden death
+Kako se zove jedanaesterac izveden laganim lobom po sredini? | Panenka | penal Panenka | Rabona; Cruyffov okret
+Kako se zove akrobatski udarac preko glave u padu? | škarice | bicikl; prevrnuti udarac; makaze | volej; rabona
+Kako se zove udarac kad noga prelazi iza stajne noge? | rabona | | Panenka; škarice
+Kako se kaže kad igrač prebaci loptu protivniku između nogu? | tunel | kroz noge | škarice; rabona
+Koje boje je karton kojim sudac opominje igrača? | žuti | žuta; žuto | crveni; plavi
+Smije li vratar uhvatiti loptu rukom nakon namjernog dodavanja nogom suigrača? | ne | ne smije | da; samo u kaznenom prostoru
+Koliko igrača ima jedna momčad na terenu u futsalu? | 5 | pet | 6; 7
+# --- Dodatno ---
+Koji je hrvatski klub osvojio prvo prvenstvo samostalne Hrvatske 1992.? | Hajduk Split | Hajduk | Dinamo Zagreb; NK Zagreb
+Koji je klub osvojio HNL 2017. i prekinuo Dinamov niz od 11 naslova? | Rijeka | HNK Rijeka | Hajduk Split; Osijek
+Pod kojim se imenom Dinamo natjecao od 1993. do 2000.? | Croatia Zagreb | Croatia | HAŠK Građanski; Zagreb
+Koji je hrvatski klub igrao četvrtfinale Lige prvaka 1995.? | Hajduk Split | Hajduk | Dinamo Zagreb; Rijeka
+Koji je engleski klub Dinamo Zagreb izbacio iz Europske lige 2021. pobjedom 3:0? | Tottenham | Tottenham Hotspur; Spurs | Arsenal; West Ham
+Koji je hrvatski napadač zabio hat-trick Tottenhamu 2021.? | Mislav Oršić | Oršić | Bruno Petković; Lovro Majer
+Koji je klub osvojio Kup pobjednika kupova 1963. kao prvi britanski europski prvak? | Tottenham | Tottenham Hotspur | Celtic; Rangers
+Koji je škotski klub 1967. prvi s Otoka osvojio Kup prvaka? | Celtic | | Rangers; Aberdeen
+Kako se zvala momčad Celtica koja je 1967. osvojila Kup prvaka? | Lisabonski lavovi | Lisbon Lions | Busby Babes; Invincibles
+Kako su se zvali mladi igrači Manchester Uniteda stradali u avionskoj nesreći 1958.? | Busby Babes | Busbyjeve bebe | Lisbon Lions; Class of 92
+U kojem je gradu 1958. stradao zrakoplov s igračima Manchester Uniteda? | München | Munchen; Minhen | Beograd; Dublin
+Kako se nazivaju Unitedovi igrači iz akademije (Beckham, Giggs, Scholes, Neville)? | Class of 92 | Klasa 92 | Busby Babes; Fergie's Fledglings
+Koji je klub iz Liverpoola osvojio Kup prvaka 1977. kao prvi engleski klub nakon Uniteda? | Liverpool | | Everton; Nottingham Forest
+Koji je engleski klub dvaput zaredom osvojio Kup prvaka 1979. i 1980.? | Nottingham Forest | Forest | Aston Villa; Leeds United
+Koji je nizozemski klub osvojio tri Kupa prvaka zaredom 1971.–1973.? | Ajax | | Feyenoord; PSV
+Koji je njemački klub osvojio tri Kupa prvaka zaredom 1974.–1976.? | Bayern München | Bayern | Borussia Mönchengladbach; Hamburger SV
+Koji je portugalski klub osvojio dva Kupa prvaka 1961. i 1962. s Eusébiom? | Benfica | | Porto; Sporting
+Iz koje je zemlje bio Eusébio, „Crna pantera”? | Mozambik | | Angola; Portugal
+Koji je klub 1993. izgubio finale Lige prvaka od Marseillea? | Milan | AC Milan | Juventus; Barcelona
+Koliko je naslova prvaka Europe Liverpool osvojio do 2025.? | 6 | šest | 5; 7

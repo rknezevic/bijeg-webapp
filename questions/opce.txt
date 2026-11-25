@@ -1,0 +1,513 @@
+# Opće znanje i povijest
+# --- Znanost i priroda ---
+Koji je kemijski simbol za zlato? | Au | | Ag; Zn
+Koji je kemijski simbol za srebro? | Ag | | Au; Si
+Koji je kemijski simbol za željezo? | Fe | | Ir; Zn
+Koji je kemijski simbol za natrij? | Na | | N; Ni
+Koji je kemijski simbol za kalij? | K | | Ka; Ca
+Koji je kemijski simbol za olovo? | Pb | | Pl; Ol
+Koji je kemijski element simbola O? | kisik | | ugljik; dušik
+Koji je kemijski element simbola H? | vodik | | helij; kisik
+Koji je kemijski element simbola C? | ugljik | | kalcij; klor
+Koji je kemijski element simbola N? | dušik | | natrij; neon
+Koja je kemijska formula vode? | H2O | | CO2; HO2
+Koja je kemijska formula ugljikova dioksida? | CO2 | | CO; O2
+Koji plin biljke upijaju iz zraka za fotosintezu? | ugljikov dioksid | CO2; ugljični dioksid | kisik; dušik
+Kojeg plina ima najviše u Zemljinoj atmosferi? | dušik | | kisik; ugljikov dioksid
+Pri kojoj temperaturi voda vrije na razini mora (u °C)? | 100 | | 90; 120
+Pri kojoj se temperaturi voda smrzava (u °C)? | 0 | nula | 4; -10
+Koji je najlakši kemijski element? | vodik | | helij; litij
+Koji je metal tekuć na sobnoj temperaturi? | živa | | olovo; kositar
+Kako se zove najmanja čestica kemijskog elementa? | atom | | molekula; stanica
+Koja čestica atoma ima negativan naboj? | elektron | | proton; neutron
+Koja čestica u jezgri atoma nema naboj? | neutron | | proton; elektron
+Kako se zove najbliža zvijezda Zemlji? | Sunce | | Proxima Centauri; Sirius
+Koja je planeta najbliža Suncu? | Merkur | | Venera; Mars
+Koja je najveća planeta Sunčeva sustava? | Jupiter | | Saturn; Neptun
+Koja se planeta naziva „Crvenim planetom”? | Mars | | Venera; Jupiter
+Koja je planeta poznata po izraženim prstenima? | Saturn | | Uran; Jupiter
+Koja je najtoplija planeta Sunčeva sustava? | Venera | | Merkur; Mars
+Koliko planeta ima Sunčev sustav? | 8 | osam | 9; 7
+Kako se zove prirodni satelit Zemlje? | Mjesec | Luna | Fobos; Europa
+Koliko otprilike dana Zemlji treba da obiđe Sunce? | 365 | 365 dana; 365,25 | 360; 366
+Kako se zove naša galaksija? | Mliječni put | Mlijecna staza; Kumova slama | Andromeda; Magelanov oblak
+Koje se godine čovjek prvi put spustio na Mjesec? | 1969 | | 1961; 1972
+Tko je prvi čovjek koji je hodao po Mjesecu? | Neil Armstrong | Armstrong | Buzz Aldrin; Jurij Gagarin
+Tko je bio prvi čovjek u svemiru? | Jurij Gagarin | Gagarin | Neil Armstrong; Valentina Tereškova
+Tko je bila prva žena u svemiru? | Valentina Tereškova | Tereškova | Sally Ride; Svetlana Savicka
+Kako se zvao prvi umjetni satelit, lansiran 1957.? | Sputnjik | Sputnik; Sputnjik 1 | Vostok; Apollo
+Kako se zvala misija koja je prva spustila ljude na Mjesec? | Apollo 11 | Apolo 11 | Apollo 13; Gemini 4
+Tko je formulirao zakon opće gravitacije? | Isaac Newton | Newton; Njutn | Albert Einstein; Galileo Galilei
+Tko je autor teorije relativnosti? | Albert Einstein | Einstein; Ajnštajn | Isaac Newton; Niels Bohr
+Tko je postavio teoriju evolucije prirodnim odabirom? | Charles Darwin | Darwin | Gregor Mendel; Louis Pasteur
+Tko se smatra ocem genetike, poznat po pokusima s graškom? | Gregor Mendel | Mendel | Charles Darwin; Louis Pasteur
+Tko je otkrio penicilin? | Alexander Fleming | Fleming | Louis Pasteur; Robert Koch
+Tko je razvio cjepivo protiv bjesnoće? | Louis Pasteur | Pasteur | Alexander Fleming; Edward Jenner
+Koja je znanstvenica dobila Nobelovu nagradu i za fiziku i za kemiju? | Marie Curie | Curie; Marija Curie; Marie Skłodowska-Curie | Rosalind Franklin; Lise Meitner
+Tko je izumio telefon (patentirao 1876.)? | Alexander Graham Bell | Graham Bell; Bell | Thomas Edison; Nikola Tesla
+Tko je patentirao žarulju s ugljenom niti koja je ušla u masovnu upotrebu? | Thomas Edison | Edison | Nikola Tesla; Alexander Graham Bell
+Tko je izumio tiskarski stroj s pomičnim slovima u Europi? | Johannes Gutenberg | Gutenberg | Leonardo da Vinci; Martin Luther
+Tko je konstruirao prvi parni stroj koji se široko koristio, poboljšavši ga u 18. stoljeću? | James Watt | Watt | George Stephenson; Thomas Newcomen
+Kako se zove jedinica za mjerenje električnog otpora? | ohm | om | volt; amper
+Kako se zove jedinica za mjerenje snage? | vat | W; watt | džul; njutn
+Kako se zove jedinica za silu? | njutn | newton; N | džul; vat
+Kako se zove jedinica za energiju? | džul | joule; J | vat; njutn
+Koliko iznosi brzina svjetlosti u vakuumu, otprilike u km/s? | 300000 | 300 000; 300.000; tristo tisuća | 150000; 30000
+Koja je najtvrđa prirodna tvar? | dijamant | | kvarc; granit
+Koji je najveći ocean na svijetu? | Tihi ocean | Pacifik; Tihi | Atlantski ocean; Indijski ocean
+Koji je organ u ljudskom tijelu najveći? | koža | | jetra; pluća
+Koji je najveći unutarnji organ čovjeka? | jetra | | pluća; srce
+Koliko kostiju ima odrasli čovjek? | 206 | | 212; 196
+Koliko zubi ima odrasla osoba s umnjacima? | 32 | | 28; 30
+Koliko komora ima ljudsko srce? | 4 | četiri | 2; 3
+Koja je krvna grupa univerzalni davatelj? | 0 negativna | 0-; 0 neg; nula negativna | AB pozitivna; A pozitivna
+Koja je najduža kost u ljudskom tijelu? | bedrena kost | femur; bedrenica | goljenična kost; ramena kost
+Koja je najmanja kost u ljudskom tijelu? | stremen | stremenčić | čekić; nakovanj
+Koji organ proizvodi inzulin? | gušterača | pankreas | jetra; bubreg
+Koji vitamin tijelo stvara izlaganjem suncu? | vitamin D | D | vitamin C; vitamin A
+Nedostatak kojeg vitamina uzrokuje skorbut? | vitamin C | C | vitamin D; vitamin B12
+Koja je najveća životinja na svijetu? | plavi kit | | slon; kit ubojica
+Koja je najbrža kopnena životinja? | gepard | | lav; antilopa
+Koja je najviša životinja na svijetu? | žirafa | | slon; noj
+Koja je najveća ptica na svijetu? | noj | | emu; albatros
+Koja ptica ne može letjeti i živi na Antarktici? | pingvin | | noj; kivi
+Koja je jedina ptica koja može letjeti unatrag? | kolibrić | kolibri | lastavica; djetlić
+Koliko nogu ima pauk? | 8 | osam | 6; 10
+Koliko nogu ima kukac? | 6 | šest | 8; 4
+Koliko srca ima hobotnica? | 3 | tri | 1; 2
+Kako se zove mladunče konja? | ždrijebe | ždrebe | tele; jare
+Kako se zove mladunče krave? | tele | | jare; ždrijebe
+Kako se zove mladunče koze? | jare | | janje; tele
+Kojoj skupini životinja pripada kit? | sisavci | sisavac | ribe; gmazovi
+Kojoj skupini životinja pripada krokodil? | gmazovi | gmaz | vodozemci; sisavci
+Kojoj skupini životinja pripada žaba? | vodozemci | vodozemac | gmazovi; ribe
+Čime se uglavnom hrani panda? | bambusom | bambus | eukaliptusom; ribom
+Čime se hrani koala? | eukaliptusom | eukaliptus; listovi eukaliptusa | bambusom; kukcima
+Kako se zove proces kojim gusjenica postaje leptir? | metamorfoza | preobrazba | fotosinteza; mitoza
+Kako se zove proces kojim biljke stvaraju hranu pomoću svjetlosti? | fotosinteza | | disanje; osmoza
+Koje boje nastaju miješanjem plave i žute? | zelena | zeleno | ljubičasta; narančasta
+Koju boju dobijemo miješanjem crvene i plave? | ljubičasta | ljubičasto | zelena; smeđa
+Koliko boja ima duga? | 7 | sedam | 6; 8
+Koja je boja na vrhu duge? | crvena | | ljubičasta; plava
+# --- Kultura, umjetnost, jezik ---
+Tko je naslikao „Mona Lizu”? | Leonardo da Vinci | Leonardo; da Vinci | Michelangelo; Rafael
+Tko je naslikao strop Sikstinske kapele? | Michelangelo | Michelangelo Buonarroti; Mikelanđelo | Leonardo da Vinci; Rafael
+Tko je naslikao „Zvjezdanu noć”? | Vincent van Gogh | van Gogh; Van Gog | Claude Monet; Paul Cézanne
+Tko je naslikao „Guerniku”? | Pablo Picasso | Picasso | Salvador Dalí; Joan Miró
+Tko je naslikao „Krik”? | Edvard Munch | Munch | Gustav Klimt; Egon Schiele
+Tko je naslikao „Poljubac” sa zlatnim listićima? | Gustav Klimt | Klimt | Edvard Munch; Egon Schiele
+Tko je naslikao „Djevojku s bisernom naušnicom”? | Johannes Vermeer | Vermeer | Rembrandt; Rubens
+Koji je slikar poznat po „Postojanosti pamćenja” s rastopljenim satovima? | Salvador Dalí | Dali; Dalí | René Magritte; Pablo Picasso
+Koji je impresionist naslikao seriju „Lopoči”? | Claude Monet | Monet | Édouard Manet; Edgar Degas
+Tko je isklesao kip Davida u Firenci? | Michelangelo | Michelangelo Buonarroti | Donatello; Bernini
+U kojem se muzeju nalazi „Mona Lisa”? | Louvre | Luvr | Prado; Uffizi
+U kojem se gradu nalazi muzej Prado? | Madrid | | Barcelona; Lisabon
+Tko je napisao „Romea i Juliju”? | William Shakespeare | Shakespeare; Šekspir | Christopher Marlowe; Charles Dickens
+Tko je napisao „Hamleta”? | William Shakespeare | Shakespeare; Šekspir | Molière; Goethe
+Tko je napisao „Don Quijotea”? | Miguel de Cervantes | Cervantes | Lope de Vega; Gabriel García Márquez
+Tko je napisao „Božanstvenu komediju”? | Dante Alighieri | Dante | Petrarca; Boccaccio
+Tko je napisao „Fausta”? | Johann Wolfgang von Goethe | Goethe; Gete | Friedrich Schiller; Thomas Mann
+Tko je napisao „Rat i mir”? | Lav Nikolajevič Tolstoj | Tolstoj; Lav Tolstoj | Fjodor Dostojevski; Anton Čehov
+Tko je napisao „Zločin i kaznu”? | Fjodor Mihajlovič Dostojevski | Dostojevski; Fjodor Dostojevski | Lav Tolstoj; Nikolaj Gogolj
+Tko je napisao „Jadnike”? | Victor Hugo | Hugo; Viktor Igo | Alexandre Dumas; Émile Zola
+Tko je napisao „Tri mušketira”? | Alexandre Dumas | Dumas; Aleksandar Dima | Victor Hugo; Jules Verne
+Tko je napisao „20 000 milja pod morem”? | Jules Verne | Verne; Žil Vern | H. G. Wells; Alexandre Dumas
+Tko je napisao „Malog princa”? | Antoine de Saint-Exupéry | Saint-Exupéry; Saint Exupery; Egziperi | Albert Camus; Jules Verne
+Tko je napisao „1984.”? | George Orwell | Orwell | Aldous Huxley; Ray Bradbury
+Tko je napisao „Životinjsku farmu”? | George Orwell | Orwell | Aldous Huxley; William Golding
+Tko je napisao „Starac i more”? | Ernest Hemingway | Hemingway | John Steinbeck; William Faulkner
+Tko je napisao „Sto godina samoće”? | Gabriel García Márquez | Márquez; Marquez; Gabriel Garcia Marquez | Mario Vargas Llosa; Jorge Luis Borges
+Tko je napisao „Gospodara prstenova”? | J. R. R. Tolkien | Tolkien | C. S. Lewis; J. K. Rowling
+Tko je napisala serijal o Harryju Potteru? | J. K. Rowling | Rowling; JK Rowling | Suzanne Collins; Agatha Christie
+Tko je stvorio detektiva Sherlocka Holmesa? | Arthur Conan Doyle | Conan Doyle; Doyle | Agatha Christie; Edgar Allan Poe
+Koja je spisateljica stvorila Herculea Poirota? | Agatha Christie | Christie | Arthur Conan Doyle; Jane Austen
+Tko je napisao „Ponos i predrasude”? | Jane Austen | Austen | Charlotte Brontë; Emily Brontë
+Tko je napisao „Pinokija”? | Carlo Collodi | Collodi | Hans Christian Andersen; Braća Grimm
+Tko je napisao bajku „Mala sirena”? | Hans Christian Andersen | Andersen | Braća Grimm; Charles Perrault
+Tko je napisao „Alisu u zemlji čudesa”? | Lewis Carroll | Carroll | J. M. Barrie; Roald Dahl
+Tko je napisao „Petra Pana”? | J. M. Barrie | Barrie; James Barrie | Lewis Carroll; Roald Dahl
+Tko je autor „Iliade” i „Odiseje”? | Homer | | Vergilije; Sofoklo
+Tko je skladao „Za Elizu”? | Ludwig van Beethoven | Beethoven; Betoven | Wolfgang Amadeus Mozart; Frédéric Chopin
+Tko je skladao operu „Čarobna frula”? | Wolfgang Amadeus Mozart | Mozart | Ludwig van Beethoven; Joseph Haydn
+Tko je skladao „Četiri godišnja doba”? | Antonio Vivaldi | Vivaldi | Johann Sebastian Bach; Georg Friedrich Händel
+Tko je skladao balet „Labuđe jezero”? | Petar Iljič Čajkovski | Čajkovski; Tchaikovsky | Igor Stravinski; Sergej Prokofjev
+Tko je skladao operu „Aida”? | Giuseppe Verdi | Verdi | Giacomo Puccini; Gioachino Rossini
+Tko je skladao operu „Madama Butterfly”? | Giacomo Puccini | Puccini | Giuseppe Verdi; Gioachino Rossini
+Koji je skladatelj bio gluh kad je skladao 9. simfoniju? | Ludwig van Beethoven | Beethoven | Johann Sebastian Bach; Franz Schubert
+Iz kojeg su grada bili Beatlesi? | Liverpool | | London; Manchester
+Tko je bio pjevač grupe Queen? | Freddie Mercury | Mercury; Freddie | Brian May; Mick Jagger
+Koga zovu „Kraljem popa”? | Michael Jackson | Jackson | Elvis Presley; Prince
+Koga zovu „Kraljem rock and rolla”? | Elvis Presley | Elvis; Presley | Chuck Berry; Little Richard
+Koja je švedska grupa pobijedila na Euroviziji 1974. pjesmom „Waterloo”? | ABBA | Abba | Roxette; Ace of Base
+Koji bend je snimio album „The Dark Side of the Moon”? | Pink Floyd | | Led Zeppelin; The Rolling Stones
+Tko je pjevač grupe The Rolling Stones? | Mick Jagger | Jagger | Keith Richards; Roger Daltrey
+Koliko žica ima standardna gitara? | 6 | šest | 4; 7
+Koliko tipki ima standardni klavir? | 88 | | 76; 96
+Koji je glazbeni instrument imao Jimi Hendrix? | gitara | električna gitara | bubnjevi; saksofon
+Tko je režirao film „Titanic” iz 1997.? | James Cameron | Cameron | Steven Spielberg; Ridley Scott
+Tko je režirao film „Ralje”? | Steven Spielberg | Spielberg | George Lucas; James Cameron
+Tko je redatelj filmske trilogije „Kum”? | Francis Ford Coppola | Coppola | Martin Scorsese; Brian De Palma
+Koji je glumac utjelovio Jacka u filmu „Titanic”? | Leonardo DiCaprio | DiCaprio | Brad Pitt; Matt Damon
+Koji je lik glumio Harrison Ford u „Ratovima zvijezda”? | Han Solo | Han | Luke Skywalker; Obi-Wan Kenobi
+Kako se zove čarobnjačka škola u Harryju Potteru? | Hogwarts | Hogwarts School | Durmstrang; Beauxbatons
+Kako se zove lav u Disneyjevu „Kralju lavova”? | Simba | | Mufasa; Nala
+Kako se zove snjegović u Disneyjevu filmu „Snježno kraljevstvo”? | Olaf | | Sven; Kristoff
+Kako se zove kauboj iz „Priče o igračkama”? | Woody | Vudi | Buzz; Jessie
+Kojim se imenom zove slavni britanski tajni agent 007? | James Bond | Bond | Jason Bourne; Ethan Hunt
+Koji je strip-junak zapravo Bruce Wayne? | Batman | | Superman; Spider-Man
+Koji je superjunak Peter Parker? | Spider-Man | Spiderman; Spajdermen; Čovjek pauk | Iron Man; Batman
+Koji je superjunak Clark Kent? | Superman | | Batman; Flash
+Kako se zove gradić u kojem žive Simpsonovi? | Springfield | | Shelbyville; Quahog
+Koliko je dugo trajao „Stogodišnji rat” (približno, u godinama)? | 116 | | 100; 99
+Koliko je slova u hrvatskoj abecedi? | 30 | trideset | 26; 32
+Koliko slova ima engleska abeceda? | 26 | | 24; 30
+Koji jezik ima najviše izvornih govornika na svijetu? | mandarinski kineski | kineski; mandarinski | engleski; hindski
+Koji je službeni jezik u Brazilu? | portugalski | | španjolski; brazilski
+Koji je službeni jezik u Argentini? | španjolski | | portugalski; argentinski
+Koliko minuta ima jedan dan? | 1440 | | 1240; 1400
+Koliko sekundi ima jedan sat? | 3600 | | 360; 6000
+Koliko dana ima prijestupna godina? | 366 | | 365; 364
+Koliko dana ima veljača u prijestupnoj godini? | 29 | | 28; 30
+Koliko je godina jedno stoljeće? | 100 | sto | 1000; 10
+Koliko godina ima tisućljeće? | 1000 | tisuću; tisuća | 100; 10000
+Koliko je obljetnica zlatnog vjenčanja? | 50 | pedeset | 25; 60
+Koja je obljetnica srebrnog vjenčanja? | 25 | dvadeset pet | 50; 10
+Koliko igrača ima šahovska partija na ploči? | 2 | dva | 4; 1
+Koliko polja ima šahovska ploča? | 64 | | 81; 49
+Koja šahovska figura se može kretati samo dijagonalno? | lovac | | top; skakač
+Koja se šahovska figura kreće u obliku slova L? | skakač | konj | lovac; top
+Koliko točkica ukupno ima obična kockica za igru? | 21 | | 18; 24
+Koliko karata ima standardni špil bez džokera? | 52 | | 54; 32
+Kako se zove znak @ u e-mail adresama u hrvatskom žargonu? | majmunče | majmun; et | ljestve; puž
+Što znači kratica „www”? | World Wide Web | world wide web | World Web Wide; Wide World Web
+Tko je suosnivač Microsofta zajedno s Paulom Allenom? | Bill Gates | Gates | Steve Jobs; Mark Zuckerberg
+Tko je suosnovao Apple sa Steveom Wozniakom? | Steve Jobs | Jobs | Bill Gates; Tim Cook
+Tko je osnivač Facebooka? | Mark Zuckerberg | Zuckerberg | Jack Dorsey; Larry Page
+Koja je tvrtka razvila operacijski sustav Android? | Google | | Apple; Samsung
+Koje je godine predstavljen prvi iPhone? | 2007 | | 2005; 2010
+Koja je zemlja domovina tvrtke Nokia? | Finska | | Švedska; Norveška
+Iz koje je zemlje automobilska marka Volvo? | Švedska | | Norveška; Njemačka
+Iz koje je zemlje automobilska marka Škoda? | Češka | | Slovačka; Poljska
+Iz koje je zemlje automobilska marka Fiat? | Italija | | Francuska; Španjolska
+Iz koje je zemlje automobilska marka Toyota? | Japan | | Južna Koreja; Kina
+Iz koje je zemlje automobilska marka Hyundai? | Južna Koreja | Koreja | Japan; Kina
+U kojem je gradu sjedište BMW-a? | München | Munchen; Minhen | Stuttgart; Wolfsburg
+U kojem je gradu sjedište Volkswagena? | Wolfsburg | | München; Stuttgart
+Koje je životinje logo automobilske marke Ferrari? | konj | propeti konj | bik; lav
+Koje je životinje logo marke Lamborghini? | bik | | konj; lav
+Koje je životinje logo automobilske marke Peugeot? | lav | | konj; jaguar
+Iz koje je zemlje namještaj IKEA? | Švedska | | Danska; Norveška
+Iz koje je zemlje LEGO? | Danska | | Švedska; Njemačka
+Koja je zemlja izvorište pizze? | Italija | | Grčka; Španjolska
+Iz koje zemlje potječe sushi? | Japan | | Kina; Koreja
+Iz koje zemlje potječe paella? | Španjolska | | Portugal; Meksiko
+Iz koje zemlje potječu tacosi? | Meksiko | | Španjolska; Argentina
+Iz koje zemlje potječe gulaš? | Mađarska | | Austrija; Češka
+Iz koje zemlje potječe croissant u današnjem obliku? | Francuska | | Austrija; Belgija
+Koje je voće glavni sastojak guacamolea? | avokado | | limeta; mango
+Od čega se proizvodi čokolada? | kakao | zrna kakaovca; kakaovac | kava; rogač
+Koji je osnovni sastojak humusa? | slanutak | leblebija | grah; leća
+Koji je glavni sastojak tradicionalnog pesta alla genovese? | bosiljak | | peršin; špinat
+Koji se sir tradicionalno koristi za pizzu Margheritu? | mozzarella | mocarela | parmezan; gorgonzola
+Kako se zove talijanski desert s mascarponeom i kavom? | tiramisu | | panna cotta; cannoli
+Koja zemlja je najveći proizvođač kave na svijetu? | Brazil | | Kolumbija; Etiopija
+Koja je božica ljubavi u grčkoj mitologiji? | Afrodita | | Atena; Hera
+Tko je vrhovni bog u grčkoj mitologiji? | Zeus | | Posejdon; Had
+Tko je bog mora u grčkoj mitologiji? | Posejdon | Poseidon | Zeus; Had
+Kako se zove rimski bog rata? | Mars | | Jupiter; Merkur
+Koji je junak grčke mitologije imao ranjivu petu? | Ahilej | Ahil | Odisej; Heraklo
+Koji je nordijski bog nosio čekić Mjolnir? | Thor | Tor | Odin; Loki
+Kako se zove krilati konj iz grčke mitologije? | Pegaz | Pegasus | Kentaur; Minotaur
+Kako se zove čudovište s tijelom čovjeka i glavom bika iz labirinta na Kreti? | Minotaur | | Kiklop; Kentaur
+Koliko je bilo svjetskih čuda staroga svijeta? | 7 | sedam | 5; 9
+Koje je jedino od sedam svjetskih čuda staroga svijeta sačuvano? | Keopsova piramida | piramida u Gizi; Velika piramida | Kolos s Rodosa; Aleksandrijski svjetionik
+Kojeg je dana Božić? | 25. prosinca | 25 prosinca; 25.12. | 24. prosinca; 6. siječnja
+Koliko je Isus imao apostola? | 12 | dvanaest | 10; 7
+Kako se zove sveta knjiga islama? | Kuran | Kur'an; Koran | Tora; Veda
+Kako se zove sveti grad islama u koji se hodočasti (hadž)? | Meka | Mekka | Medina; Jeruzalem
+Koji je grad središte Katoličke crkve? | Vatikan | Rim | Avignon; Jeruzalem
+Kako se zove papinska tjelesna straža u Vatikanu? | Švicarska garda | Švicarci | Vatikanska garda; Talijanska garda
+Kako se zove olimpijski moto na latinskom? Prva riječ je „Citius”. Koja je druga? | Altius | | Fortius; Melius
+Koliko krugova ima olimpijska zastava? | 5 | pet | 6; 4
+Što mjeri Richterova ljestvica? | jačinu potresa | potrese; magnitudu potresa | brzinu vjetra; tlak zraka
+Što mjeri barometar? | tlak zraka | atmosferski tlak; tlak | temperaturu; vlažnost
+Što mjeri termometar? | temperaturu | temperatura | tlak; vlagu
+Što mjeri seizmograf? | potrese | podrhtavanje tla; potres | vjetar; oborine
+Koliko iznosi broj π zaokružen na dvije decimale? | 3,14 | 3.14 | 3,41; 2,72
+Koliko stupnjeva ima pravi kut? | 90 | | 180; 45
+Kako se zove trokut s tri jednake stranice? | jednakostraničan | jednakostranični; jednakostraničan trokut | jednakokračan; raznostraničan
+Kako se zove mnogokut sa šest stranica? | šesterokut | heksagon | peterokut; osmerokut
+Koliko stranica ima osmerokut? | 8 | osam | 6; 10
+Koji je najveći prost broj manji od 20? | 19 | | 17; 18
+Koliko nula ima jedan milijun? | 6 | šest | 7; 9
+Koliko nula ima milijarda? | 9 | devet | 6; 12
+Kako se zove rezultat množenja? | umnožak | produkt | zbroj; količnik
+Kako se zove rezultat dijeljenja? | količnik | kvocijent | umnožak; razlika
+Kako se zove znanost o zvijezdama i svemiru? | astronomija | | astrologija; geologija
+Kako se zove znanost o Zemljinim stijenama? | geologija | | geografija; seizmologija
+Kako se zove znanost o životinjama? | zoologija | | botanika; ekologija
+Kako se zove znanost o biljkama? | botanika | | zoologija; mikologija
+Kako se zove znanost o vremenu (prognozi)? | meteorologija | | klimatologija; hidrologija
+Kako se zove liječnik za zube? | stomatolog | zubar; dentist | ortoped; otorinolaringolog
+Kako se zove liječnik specijalist za srce? | kardiolog | | neurolog; nefrolog
+Kako se zove liječnik za dječje bolesti? | pedijatar | | gerijatar; ginekolog
+Kako se zove liječnik za kožu? | dermatolog | | oftalmolog; urolog
+Kako se zove liječnik za oči? | oftalmolog | okulist | otorinolaringolog; ortoped
+# --- Povijest ---
+Koje je godine Kristofor Kolumbo stigao u Ameriku? | 1492 | | 1498; 1519
+Koje je godine počeo Prvi svjetski rat? | 1914 | | 1918; 1912
+Koje je godine završio Prvi svjetski rat? | 1918 | | 1919; 1917
+Koje je godine počeo Drugi svjetski rat? | 1939 | | 1941; 1938
+Koje je godine završio Drugi svjetski rat? | 1945 | | 1944; 1946
+Čije je ubojstvo u Sarajevu 1914. bilo povod Prvom svjetskom ratu? | Franjo Ferdinand | Franz Ferdinand; nadvojvoda Franjo Ferdinand | Franjo Josip; Vilim II.
+Tko je ubio Franju Ferdinanda u Sarajevu? | Gavrilo Princip | Princip | Nedeljko Čabrinović; Danilo Ilić
+Napadom na koju je državu Njemačka započela Drugi svjetski rat? | Poljska | Poljsku | Francuska; Čehoslovačka
+Koju je američku luku Japan napao 7. prosinca 1941.? | Pearl Harbor | Perl Harbor | San Diego; Midway
+Na koji je japanski grad 6. kolovoza 1945. bačena prva atomska bomba? | Hirošima | Hiroshima | Nagasaki; Tokio
+Koji je drugi japanski grad pogođen atomskom bombom 1945.? | Nagasaki | | Hirošima; Kyoto
+Kako se zvala savezniška invazija na Normandiju 6. lipnja 1944.? | Dan D | D-Day; Dan-D; Operacija Overlord; Overlord | Operacija Barbarossa; Operacija Market Garden
+Kako se zvala njemačka invazija na Sovjetski Savez 1941.? | Operacija Barbarossa | Barbarossa; Barbarosa | Operacija Overlord; Operacija Torch
+Koja je bitka na Volgi smatrana prekretnicom Drugog svjetskog rata? | Staljingrad | bitka za Staljingrad; Stalingrad | Kursk; Moskva
+Tko je bio britanski premijer većim dijelom Drugog svjetskog rata? | Winston Churchill | Churchill; Čerčil | Neville Chamberlain; Clement Attlee
+Tko je bio predsjednik SAD-a većim dijelom Drugog svjetskog rata? | Franklin D. Roosevelt | Roosevelt; Franklin Roosevelt; FDR | Harry Truman; Dwight Eisenhower
+Tko je bio sovjetski vođa za vrijeme Drugog svjetskog rata? | Josif Staljin | Staljin; Stalin | Vladimir Lenjin; Nikita Hruščov
+Koje je godine pao Berlinski zid? | 1989 | | 1991; 1987
+Koje je godine izgrađen Berlinski zid? | 1961 | | 1949; 1953
+Koje se godine ponovno ujedinila Njemačka? | 1990 | | 1989; 1991
+Koje se godine raspao Sovjetski Savez? | 1991 | | 1989; 1993
+Tko je bio posljednji vođa Sovjetskog Saveza? | Mihail Gorbačov | Gorbačov | Boris Jeljcin; Leonid Brežnjev
+Tko je predvodio Oktobarsku revoluciju u Rusiji 1917.? | Vladimir Iljič Lenjin | Lenjin; Lenin | Josif Staljin; Lav Trocki
+Koje je godine izbila Francuska revolucija? | 1789 | | 1776; 1815
+Koju su tvrđavu-zatvor Parižani zauzeli 14. srpnja 1789.? | Bastilja | Bastille | Versailles; Louvre
+Koja je francuska kraljica pogubljena 1793., žena Luja XVI.? | Marija Antoaneta | Marie Antoinette; Marija Antonija | Katarina Medici; Eleonora Akvitanska
+Koji je francuski car konačno poražen kod Waterlooa 1815.? | Napoleon Bonaparte | Napoleon | Luj XIV.; Karlo Veliki
+Koje je godine bila bitka kod Waterlooa? | 1815 | | 1812; 1805
+Na koji je otok Napoleon prognan nakon Waterlooa, gdje je i umro? | Sveta Helena | Sv. Helena; Sveta Jelena | Elba; Korzika
+Na kojem je otoku rođen Napoleon? | Korzika | | Elba; Sardinija
+Kojeg kralja zovu „Kralj Sunce”? | Luj XIV. | Luj XIV; Louis XIV; Luj 14 | Luj XVI.; Henrik IV.
+Koje je godine potpisana američka Deklaracija o neovisnosti? | 1776 | | 1789; 1783
+Tko je bio prvi predsjednik SAD-a? | George Washington | Washington | Thomas Jefferson; John Adams
+Koji je američki predsjednik ukinuo ropstvo i ubijen je 1865.? | Abraham Lincoln | Lincoln | George Washington; Ulysses Grant
+Koji je američki predsjednik ubijen u Dallasu 1963.? | John F. Kennedy | Kennedy; JFK; John Kennedy | Richard Nixon; Lyndon Johnson
+Koji je američki predsjednik dao ostavku zbog afere Watergate? | Richard Nixon | Nixon | Gerald Ford; Jimmy Carter
+Tko je bio prvi crni predsjednik SAD-a? | Barack Obama | Obama | Joe Biden; Colin Powell
+Tko je održao govor „Imam san” 1963.? | Martin Luther King | Martin Luther King Jr.; MLK; King | Malcolm X; Nelson Mandela
+Koji je južnoafrički vođa proveo 27 godina u zatvoru prije nego je postao predsjednik? | Nelson Mandela | Mandela | Desmond Tutu; Jacob Zuma
+Tko je vodio nenasilnu borbu za neovisnost Indije? | Mahatma Gandhi | Gandhi; Gandi | Jawaharlal Nehru; Indira Gandhi
+Koje je godine Indija stekla neovisnost? | 1947 | | 1950; 1945
+Od koje je zemlje Indija stekla neovisnost? | Ujedinjeno Kraljevstvo | Velika Britanija; Britanija; Engleska | Francuska; Portugal
+Tko je bio prvi rimski car? | August | Oktavijan; Oktavijan August | Julije Cezar; Neron
+Koji je rimski vojskovođa prešao Rubikon? | Julije Cezar | Cezar; Gaj Julije Cezar | Pompej; Marko Antonije
+Kojeg je dana ubijen Julije Cezar („Martovske ide”)? | 15. ožujka | 15 ožujka; 15.3. | 1. ožujka; 15. travnja
+Koje je godine propalo Zapadno Rimsko Carstvo? | 476 | | 410; 1453
+Koje su godine Osmanlije osvojile Carigrad? | 1453 | | 1389; 1529
+Kako se danas zove grad koji se nekoć zvao Carigrad (Konstantinopol)? | Istanbul | Istambul | Ankara; Izmir
+Koji je vulkan 79. godine zatrpao Pompeje? | Vezuv | Vezuvij | Etna; Stromboli
+Koji je makedonski kralj stvorio carstvo do Indije? | Aleksandar Veliki | Aleksandar Makedonski | Filip II.; Darije
+Koji je kartaški vojskovođa prešao Alpe sa slonovima? | Hanibal | Hannibal | Hamilkar; Scipion
+Tko je bio prvi car ujedinjene Kine i dao izgraditi Terakota vojsku? | Qin Shi Huang | Qin Shihuang; Ći Ši Huang | Kublaj-kan; Džingis-kan
+Koji je mongolski vladar stvorio najveće kopneno carstvo? | Džingis-kan | Džingis kan; Genghis Khan; Temudžin | Kublaj-kan; Atila
+Tko je bio vođa Huna? | Atila | Attila | Džingis-kan; Alarik
+Koji je franački kralj okrunjen za cara 800. godine? | Karlo Veliki | Charlemagne | Pipin Mali; Oton I.
+Koje je godine bila bitka kod Hastingsa? | 1066 | | 1215; 966
+Koji je engleski dokument iz 1215. ograničio vlast kralja? | Magna Carta | Magna Charta; Velika povelja | Bill of Rights; Habeas Corpus
+Koji je engleski kralj imao šest žena? | Henrik VIII. | Henrik VIII; Henry VIII; Henrik 8 | Edvard VI.; Rikard III.
+Koja je engleska kraljica vladala 63 godine, u 19. stoljeću? | Kraljica Viktorija | Viktorija; Victoria | Elizabeta I.; Marija I.
+Koliko je godina vladala kraljica Elizabeta II.? | 70 | sedamdeset | 63; 65
+Koje je godine umrla kraljica Elizabeta II.? | 2022 | | 2021; 2023
+Koja je francuska junakinja spaljena na lomači 1431.? | Ivana Orleanska | Jeanne d'Arc; Ivana Arška; Jeanne d Arc | Katarina Sijenska; Marija Antoaneta
+Tko je započeo protestantsku reformaciju 1517.? | Martin Luther | Luther | Jean Calvin; Ulrich Zwingli
+Koje je godine Martin Luther objavio 95 teza? | 1517 | | 1492; 1555
+Koji je portugalski moreplovac prvi doplovio morem do Indije? | Vasco da Gama | da Gama | Bartolomeu Dias; Ferdinand Magellan
+Čija je ekspedicija prva oplovila Zemlju? | Ferdinand Magellan | Magellan; Magelan; Fernão de Magalhães | Vasco da Gama; James Cook
+Koji je britanski moreplovac istražio Australiju i Pacifik u 18. stoljeću? | James Cook | Cook; kapetan Cook | Francis Drake; Abel Tasman
+Koji je Norvežanin prvi stigao na Južni pol 1911.? | Roald Amundsen | Amundsen | Robert Scott; Fridtjof Nansen
+Koji se Novozelanđanin 1953. prvi popeo na Mount Everest s Tenzingom Norgayem? | Edmund Hillary | Hillary | Tenzing Norgay; George Mallory
+Koji je brod potonuo 1912. nakon sudara sa santom leda? | Titanic | | Lusitania; Britannic
+Koji je talijanski istraživač putovao do Kine u 13. stoljeću? | Marko Polo | Marco Polo | Kristofor Kolumbo; Amerigo Vespucci
+Po kojem je moreplovcu nazvana Amerika? | Amerigo Vespucci | Vespucci | Kristofor Kolumbo; John Cabot
+Koja je civilizacija izgradila Machu Picchu? | Inke | Inka; Inki | Asteci; Maje
+Koja je civilizacija imala prijestolnicu Tenochtitlan? | Asteci | Aztek; Azteci | Inke; Maje
+Koji je španjolski konkvistador osvojio Astečko Carstvo? | Hernán Cortés | Cortés; Cortes; Hernan Cortes | Francisco Pizarro; Diego de Almagro
+Koji je konkvistador osvojio Carstvo Inka? | Francisco Pizarro | Pizarro | Hernán Cortés; Vasco Núñez de Balboa
+Kako se zove drevni egipatski grad s piramidama blizu Kaira? | Giza | Gizeh | Luksor; Aleksandrija
+Kako se zove egipatski kralj čija je grobnica pronađena gotovo netaknuta 1922.? | Tutankamon | Tutankhamun; Tutankamen | Ramzes II.; Keops
+Koja je egipatska kraljica bila u vezi s Cezarom i Markom Antonijem? | Kleopatra | Kleopatra VII. | Nefertiti; Hatšepsut
+Kojim su pismom pisali stari Egipćani? | hijeroglifi | hijeroglifima; hijeroglifsko | klinasto pismo; glagoljica
+Kako se zove kamen koji je pomogao odgonetnuti hijeroglife? | Kamen iz Rosette | Rosetta; kamen iz Rozete; Rosetski kamen | Bašćanska ploča; Hamurabijev zakonik
+Kojim su pismom pisali Sumerani? | klinasto pismo | klinopis | hijeroglifi; latinica
+U kojem je grčkom gradu nastala demokracija? | Atena | Atene | Sparta; Korint
+Gdje su održane prve antičke Olimpijske igre? | Olimpija | | Atena; Delfi
+Koji je grčki grad bio poznat po vojničkom odgoju? | Sparta | | Atena; Teba
+Kako se zvala bitka 300 Spartanaca protiv Perzijanaca? | Termopile | bitka kod Termopila | Maraton; Salamina
+Koji je grčki filozof bio učitelj Aleksandra Velikog? | Aristotel | | Platon; Sokrat
+Koji je grčki filozof osuđen na smrt ispijanjem otrova kukute? | Sokrat | | Platon; Aristotel
+Tko je napisao „Državu” i osnovao Akademiju u Ateni? | Platon | | Aristotel; Sokrat
+Koji je starogrčki matematičar poznat po poučku o pravokutnom trokutu? | Pitagora | Pitagoras | Euklid; Arhimed
+Koji je grčki znanstvenik uzviknuo „Eureka!” u kadi? | Arhimed | | Pitagora; Euklid
+Tko je tvrdio da se Zemlja okreće oko Sunca (heliocentrični sustav)? | Nikola Kopernik | Kopernik; Copernicus | Galileo Galilei; Ptolemej
+Kojeg je znanstvenika inkvizicija 1633. natjerala da se odrekne heliocentrizma? | Galileo Galilei | Galileo; Galilej | Giordano Bruno; Nikola Kopernik
+U kojem je talijanskom gradu nastala renesansa? | Firenca | Florencija; Firenze | Rim; Venecija
+Koja je obitelj vladala Firencom i bila mecena renesanse? | Medici | Mediči | Borgia; Sforza
+Koja je pandemija u 14. stoljeću ubila trećinu Europljana? | kuga | crna smrt; crna kuga | kolera; španjolska gripa
+Kako se zvala pandemija gripe 1918.–1920.? | španjolska gripa | španjolka | azijska gripa; ptičja gripa
+U kojem je gradu 1945. potpisana Povelja Ujedinjenih naroda? | San Francisco | | New York; Ženeva
+U kojem je gradu sjedište UN-a? | New York | Njujork | Ženeva; Beč
+U kojem je gradu sjedište NATO-a? | Bruxelles | Brisel | Strasbourg; Haag
+U kojem je gradu sjedište Europskog parlamenta (službeno)? | Strasbourg | Strazbur | Bruxelles; Luxembourg
+Koje je godine uveden euro kao gotovina? | 2002 | | 1999; 2000
+Koliko zvjezdica ima zastava Europske unije? | 12 | dvanaest | 15; 27
+Koja je država izašla iz Europske unije 2020.? | Ujedinjeno Kraljevstvo | Velika Britanija; Britanija; UK | Grčka; Norveška
+Kako se zvao britanski izlazak iz EU? | Brexit | | Grexit; Britout
+Koja je država darovala Kip slobode SAD-u? | Francuska | | Engleska; Italija
+Koje je godine bio teroristički napad na Blizance u New Yorku? | 2001 | | 2000; 2003
+Kako se zvao hladnoratovski savez istočnog bloka? | Varšavski pakt | Varšavski ugovor | NATO; Kominform
+Kako se zvala kriza 1962. kad je svijet bio na rubu nuklearnog rata? | Kubanska kriza | kubanska raketna kriza | Berlinska kriza; Sueska kriza
+Koje se godine dogodila nuklearna nesreća u Černobilu? | 1986 | | 1979; 1991
+U kojoj je današnjoj državi Černobil? | Ukrajina | | Rusija; Bjelorusija
+Koja je japanska nuklearna elektrana stradala nakon tsunamija 2011.? | Fukušima | Fukushima | Hirošima; Osaka
+Tko je bio vođa kubanske revolucije? | Fidel Castro | Castro | Che Guevara; Fulgencio Batista
+Koji je argentinski revolucionar postao ikona s poznate fotografije u beretki? | Che Guevara | Ernesto Che Guevara; Ernesto Guevara | Fidel Castro; Simón Bolívar
+Koji je južnoamerički osloboditelj dao ime Boliviji? | Simón Bolívar | Bolivar; Simon Bolivar | José de San Martín; Bernardo O'Higgins
+Koji je kineski vođa proglasio Narodnu Republiku Kinu 1949.? | Mao Zedong | Mao; Mao Ce Tung; Mao Tse-tung | Deng Xiaoping; Čang Kaj Šek
+Koja je dinastija izgradila većinu današnjeg Kineskog zida? | dinastija Ming | Ming | Qin; Han
+Koji je rat trajao od 1955. do 1975. u jugoistočnoj Aziji? | Vijetnamski rat | Vijetnam; rat u Vijetnamu | Korejski rat; Indokineski rat
+Koja je zemlja 1867. prodala Aljasku SAD-u? | Rusija | Ruska Carevina | Kanada; Velika Britanija
+Koje je godine Amerika ušla u Prvi svjetski rat? | 1917 | | 1914; 1918
+Kako se zvao savez Njemačke, Austro-Ugarske i Italije prije Prvog svjetskog rata? | Trojni savez | | Antanta; Osovina
+Kako se zvao savez Francuske, Rusije i Ujedinjenog Kraljevstva u Prvom svjetskom ratu? | Antanta | | Trojni savez; Osovina
+Kojim je mirovnim ugovorom 1919. formalno završen Prvi svjetski rat s Njemačkom? | Versajski mir | Versailles; Versajski ugovor | Trianonski mir; Bečki kongres
+Koja je carevina nastala 1867. nagodbom Austrije i Ugarske? | Austro-Ugarska | Austrougarska; Austro-Ugarska Monarhija | Habsburška Monarhija; Sveto Rimsko Carstvo
+Tko je bio car Austro-Ugarske od 1848. do 1916.? | Franjo Josip I. | Franjo Josip; Franz Joseph | Franjo Ferdinand; Karlo I.
+Kako se zvala supruga Franje Josipa, poznata kao Sisi? | Elizabeta | Sisi; Elisabeth; carica Elizabeta | Marija Terezija; Sofija
+Koja je habsburška vladarica vladala od 1740. do 1780.? | Marija Terezija | Maria Theresia | Elizabeta; Katarina Velika
+Koja je ruska carica poznata kao „Velika” vladala u 18. stoljeću? | Katarina Velika | Katarina II.; Katarina II | Ana Ivanovna; Elizabeta Petrovna
+Koji je ruski car osnovao Sankt Peterburg? | Petar Veliki | Petar I.; Petar I | Ivan Grozni; Nikola II.
+Kako se zvao posljednji ruski car, ubijen 1918.? | Nikola II. | Nikola II; Nikolaj II; Nikolaj II. | Aleksandar III.; Petar Veliki
+Koje je godine Titanic potonuo? | 1912 | | 1905; 1915
+Koja su braća 1903. izvela prvi let motornim zrakoplovom? | braća Wright | Wright; Wrightovi | braća Lumière; braća Montgolfier
+Koja su braća izumila kinematograf i prikazala prvi film 1895.? | braća Lumière | Lumière; Lumiere; braća Lumiere | braća Wright; braća Grimm
+Koja su braća poznata po zbirci bajki poput „Snjeguljice” i „Pepeljuge”? | braća Grimm | Grimm | braća Lumière; braća Wright
+Koja su braća 1783. podigla prvi balon na vrući zrak s ljudima? | braća Montgolfier | Montgolfier | braća Wright; braća Lumière
+Koje je godine održana prva moderna Olimpijada? | 1896 | | 1900; 1912
+U kojem su gradu održane prve moderne Olimpijske igre? | Atena | Atene | Pariz; London
+Tko je bio inicijator modernih Olimpijskih igara? | Pierre de Coubertin | Coubertin; de Coubertin | Avery Brundage; Juan Antonio Samaranch
+Koji je diktator vladao Španjolskom od 1939. do 1975.? | Francisco Franco | Franco | Antonio Salazar; Benito Mussolini
+Tko je bio talijanski fašistički diktator? | Benito Mussolini | Mussolini; Musolini | Francisco Franco; Vittorio Emanuele
+Koji se pokret u Poljskoj 1980-ih borio protiv komunizma? | Solidarnost | Solidarność | Građanski forum; Charta 77
+Tko je bio vođa poljske Solidarnosti? | Lech Wałęsa | Walesa; Lech Walesa; Valensa | Wojciech Jaruzelski; Václav Havel
+Kako se zvala mirna smjena komunizma u Čehoslovačkoj 1989.? | Baršunasta revolucija | Plišana revolucija | Praško proljeće; Narančasta revolucija
+Kako se zvao pokušaj reformi u Čehoslovačkoj 1968. ugušen tenkovima? | Praško proljeće | | Baršunasta revolucija; Mađarska revolucija
+Koje je godine počeo Domovinski rat u Hrvatskoj (oružani sukobi)? | 1991 | | 1990; 1992
+Koja je zemlja prva u svijetu dala ženama pravo glasa (1893.)? | Novi Zeland | | Finska; Ujedinjeno Kraljevstvo
+Koji je američki astronaut zajedno s Armstrongom hodao po Mjesecu? | Buzz Aldrin | Aldrin | Michael Collins; John Glenn
+Kako se zvao pas koji je bio prvo živo biće u Zemljinoj orbiti? | Lajka | Laika | Belka; Strelka
+Koja je svemirska letjelica eksplodirala 1986. nakon lansiranja? | Challenger | Čelendžer | Columbia; Discovery
+Kako se zove međunarodna svemirska postaja (kratica)? | ISS | Međunarodna svemirska postaja | MIR; NASA
+Kako se zvala sovjetska svemirska postaja u orbiti od 1986. do 2001.? | Mir | | Saljut; Skylab
+Tko je napisao „Komunistički manifest” zajedno s Engelsom? | Karl Marx | Marx; Marks | Vladimir Lenjin; Friedrich Nietzsche
+Koji je britanski znanstvenik bio vezan uz invalidska kolica i napisao „Kratku povijest vremena”? | Stephen Hawking | Hawking | Isaac Newton; Richard Dawkins
+Koji je bio prvi kloniran sisavac (1996.)? | ovca Dolly | Dolly | krava Daisy; miš Molly
+Tko je izumio World Wide Web? | Tim Berners-Lee | Berners-Lee; Tim Berners Lee | Bill Gates; Vint Cerf
+Koji je njemački vođa organizirao holokaust? | Adolf Hitler | Hitler | Heinrich Himmler; Hermann Göring
+Kako se zove dnevnik židovske djevojčice koja se skrivala u Amsterdamu? | Dnevnik Anne Frank | Anne Frank; Ana Frank | Dnevnik Zlate; Dnevnik Bridget Jones
+Na kojem se suđenju sudilo nacističkim vođama nakon rata? | Nürnberški proces | Nürnberg; Nirnberg; Nuernberg | Haaški sud; Londonski proces
+Koja je zemlja 1957. lansirala Sputnjik? | Sovjetski Savez | SSSR; USSR | SAD; Kina
+Kako se zvala američka svemirska agencija osnovana 1958.? | NASA | | ESA; Roscosmos
+Koji je britanski premijer poznat kao „Željezna lady”? | Margaret Thatcher | Thatcher; Tačer | Theresa May; Indira Gandhi
+Tko je bila prva žena premijerka Indije? | Indira Gandhi | Indira | Sonia Gandhi; Benazir Bhutto
+U kojem se gradu nalazi slavna crkva Sagrada Família? | Barcelona | | Madrid; Sevilla
+Tko je arhitekt crkve Sagrada Família? | Antoni Gaudí | Gaudi; Gaudí | Le Corbusier; Santiago Calatrava
+U kojem se gradu nalazi Eiffelov toranj? | Pariz | | Lyon; Bruxelles
+Koje je godine dovršen Eiffelov toranj? | 1889 | | 1900; 1871
+U kojem se gradu nalazi Koloseum? | Rim | | Atena; Verona
+U kojem se gradu nalazi Kosi toranj? | Pisa | | Firenca; Bologna
+U kojem se gradu nalazi Akropola? | Atena | Atene | Sparta; Solun
+U kojoj se državi nalazi Taj Mahal? | Indija | | Pakistan; Iran
+U kojoj se zemlji nalazi Petra, grad uklesan u stijene? | Jordan | | Egipat; Izrael
+U kojoj se zemlji nalazi Stonehenge? | Engleska | Ujedinjeno Kraljevstvo; Velika Britanija | Irska; Francuska
+U kojoj se zemlji nalaze Chichén Itzá i piramide Maja? | Meksiko | | Peru; Gvatemala
+U kojem se gradu nalazi Kip Krista Otkupitelja? | Rio de Janeiro | Rio | São Paulo; Buenos Aires
+U kojem se gradu nalazi zgrada opere s „jedrima”? | Sydney | Sidnej | Melbourne; Auckland
+U kojem se gradu nalazi Big Ben? | London | | Edinburgh; Dublin
+U kojem se gradu nalaze Brandenburška vrata? | Berlin | | München; Beč
+U kojem se gradu nalazi Crveni trg? | Moskva | | Sankt Peterburg; Kijev
+U kojem se gradu nalazi Burj Khalifa? | Dubai | Dubaj | Abu Dhabi; Doha
+U kojem se gradu nalazi Zabranjeni grad? | Peking | Beijing | Šangaj; Tokio
+U kojem se gradu nalazi Kip slobode? | New York | Njujork | Washington; Boston
+U kojem se gradu nalazi most Golden Gate? | San Francisco | | Los Angeles; Seattle
+U kojem se gradu nalazi Bijela kuća? | Washington | Washington D.C.; Vašington | New York; Philadelphia
+U kojem se gradu nalazi Atomium? | Bruxelles | Brisel | Amsterdam; Antwerpen
+U kojem se gradu nalazi Mala sirena na stijeni? | Kopenhagen | Kobenhavn | Stockholm; Oslo
+U kojem se gradu nalazi palača Schönbrunn? | Beč | Wien; Vienna | Salzburg; Budimpešta
+U kojem se gradu nalazi Alhambra? | Granada | | Sevilla; Córdoba
+U kojem se gradu nalazi Karlov most? | Prag | Praha | Budimpešta; Bratislava
+U kojem se gradu nalazi Most uzdaha? | Venecija | | Firenca; Rim
+U kojem se gradu nalazi Mostarski Stari most? | Mostar | | Sarajevo; Višegrad
+Koji je najpoznatiji roman Ive Andrića, dobitnika Nobelove nagrade 1961.? | Na Drini ćuprija | Na drini cuprija | Travnička hronika; Prokleta avlija
+# --- Razno ---
+Koliko je igrača u jednoj ekipi na terenu u nogometu? | 11 | jedanaest | 10; 12
+Koja je najprodavanija knjiga na svijetu? | Biblija | | Kuran; Don Quijote
+Kako se zove najpoznatiji sat-toranj u Londonu? | Big Ben | Elizabeth Tower | Tower Bridge; London Eye
+Koja je valuta Japana? | jen | yen | juan; von
+Koja je valuta Ujedinjenog Kraljevstva? | funta | britanska funta; funta sterlinga | euro; dolar
+Koja je valuta Švicarske? | švicarski franak | franak | euro; švicarska kruna
+Koja je valuta SAD-a? | dolar | američki dolar | euro; funta
+Koja je valuta Kine? | juan | renminbi; yuan | jen; von
+Koja je valuta Rusije? | rubalj | rublja | kopejka; grivna
+Koja je valuta Indije? | rupija | indijska rupija | rupi; taka
+Koja je valuta Poljske? | zlot | zloti | kruna; forinta
+Koja je valuta Mađarske? | forinta | forint | zlot; lej
+Koja je valuta Švedske? | švedska kruna | kruna | euro; marka
+Koja je valuta Turske? | turska lira | lira | dinar; rijal
+Koja je valuta Srbije? | dinar | srpski dinar | kuna; marka
+Koja je valuta Bosne i Hercegovine? | konvertibilna marka | marka; KM | dinar; euro
+Koja je valuta Brazila? | real | brazilski real | pezo; kruzeiro
+Koja je valuta Meksika? | pezo | meksički pezo | dolar; real
+Koliko centi ima jedan euro? | 100 | sto | 10; 1000
+Koliki je broj hitne pomoći u Hrvatskoj? | 194 | | 192; 193
+Koji je jedinstveni europski broj za hitne slučajeve? | 112 | | 911; 999
+Koji je broj policije u Hrvatskoj? | 192 | | 193; 194
+Koji je broj vatrogasaca u Hrvatskoj? | 193 | | 192; 194
+Koji je broj hitnih službi u SAD-u? | 911 | | 112; 999
+Kako se zove dan s najdužim danom u godini (oko 21. lipnja)? | ljetni solsticij | ljetni suncostaj; solsticij | proljetni ekvinocij; zimski solsticij
+Koji je mjesec u godini najkraći? | veljača | februar | travanj; studeni
+Koji je osmi mjesec u godini? | kolovoz | august | srpanj; rujan
+Koji je jedanaesti mjesec u godini? | studeni | novembar | listopad; prosinac
+Koji je četvrti mjesec u godini? | travanj | april | ožujak; svibanj
+Koji je horoskopski znak za rođene početkom kolovoza? | Lav | | Rak; Djevica
+Koliko je znakova u zapadnom horoskopu? | 12 | dvanaest | 10; 13
+Kako se zove crtani mornar koji jede špinat? | Popaj | Popeye | Pajo Patak; Garfield
+Kako se zove mačak iz stripa koji obožava lazanje? | Garfield | | Tom; Sylvester
+Kako se zove Mickeyjev pas? | Pluto | | Goofy; Šilja
+Kako se zove pas iz stripa Peanuts? | Snoopy | Snupi | Odie; Scooby-Doo
+Kako se zove Asterixov veliki prijatelj? | Obelix | | Idefix; Panoramix
+Kako se zove dječak s dugim nosom iz bajke koji laže? | Pinokio | Pinocchio | Petar Pan; Hlapić
+Kako se zove dječja igra s kvadratima nacrtanim kredom? | školica | školice | lovica; skrivača
+Kako se zove medvjedić koji voli med, iz knjiga A. A. Milnea? | Winnie the Pooh | Winnie Pooh; Pooh; Winnie | Paddington; Baloo
+Kako se zove medvjed iz „Knjige o džungli”? | Baloo | Balu | Bagheera; Shere Khan
+Kako se zove dječak kojeg su odgojili vukovi u „Knjizi o džungli”? | Mowgli | Mogli | Tarzan; Petar Pan
+Tko je napisao „Knjigu o džungli”? | Rudyard Kipling | Kipling | Jack London; Mark Twain
+Tko je napisao „Pustolovine Toma Sawyera”? | Mark Twain | Twain | Jack London; Charles Dickens
+Tko je napisao „Olivera Twista”? | Charles Dickens | Dickens | Mark Twain; Thomas Hardy
+Tko je napisao „Robinsona Crusoea”? | Daniel Defoe | Defoe | Jonathan Swift; Robert Louis Stevenson
+Tko je napisao „Otok s blagom”? | Robert Louis Stevenson | Stevenson | Daniel Defoe; Jules Verne
+Tko je napisao „Guliverova putovanja”? | Jonathan Swift | Swift | Daniel Defoe; Lewis Carroll
+Tko je napisao „Frankensteina”? | Mary Shelley | Shelley; Mary Wollstonecraft Shelley | Bram Stoker; Edgar Allan Poe
+Tko je napisao „Drakulu”? | Bram Stoker | Stoker | Mary Shelley; Oscar Wilde
+Tko je napisao „Sliku Doriana Graya”? | Oscar Wilde | Wilde | Bram Stoker; George Bernard Shaw
+Tko je napisao „Preobražaj” u kojem se Gregor Samsa pretvori u kukca? | Franz Kafka | Kafka | Albert Camus; Thomas Mann
+Tko je napisao „Stranca”? | Albert Camus | Camus; Kami | Jean-Paul Sartre; Franz Kafka
+Tko je napisao „Anu Karenjinu”? | Lav Nikolajevič Tolstoj | Tolstoj; Lav Tolstoj | Fjodor Dostojevski; Ivan Turgenjev
+Koji je ruski pisac napisao „Majstora i Margaritu”? | Mihail Bulgakov | Bulgakov | Boris Pasternak; Maksim Gorki
+Koji je ruski znanstvenik složio periodni sustav elemenata? | Dmitrij Mendeljejev | Mendeljejev; Mendelejev | Mihail Lomonosov; Ivan Pavlov
+Koji je ruski znanstvenik poznat po pokusima o uvjetnom refleksu sa psima? | Ivan Pavlov | Pavlov | Dmitrij Mendeljejev; Lav Landau
+Tko je izumio dinamit i osnovao poznatu nagradu? | Alfred Nobel | Nobel | Alfred Krupp; Thomas Edison
+U kojem se gradu dodjeljuje Nobelova nagrada za mir? | Oslo | | Stockholm; Ženeva
+U kojem se gradu dodjeljuju Nobelove nagrade osim za mir? | Stockholm | | Oslo; Kopenhagen
+Kako se zove najpoznatija filmska nagrada u Hollywoodu? | Oscar | Oskar; nagrada Akademije | Emmy; Zlatni globus
+Kako se zove glavna nagrada filmskog festivala u Cannesu? | Zlatna palma | Palme d'Or | Zlatni lav; Zlatni medvjed
+Kako se zove glavna nagrada Venecijanskog filmskog festivala? | Zlatni lav | | Zlatna palma; Zlatni medvjed
+Kako se zove glavna nagrada Berlinskog filmskog festivala? | Zlatni medvjed | | Zlatni lav; Zlatna palma
+Koja se televizijska nagrada smatra „Oscarom” za TV? | Emmy | | Grammy; Tony
+Koja se nagrada dodjeljuje za glazbu u SAD-u? | Grammy | | Emmy; Tony

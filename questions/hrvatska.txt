@@ -1,0 +1,241 @@
+# Format: pitanje | točan odgovor | drugi prihvaćeni odgovori (;) | dva netočna odgovora za A/B/C (;)
+Koja rijeka teče kroz Zagreb? | Sava | | Drava; Kupa
+U kojem se gradu nalazi Dioklecijanova palača? | Split | | Zadar; Pula
+Koji je nacionalni park poznat po 16 jezera povezanih slapovima? | Plitvička jezera | Plitvice; Plitvička; NP Plitvička jezera | Krka; Kornati
+Koji grad nazivaju „biserom Jadrana”? | Dubrovnik | | Split; Rovinj
+U kojem se gradu nalazi rimski amfiteatar Arena? | Pula | | Split; Zadar
+Koji je glavni grad Hrvatske? | Zagreb | | Split; Rijeka
+Na kojoj se planini nalazi najviši vrh Hrvatske? | Dinara | | Biokovo; Velebit
+Kako se zove najviši vrh Hrvatske? | Sinjal | Dinara; Sinjal na Dinari | Sveti Jure; Vaganski vrh
+Kako se zove najviši vrh Biokova? | Sveti Jure | Sv. Jure; Sv Jure | Vošac; Sinjal
+U kojem se gradu nalaze Morske orgulje? | Zadar | | Split; Šibenik
+U kojem se gradu nalazi instalacija Pozdrav Suncu? | Zadar | | Split; Rovinj
+Koja je službena valuta Hrvatske od 2023.? | euro | eur; euri; € | kuna; dinar
+Koja je bila hrvatska valuta prije uvođenja eura? | kuna | kune | dinar; tolar
+Koje je godine Hrvatska ušla u Europsku uniju? | 2013 | | 2009; 2015
+Koje je godine Hrvatska postala članica NATO-a? | 2009 | | 2004; 2013
+Koje je godine Hrvatski sabor donio odluku o samostalnosti Hrvatske? | 1991 | | 1990; 1992
+Tko je bio prvi predsjednik Republike Hrvatske? | Franjo Tuđman | Tuđman | Stjepan Mesić; Ivo Josipović
+Tko je bila prva predsjednica Republike Hrvatske? | Kolinda Grabar-Kitarović | Kolinda; Grabar-Kitarović; Grabar Kitarović | Jadranka Kosor; Vesna Pusić
+Tko je bila prva žena na čelu hrvatske Vlade? | Jadranka Kosor | Kosor | Kolinda Grabar-Kitarović; Vesna Pusić
+Koji je slavni izumitelj rođen u Smiljanu kraj Gospića? | Nikola Tesla | Tesla | Faust Vrančić; Slavoljub Penkala
+Koji je hrvatski izumitelj dao ime mehaničkoj olovci? | Slavoljub Penkala | Penkala | Faust Vrančić; Ivan Vučetić
+Koji je Hrvat u Argentini razvio identifikaciju ljudi pomoću otisaka prstiju? | Ivan Vučetić | Vučetić | Slavoljub Penkala; Faust Vrančić
+Faust Vrančić poznat je po nacrtu kojeg izuma? | padobrana | padobran | torpeda; balona
+U kojem je hrvatskom gradu razvijeno prvo torpedo? | Rijeka | | Pula; Split
+Koji modni dodatak, prema predaji, ime duguje Hrvatima? | kravata | kravatu; kravate | šešir; šal
+Tko je napisao ep „Judita”? | Marko Marulić | Marulić | Ivan Gundulić; Marin Držić
+Tko je napisao ep „Osman”? | Ivan Gundulić | Gundulić | Marko Marulić; Petar Preradović
+Tko je napisao komediju „Dundo Maroje”? | Marin Držić | Držić | Ivan Gundulić; Miroslav Krleža
+Tko je napisao roman „Povratak Filipa Latinovicza”? | Miroslav Krleža | Krleža | August Šenoa; Ivo Andrić
+Tko je napisao roman „Zlatarovo zlato”? | August Šenoa | Šenoa | Eugen Kumičić; Ksaver Šandor Gjalski
+Tko je napisao „Čudnovate zgode šegrta Hlapića”? | Ivana Brlić-Mažuranić | Brlić-Mažuranić; Brlić Mažuranić; Ivana Brlić Mažuranić | Grigor Vitez; Mato Lovrak
+Tko je napisao roman „Vlak u snijegu”? | Mato Lovrak | Lovrak | Ivana Brlić-Mažuranić; Grigor Vitez
+Tko je napisao stihove hrvatske himne? | Antun Mihanović | Mihanović | Petar Preradović; Ivan Mažuranić
+Tko je skladao glazbu hrvatske himne? | Josip Runjanin | Runjanin | Vatroslav Lisinski; Ivan Zajc
+Tko je skladao prvu hrvatsku operu „Ljubav i zloba”? | Vatroslav Lisinski | Lisinski | Ivan Zajc; Jakov Gotovac
+Tko je skladao operu „Nikola Šubić Zrinjski”? | Ivan Zajc | Zajc | Vatroslav Lisinski; Jakov Gotovac
+Tko je skladao operu „Ero s onoga svijeta”? | Jakov Gotovac | Gotovac | Ivan Zajc; Vatroslav Lisinski
+Koji je kipar autor „Zdenca života” u Zagrebu? | Ivan Meštrović | Meštrović | Antun Augustinčić; Frano Kršinić
+Koji je kipar autor kipa Grgura Ninskog u Splitu? | Ivan Meštrović | Meštrović | Antun Augustinčić; Vanja Radauš
+Tko je, prema predaji, bio prvi hrvatski kralj? | Tomislav | kralj Tomislav | Petar Krešimir IV.; Dmitar Zvonimir
+Koje je godine, prema predaji, okrunjen kralj Tomislav? | 925 | | 1102; 879
+Koje je godine Hrvatska ušla u personalnu uniju s Ugarskom? | 1102 | | 925; 1527
+Koje se godine odigrala bitka kod Siska protiv Osmanlija? | 1593 | | 1573; 1526
+Koje je godine izbila Seljačka buna pod vodstvom Matije Gupca? | 1573 | | 1593; 1848
+Tko je predvodio Seljačku bunu 1573. godine? | Matija Gubec | Gubec; Ambroz Gubec | Nikola Zrinski; Josip Jelačić
+Koji je ban 1848. ukinuo kmetstvo u Hrvatskoj? | Josip Jelačić | Jelačić | Ivan Mažuranić; Ljudevit Gaj
+Kojeg bana nazivaju „ban pučanin”? | Ivan Mažuranić | Mažuranić | Josip Jelačić; Khuen Héderváry
+Tko je predvodio Hrvatski narodni preporod i reformirao latinicu? | Ljudevit Gaj | Gaj | Ivan Mažuranić; Josip Juraj Strossmayer
+Koji je biskup zaslužan za osnivanje današnje HAZU? | Josip Juraj Strossmayer | Strossmayer | Franjo Rački; Ljudevit Gaj
+Kako se zove kameni spomenik na glagoljici s imenom kralja Zvonimira? | Bašćanska ploča | Baščanska ploča; Bascanska ploca | Višeslavova krstionica; Povaljska listina
+Na kojem je otoku pronađena Bašćanska ploča? | Krk | | Cres; Rab
+Kako se zove staro hrvatsko pismo kojim je pisana Bašćanska ploča? | glagoljica | glagoljicom | ćirilica; runsko pismo
+Koje je godine tiskana prva hrvatska knjiga, „Misal po zakonu rimskog dvora”? | 1483 | | 1527; 1450
+Koje su godine pogubljeni Petar Zrinski i Fran Krsto Frankopan? | 1671 | | 1573; 1715
+U kojem su gradu pogubljeni Zrinski i Frankopan? | Bečko Novo Mjesto | Wiener Neustadt | Beč; Budimpešta
+Na kojem se zagrebačkom trgu nalazi kip bana na konju? | Trg bana Jelačića | Jelačić plac; Trg bana Josipa Jelačića; Jelačićev trg | Markov trg; Trg kralja Tomislava
+Iz koje zagrebačke kule svakog podneva puca top? | Lotrščak | Kula Lotrščak | Kamenita vrata; Medvedgrad
+Na kojem se trgu nalazi crkva svetog Marka? | Markov trg | Trg svetog Marka; Trg sv. Marka | Trg bana Jelačića; Strossmayerov trg
+U kojem se zagrebačkom parku nalazi zoološki vrt? | Maksimir | | Zrinjevac; Ribnjak
+Koje zagrebačko jezero ima veslačku stazu? | Jarun | | Bundek; Savica
+Koji grad organizira ulični festival Špancirfest? | Varaždin | | Koprivnica; Čakovec
+Koji je grad bio glavni grad Hrvatske od 1767. do 1776.? | Varaždin | | Karlovac; Osijek
+Koji se grad naziva „gradom na četiri rijeke”? | Karlovac | | Sisak; Osijek
+Na kojoj rijeci leži Osijek? | Drava | | Sava; Dunav
+Koja se rijeka kod Vukovara ulijeva u Dunav? | Vuka | | Drava; Bosut
+Koja je građevina postala simbol stradanja Vukovara u Domovinskom ratu? | vodotoranj | vukovarski vodotoranj | dvorac Eltz; tvrđava
+U kojem se gradu nalazi katedrala svetog Jakova pod zaštitom UNESCO-a? | Šibenik | | Split; Trogir
+Koji je grad na malom otočiću pod zaštitom UNESCO-a, između Splita i Šibenika? | Trogir | | Primošten; Omiš
+U kojem se gradu nalazi Eufrazijeva bazilika? | Poreč | | Pula; Rovinj
+Koji se istarski gradić naziva najmanjim gradom na svijetu? | Hum | | Motovun; Grožnjan
+U kojem se istarskom gradiću na brdu održava poznati filmski festival? | Motovun | | Grožnjan; Labin
+Koji je otok mostom povezan s kopnom kod Kraljevice? | Krk | | Cres; Rab
+Koji je otok poznat po čipki, siru i janjetini? | Pag | | Hvar; Brač
+Na kojem se otoku nalazi plaža Zlatni rat? | Brač | | Hvar; Korčula
+Na kojem se otoku nalazi Vidova gora, najviši vrh jadranskih otoka? | Brač | | Hvar; Mljet
+Koji se otok često naziva „otokom lavande”? | Hvar | | Vis; Brač
+Na kojem je otoku, prema predaji, rođen Marko Polo? | Korčula | | Hvar; Lastovo
+Koji je otok nacionalni park poznat po Malom i Velikom jezeru? | Mljet | | Lastovo; Vis
+Koje je otočje bilo ljetna rezidencija Josipa Broza Tita? | Brijuni | Brijunsko otočje; Brioni | Kornati; Elafiti
+Koji nacionalni park čini najrazvedenije otočje na Jadranu? | Kornati | | Brijuni; Mljet
+Na kojoj se rijeci nalazi slap Skradinski buk? | Krka | | Cetina; Zrmanja
+Na kojoj se planini nalazi Nacionalni park Paklenica? | Velebit | | Biokovo; Učka
+Koja je najduža planina u Hrvatskoj? | Velebit | | Dinara; Učka
+U kojoj se regiji nalazi Nacionalni park Risnjak? | Gorski kotar | | Lika; Zagorje
+Koliko nacionalnih parkova ima Hrvatska? | 8 | osam | 6; 10
+Koliko županija ima Hrvatska, ne računajući Grad Zagreb? | 20 | dvadeset | 21; 18
+Koja je rijeka najduža na području Hrvatske? | Sava | | Drava; Kupa
+Koje je najveće prirodno jezero u Hrvatskoj? | Vransko jezero | Vransko | Prokljansko jezero; Peruća
+Koja se rijeka ulijeva u more kod Omiša? | Cetina | | Krka; Neretva
+U delti koje rijeke se uzgajaju poznate mandarine? | Neretva | | Cetina; Krka
+Koliko polja ima šahovnica na hrvatskom grbu? | 25 | dvadeset pet | 16; 36
+Koje je boje prvo (gornje lijevo) polje hrvatske šahovnice? | crveno | crvena; crvene | bijelo; plavo
+Kojim su redom, odozgo prema dolje, boje hrvatske zastave? | crvena, bijela, plava | crveno bijelo plavo; crvena bijela plava | plava, bijela, crvena; bijela, plava, crvena
+Koji se datum od 2020. obilježava kao Dan državnosti? | 30. svibnja | 30 svibnja; 30.5. | 25. lipnja; 8. listopada
+Kojeg se datuma obilježava Dan pobjede i domovinske zahvalnosti? | 5. kolovoza | 5 kolovoza; 5.8. | 4. kolovoza; 15. kolovoza
+Kako se zove vojnoredarstvena operacija iz kolovoza 1995.? | Oluja | operacija Oluja; VRA Oluja | Bljesak; Maslenica
+Koje je godine izvedena operacija Oluja? | 1995 | | 1993; 1991
+Kako se zove operacija iz svibnja 1995. kojom je oslobođena zapadna Slavonija? | Bljesak | operacija Bljesak | Oluja; Maslenica
+Kojem klubu navijaju Torcida i kako ga zovu „Bili”? | Hajduk Split | Hajduk | Dinamo Zagreb; HNK Rijeka
+Na kojem stadionu igra Hajduk? | Poljud | stadion Poljud | Maksimir; Rujevica
+Na kojem stadionu igra Dinamo Zagreb? | Maksimir | stadion Maksimir | Kranjčevićeva; Poljud
+Na kojem stadionu HNK Rijeka igra od 2015.? | Rujevica | stadion Rujevica | Poljud; Gradski vrt
+Koji je hrvatski nogometaš osvojio Zlatnu loptu 2018.? | Luka Modrić | Modrić | Ivan Rakitić; Mario Mandžukić
+Tko je bio najbolji strijelac Svjetskog prvenstva 1998.? | Davor Šuker | Šuker | Zvonimir Boban; Robert Prosinečki
+Tko je vodio Hrvatsku do finala Svjetskog prvenstva 2018.? | Zlatko Dalić | Dalić | Slaven Bilić; Miroslav Blažević
+Tko je bio izbornik Hrvatske na Svjetskom prvenstvu 1998.? | Miroslav Blažević | Ćiro; Ćiro Blažević; Blažević | Otto Barić; Slaven Bilić
+Koje je godine Goran Ivanišević osvojio Wimbledon? | 2001 | | 1998; 2003
+Koja je hrvatska skijašica osvojila četiri olimpijska zlata? | Janica Kostelić | Janica; Kostelić | Ana Jelušić; Nika Fleiss
+U kojem je gradu Janica Kostelić osvojila tri zlata na Olimpijskim igrama 2002.? | Salt Lake City | Salt Lake | Torino; Nagano
+U kojoj je disciplini Sandra Perković osvojila dva olimpijska zlata? | bacanje diska | disk | bacanje kugle; bacanje koplja
+U kojoj se disciplini natjecala Blanka Vlašić? | skok u vis | vis | skok u dalj; troskok
+Kojeg hrvatskog košarkaša zovu „Mozart košarke”? | Dražen Petrović | Petrović; Dražen | Toni Kukoč; Dino Rađa
+U kojem je gradu rođen Dražen Petrović? | Šibenik | | Zagreb; Split
+U kojem je gradu hrvatska rukometna reprezentacija osvojila olimpijsko zlato 2004.? | Atena | Athens | Peking; Sydney
+Koji je sir zaštićeni proizvod otoka Paga? | paški sir | paški | livanjski sir; krčki sir
+Kako se zove poznata slavonska kobasica od mljevenog mesa i ljute paprike? | kulen | kulin | pršut; čajna kobasica
+Iz koje su regije poznati štrukli s domaćim sirom? | Hrvatsko zagorje | Zagorje | Slavonija; Dalmacija
+Kako se zove način pripreme jela ispod željeznog poklopca prekrivenog žarom? | peka | ispod peke | brudet; gulaš
+Kako se zove tradicionalni crveni zagrebački suncobran s tržnice Dolac? | šestinski kišobran | šestinski | samoborski kišobran; zagorski kišobran
+Po kojem su kolaču poznati Samobor i njegove slastičarnice? | kremšnita | kremšnite; samoborska kremšnita | štrudla; orehnjača
+Koji je primorski grad poznat po vili Angiolini i šetnici Lungomare? | Opatija | | Crikvenica; Lovran
+Koji grad organizira najveći karneval u Hrvatskoj? | Rijeka | | Samobor; Split
+U kojem se gradu održava viteška igra Alka? | Sinj | | Imotski; Knin
+Koje je godine Sinj obranjen od Osmanlija, u spomen čemu se održava Alka? | 1715 | | 1593; 1699
+Na kojem se otoku izvodi tradicionalni viteški ples moreška? | Korčula | | Hvar; Brač
+Za koju je regiju tipično klapsko pjevanje? | Dalmacija | | Slavonija; Istra
+Za koju je regiju tipičan bećarac? | Slavonija | | Zagorje; Dalmacija
+Pokraj kojeg se grada nalaze Modro i Crveno jezero? | Imotski | | Sinj; Vrgorac
+Koja je država susjed Hrvatske na krajnjem jugu, kod Dubrovnika? | Crna Gora | | Albanija; Srbija
+S koliko država Hrvatska graniči kopnom? | 5 | pet | 4; 6
+Koji je najveći poluotok u Hrvatskoj? | Istra | | Pelješac; Prevlaka
+S kojim poluotokom Pelješki most povezuje kopno? | Pelješac | Pelješcem | Korčula; Hvar
+Koje je godine otvoren Pelješki most? | 2022 | | 2020; 2019
+Koji gradić na Pelješcu ima najduže obrambene zidine u Europi? | Ston | | Orebić; Trpanj
+Ispred kojeg se grada nalazi otok Lokrum? | Dubrovnik | | Split; Šibenik
+Iznad kojeg se grada uzdiže park-šuma Marjan? | Split | | Zadar; Rijeka
+U kojem se gradu nalazi svetište i gradina Trsat? | Rijeka | | Pula; Zadar
+Što je Mirogoj u Zagrebu? | groblje | gradsko groblje | park; trg
+Koji se dvorac u Zagorju nalazi uz istoimeno jezero i jedan je od najposjećenijih u Hrvatskoj? | Trakošćan | | Veliki Tabor; Oršić
+Tko je rođen u zagorskom selu Kumrovcu? | Josip Broz Tito | Tito; Josip Broz | Stjepan Radić; Franjo Tuđman
+Koju je stranku osnovao Stjepan Radić sa svojim bratom Antunom? | Hrvatska seljačka stranka | HSS; HPSS | HDZ; Hrvatska stranka prava
+U kojem je gradu 1928. izvršen atentat na Stjepana Radića? | Beograd | | Zagreb; Beč
+Koji je hrvatski znanstvenik dobio Nobelovu nagradu za kemiju 1939.? | Lavoslav Ružička | Ružička | Vladimir Prelog; Andrija Mohorovičić
+Za koje je područje Vladimir Prelog dobio Nobelovu nagradu? | kemija | kemiju | fiziku; medicinu
+Andrija Mohorovičić je otkrio granicu između Zemljine kore i plašta. U kojoj je znanosti radio? | seizmologija | seizmologiji; geofizika | astronomija; kemija
+U kojem je gradu rođen znanstvenik Ruđer Bošković? | Dubrovnik | | Split; Zadar
+U kojem se gradu nalazi Institut Ruđer Bošković? | Zagreb | | Split; Rijeka
+Kako se zove hrvatski proizvođač električnih hiperautomobila Mate Rimca? | Rimac | Rimac Automobili | Končar; Tomos
+Kako se zove električni hiperautomobil tvrtke Rimac predstavljen 2021.? | Nevera | | Chiron; Taycan
+Kako se zove poznata Kraševa bombonijera s nugatom? | Bajadera | | Milka; Toblerone
+Koja je tvrtka proizvođač dodatka jelima Vegeta? | Podravka | | Kraš; Franck
+Koji je međunarodni pozivni broj za Hrvatsku? | +385 | 385; 00385 | +381; +387
+Koja je internetska domena Hrvatske? | .hr | hr | .cr; .hv
+Koja je registracijska oznaka za Zagreb? | ZG | | ZA; ZB
+Koja je registracijska oznaka za Split? | ST | | SP; SI
+Koja je poznata keramička figura simbol Vukovara? | Vučedolska golubica | golubica | Vinkovačka kraljica; Krapinska Venera
+Pripadnici koje vrste pračovjeka su pronađeni kod Krapine? | neandertalac | neandertalci; neandertalski čovjek | kromanjonac; homo erectus
+Koja institucija ima sjedište u Banskim dvorima? | Vlada | Vlada Republike Hrvatske; Vlada RH | Sabor; Ustavni sud
+Čije je službeno sjedište na Pantovčaku? | predsjednika | predsjednik; predsjednika Republike; Ured predsjednika | Vlade; Sabora
+Koja su tri narječja hrvatskog jezika: štokavsko, kajkavsko i …? | čakavsko | čakavski; čakavština | torlačko; ikavsko
+Koja je endemska biljka postala simbol Velebita? | velebitska degenija | degenija | runolist; lavanda
+Koja pasmina psa nosi ime po hrvatskoj regiji? | dalmatinac | dalmatinski pas | bigl; doberman
+Koja je najveća hrvatska teretna luka? | Rijeka | | Split; Ploče
+Kako se zove zagrebačka zračna luka? | Franjo Tuđman | Zračna luka Franjo Tuđman; Pleso | Nikola Tesla; Ruđer Bošković
+Koja autocesta povezuje Zagreb i Split? | A1 | | A3; A6
+Koja autocesta povezuje Zagreb i Lipovac na granici sa Srbijom? | A3 | | A1; A4
+Tko je zaštitnik Dubrovnika? | sveti Vlaho | Vlaho; sv. Vlaho | sveti Duje; sveti Vid
+Tko je zaštitnik Splita? | sveti Duje | Duje; sv. Duje; sveti Dujam | sveti Vlaho; sveti Vid
+Tko je zaštitnik Rijeke? | sveti Vid | Vid; sv. Vid | sveti Duje; sveti Vlaho
+Tko je zaštitnica Zadra? | sveta Stošija | Stošija; sv. Stošija; sveta Anastazija | sveta Eufemija; sveta Lucija
+Tko je zaštitnica Rovinja? | sveta Eufemija | Eufemija; sv. Eufemija | sveta Stošija; sveta Lucija
+Kod ušća koje rijeke u Dunav se nalazi Park prirode Kopački rit? | Drava | Drave | Sava; Vuka
+Uz koju se rijeku prostire Park prirode Lonjsko polje? | Sava | Save | Drava; Kupa
+Kako se zove najviši vrh Medvednice? | Sljeme | | Japetić; Ivančica
+Kako se zove najviši slap na Plitvičkim jezerima? | Veliki slap | | Skradinski buk; Roški slap
+Koje su godine Plitvička jezera upisana na UNESCO-ov popis svjetske baštine? | 1979 | | 1999; 1965
+U kojem je mjestu na Korčuli rođen pjevač Oliver Dragojević? | Vela Luka | | Hvar; Makarska
+Tko je režirao film „Tko pjeva zlo ne misli”? | Krešo Golik | Golik | Antun Vrdoljak; Veljko Bulajić
+Koji je animirani film Dušana Vukotića osvojio Oscara 1962.? | Surogat | Ersatz | Profesor Baltazar; Don Kihot
+Kako se zove studio poznat po „Zagrebačkoj školi crtanog filma”? | Zagreb film | Zagrebfilm | Jadran film; Croatia film
+Iz kojeg je djela stih „O lijepa, o draga, o slatka slobodo”? | Dubravka | | Osman; Judita
+Koje je godine na saboru u Cetinu izabran Ferdinand Habsburški za hrvatskog kralja? | 1527 | | 1102; 1573
+Kako se zvalo poznato pulsko brodogradilište osnovano 1856.? | Uljanik | | Brodosplit; 3. maj
+Na kojem se otoku nalazi grad Vis i bivša vojna baza? | Vis | | Lastovo; Hvar
+U kojem se gradu nalazi Tvrđa, barokna utvrda iz 18. stoljeća? | Osijek | | Slavonski Brod; Karlovac
+U kojem se gradu nalazi tvrđava Brod, jedna od najvećih u Hrvatskoj? | Slavonski Brod | | Osijek; Vukovar
+Koji grad je poznat kao „zavičaj bajki” i grad Ivane Brlić-Mažuranić? | Ogulin | | Karlovac; Samobor
+Kako se zove poznata ponornica koja ponire u Ogulinu? | Dobra | | Mrežnica; Korana
+Koja hrvatska rijeka je poznata po rafting turama kroz kanjon kod Omiša? | Cetina | | Kupa; Mrežnica
+Koja se rijeka na granici sa Slovenijom koristi za rafting i kupanje? | Kupa | | Sava; Mura
+Kako se zove poznati kanjon s Velikom i Malom Paklenicom? | Paklenica | | Zrmanja; Krka
+Koji je grad središte Međimurske županije? | Čakovec | | Varaždin; Koprivnica
+Koji je grad središte Ličko-senjske županije? | Gospić | | Otočac; Senj
+Koji je grad središte Istarske županije? | Pazin | | Pula; Poreč
+Koji je grad središte Koprivničko-križevačke županije? | Koprivnica | | Križevci; Đurđevac
+Koji je grad središte Šibensko-kninske županije? | Šibenik | | Knin; Drniš
+U kojem se gradu nalazi tvrđava Nehaj, simbol uskoka? | Senj | | Novi Vinodolski; Krk
+Kako su se zvali hrvatski ratnici iz Senja koji su ratovali protiv Osmanlija i Venecije? | uskoci | uskok | hajduci; graničari
+Kako se zvalo vojno područje uz granicu s Osmanskim Carstvom? | Vojna krajina | Vojna granica | Banovina; Slavonska krajina
+Tko je bio ban u vrijeme bitke kod Siska 1593.? | Toma Erdődy | Erdődy; Toma Bakač Erdődy | Petar Zrinski; Nikola Zrinski
+Kod kojeg je ugarskog grada 1566. poginuo Nikola Šubić Zrinski? | Siget | Szigetvár; Sigetvar | Budim; Mohač
+Kako se zove tradicionalni dubrovački festival koji se održava svakog ljeta od 1950.? | Dubrovačke ljetne igre | Ljetne igre; Dubrovačke igre | Splitsko ljeto; Pulski filmski festival
+U kojem se gradu održava Splitsko ljeto? | Split | | Zadar; Šibenik
+U kojem se gradu održava najstariji filmski festival u Hrvatskoj? | Pula | | Motovun; Zagreb
+Koji je glazbeni festival poznat po „Melodijama hrvatskog Jadrana”? | Splitski festival | Festival zabavne glazbe Split | Zagrebfest; Dora
+Kako se zove hrvatski izbor za pjesmu Eurovizije? | Dora | | Zagrebfest; Porin
+Kako se zove hrvatska glazbena nagrada, slična Grammyju? | Porin | | Dora; Zlatna arena
+Kako se zove nagrada Pulskog filmskog festivala? | Zlatna arena | | Porin; Zlatni lav
+S kojom je pjesmom Baby Lasagna 2024. osvojio drugo mjesto na Euroviziji? | Rim Tim Tagi Dim | Rim tim tagi dim | Tramontana; Ša-la-la
+Koji je hrvatski duo violončelista postao svjetski poznat izvođenjem pop i rock hitova? | 2Cellos | Two Cellos; 2 Cellos | Hauser; Piano Guys
+Kako se zove legendarni hrvatski rock bend čiji je pjevač bio Aki Rahimovski? | Parni valjak | | Prljavo kazalište; Film
+Koji je hrvatski pjevač pjevao „Cesarica”? | Oliver Dragojević | Oliver; Dragojević | Gibonni; Doris Dragović
+Koji grad se zove „grad mladosti” i ima najveći sveučilišni kampus u Hrvatskoj? | Zagreb | | Split; Osijek
+Koje je najstarije sveučilište u Hrvatskoj (osnovano 1669.)? | Sveučilište u Zagrebu | Zagreb; zagrebačko sveučilište | Sveučilište u Zadru; Sveučilište u Splitu
+Koja je hrvatska tvrtka poznata po proizvodnji tramvaja i električne opreme? | Končar | | Rimac; Pliva
+Koja je hrvatska farmaceutska tvrtka razvila azitromicin (Sumamed)? | Pliva | | Belupo; Jadran Galenski laboratorij
+Kako se zove poznati dalmatinski pršut sušen na buri? | dalmatinski pršut | pršut | kulen; panceta
+Koji je tradicionalni slatki kruh za Uskrs u Dalmaciji? | sirnica | | pinca; povitica
+Kako se zove uskrsni slatki kruh u Istri i na Kvarneru? | pinca | | sirnica; kuglof
+Kako se zovu pržene kuglice od tijesta koje se jedu za Božić u Dalmaciji? | fritule | fritula | krostule; uštipci
+Kako se zove poznato vino s poluotoka Pelješca? | Dingač | | Plavac; Graševina
+Koja je najrasprostranjenija bijela sorta vinove loze u kontinentalnoj Hrvatskoj? | Graševina | | Malvazija; Pošip
+Koja je poznata bijela sorta vina iz Istre? | Malvazija | malvazija istarska | Graševina; Pošip
+Koja je poznata bijela sorta vina s otoka Korčule? | Pošip | | Graševina; Malvazija
+Koja je crvena sorta vina najpoznatija u Dalmaciji? | Plavac mali | plavac | Teran; Frankovka
+Koja je crvena sorta vina tipična za Istru? | Teran | | Plavac mali; Babić
+Koji je tradicionalni zagorski kolač od tijesta s orasima, u obliku rolade? | povitica | | štrukli; mlinci
+Kako se zovu tanki pečeni listovi tijesta koji se prelijevaju masnoćom od pečenja? | mlinci | | štrukli; žganci
+Kako se zove kuhano jelo od kukuruznog brašna, tipično za sjever Hrvatske? | žganci | palenta; pura | mlinci; štrukli
+Kako se zove ljuto riblje jelo s paprikom, tipično za Slavoniju i Baranju? | fiš paprikaš | fiš; riblji paprikaš | brudet; čobanac
+Kako se zove jelo od više vrsta mesa kuhano u kotliću, tipično za Slavoniju? | čobanac | | fiš paprikaš; brudet
+Kako se zove riblje jelo kuhano s rajčicom i vinom, tipično za Dalmaciju? | brudet | brodet; brujet | čobanac; fiš paprikaš
+Kako se zove tradicionalno dalmatinsko jelo od govedine marinirane u vinu i octu? | pašticada | pasticada | gulaš; brudet
+Kako se zove nogometni derbi između Hajduka i Dinama? | Vječni derbi | hrvatski derbi | Jadranski derbi; Zagrebački derbi
+Kako se zove derbi između Hajduka i Rijeke? | Jadranski derbi | | Vječni derbi; Primorski derbi
+Kako se zovu navijači Dinama Zagreb? | Bad Blue Boys | BBB | Torcida; Armada
+Kako se zovu navijači HNK Rijeke? | Armada | | Torcida; Kohorta
+Kako se zovu navijači NK Osijeka? | Kohorta | | Armada; Torcida
+Koje je godine osnovan Hajduk Split? | 1911 | | 1945; 1921
+Koje je godine osnovan Dinamo Zagreb? | 1945 | | 1911; 1924
