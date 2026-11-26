@@ -39,10 +39,10 @@ Tko je skladao operu „Ero s onoga svijeta”? | Jakov Gotovac | Gotovac | Ivan
 Koji je kipar autor „Zdenca života” u Zagrebu? | Ivan Meštrović | Meštrović | Antun Augustinčić; Frano Kršinić
 Koji je kipar autor kipa Grgura Ninskog u Splitu? | Ivan Meštrović | Meštrović | Antun Augustinčić; Vanja Radauš
 Tko je, prema predaji, bio prvi hrvatski kralj? | Tomislav | kralj Tomislav | Petar Krešimir IV.; Dmitar Zvonimir
-Koje je godine, prema predaji, okrunjen kralj Tomislav? | 925 | | 1102; 879
-Koje je godine Hrvatska ušla u personalnu uniju s Ugarskom? | 1102 | | 925; 1527
-Koje se godine odigrala bitka kod Siska protiv Osmanlija? | 1593 | | 1573; 1526
-Koje je godine izbila Seljačka buna pod vodstvom Matije Gupca? | 1573 | | 1593; 1848
+U kojem je stoljeću, prema predaji, okrunjen kralj Tomislav? | 10. stoljeće | 10.; 10. st; X; X. stoljeće | 9. stoljeće; 11. stoljeće
+U kojem je stoljeću Hrvatska ušla u personalnu uniju s Ugarskom? | 12. stoljeće | 12.; 12. st; XII; XII. stoljeće | 11. stoljeće; 13. stoljeće
+U kojem se stoljeću odigrala bitka kod Siska protiv Osmanlija? | 16. stoljeće | 16.; 16. st; XVI; XVI. stoljeće | 15. stoljeće; 17. stoljeće
+U kojem je stoljeću izbila Seljačka buna pod vodstvom Matije Gupca? | 16. stoljeće | 16.; 16. st; XVI; XVI. stoljeće | 15. stoljeće; 17. stoljeće
 Tko je predvodio Seljačku bunu 1573. godine? | Matija Gubec | Gubec; Ambroz Gubec | Nikola Zrinski; Josip Jelačić
 Koji je ban 1848. ukinuo kmetstvo u Hrvatskoj? | Josip Jelačić | Jelačić | Ivan Mažuranić; Ljudevit Gaj
 Kojeg bana nazivaju „ban pučanin”? | Ivan Mažuranić | Mažuranić | Josip Jelačić; Khuen Héderváry
@@ -51,8 +51,8 @@ Koji je biskup zaslužan za osnivanje današnje HAZU? | Josip Juraj Strossmayer 
 Kako se zove kameni spomenik na glagoljici s imenom kralja Zvonimira? | Bašćanska ploča | Baščanska ploča; Bascanska ploca | Višeslavova krstionica; Povaljska listina
 Na kojem je otoku pronađena Bašćanska ploča? | Krk | | Cres; Rab
 Kako se zove staro hrvatsko pismo kojim je pisana Bašćanska ploča? | glagoljica | glagoljicom | ćirilica; runsko pismo
-Koje je godine tiskana prva hrvatska knjiga, „Misal po zakonu rimskog dvora”? | 1483 | | 1527; 1450
-Koje su godine pogubljeni Petar Zrinski i Fran Krsto Frankopan? | 1671 | | 1573; 1715
+U kojem je stoljeću tiskana prva hrvatska knjiga, „Misal po zakonu rimskog dvora”? | 15. stoljeće | 15.; 15. st; XV; XV. stoljeće | 14. stoljeće; 16. stoljeće
+U kojem su stoljeću pogubljeni Petar Zrinski i Fran Krsto Frankopan? | 17. stoljeće | 17.; 17. st; XVII; XVII. stoljeće | 16. stoljeće; 18. stoljeće
 U kojem su gradu pogubljeni Zrinski i Frankopan? | Bečko Novo Mjesto | Wiener Neustadt | Beč; Budimpešta
 Na kojem se zagrebačkom trgu nalazi kip bana na konju? | Trg bana Jelačića | Jelačić plac; Trg bana Josipa Jelačića; Jelačićev trg | Markov trg; Trg kralja Tomislava
 Iz koje zagrebačke kule svakog podneva puca top? | Lotrščak | Kula Lotrščak | Kamenita vrata; Medvedgrad
@@ -105,7 +105,7 @@ Koji je hrvatski nogometaš osvojio Zlatnu loptu 2018.? | Luka Modrić | Modrić
 Tko je bio najbolji strijelac Svjetskog prvenstva 1998.? | Davor Šuker | Šuker | Zvonimir Boban; Robert Prosinečki
 Tko je vodio Hrvatsku do finala Svjetskog prvenstva 2018.? | Zlatko Dalić | Dalić | Slaven Bilić; Miroslav Blažević
 Tko je bio izbornik Hrvatske na Svjetskom prvenstvu 1998.? | Miroslav Blažević | Ćiro; Ćiro Blažević; Blažević | Otto Barić; Slaven Bilić
-Koje je godine Goran Ivanišević osvojio Wimbledon? | 2001 | | 1998; 2003
+U kojem je desetljeću Goran Ivanišević osvojio Wimbledon? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Koja je hrvatska skijašica osvojila četiri olimpijska zlata? | Janica Kostelić | Janica; Kostelić | Ana Jelušić; Nika Fleiss
 U kojem je gradu Janica Kostelić osvojila tri zlata na Olimpijskim igrama 2002.? | Salt Lake City | Salt Lake | Torino; Nagano
 U kojoj je disciplini Sandra Perković osvojila dva olimpijska zlata? | bacanje diska | disk | bacanje kugle; bacanje koplja
@@ -122,7 +122,7 @@ Po kojem su kolaču poznati Samobor i njegove slastičarnice? | kremšnita | kre
 Koji je primorski grad poznat po vili Angiolini i šetnici Lungomare? | Opatija | | Crikvenica; Lovran
 Koji grad organizira najveći karneval u Hrvatskoj? | Rijeka | | Samobor; Split
 U kojem se gradu održava viteška igra Alka? | Sinj | | Imotski; Knin
-Koje je godine Sinj obranjen od Osmanlija, u spomen čemu se održava Alka? | 1715 | | 1593; 1699
+U kojem je stoljeću Sinj obranjen od Osmanlija, u spomen čemu se održava Alka? | 18. stoljeće | 18.; 18. st; XVIII; XVIII. stoljeće | 17. stoljeće; 19. stoljeće
 Na kojem se otoku izvodi tradicionalni viteški ples moreška? | Korčula | | Hvar; Brač
 Za koju je regiju tipično klapsko pjevanje? | Dalmacija | | Slavonija; Istra
 Za koju je regiju tipičan bećarac? | Slavonija | | Zagorje; Dalmacija
@@ -131,7 +131,7 @@ Koja je država susjed Hrvatske na krajnjem jugu, kod Dubrovnika? | Crna Gora | 
 S koliko država Hrvatska graniči kopnom? | 5 | pet | 4; 6
 Koji je najveći poluotok u Hrvatskoj? | Istra | | Pelješac; Prevlaka
 S kojim poluotokom Pelješki most povezuje kopno? | Pelješac | Pelješcem | Korčula; Hvar
-Koje je godine otvoren Pelješki most? | 2022 | | 2020; 2019
+U kojem je desetljeću otvoren Pelješki most? | 2020-ih | 2020-e | 2010-ih; 2000-ih
 Koji gradić na Pelješcu ima najduže obrambene zidine u Europi? | Ston | | Orebić; Trpanj
 Ispred kojeg se grada nalazi otok Lokrum? | Dubrovnik | | Split; Šibenik
 Iznad kojeg se grada uzdiže park-šuma Marjan? | Split | | Zadar; Rijeka
@@ -174,13 +174,13 @@ Kod ušća koje rijeke u Dunav se nalazi Park prirode Kopački rit? | Drava | Dr
 Uz koju se rijeku prostire Park prirode Lonjsko polje? | Sava | Save | Drava; Kupa
 Kako se zove najviši vrh Medvednice? | Sljeme | | Japetić; Ivančica
 Kako se zove najviši slap na Plitvičkim jezerima? | Veliki slap | | Skradinski buk; Roški slap
-Koje su godine Plitvička jezera upisana na UNESCO-ov popis svjetske baštine? | 1979 | | 1999; 1965
+U kojem su desetljeću Plitvička jezera upisana na UNESCO-ov popis svjetske baštine? | 1970-ih | 1970-e; 70-ih; 70-e; sedamdesete | 1960-ih; 1980-ih
 U kojem je mjestu na Korčuli rođen pjevač Oliver Dragojević? | Vela Luka | | Hvar; Makarska
 Tko je režirao film „Tko pjeva zlo ne misli”? | Krešo Golik | Golik | Antun Vrdoljak; Veljko Bulajić
 Koji je animirani film Dušana Vukotića osvojio Oscara 1962.? | Surogat | Ersatz | Profesor Baltazar; Don Kihot
 Kako se zove studio poznat po „Zagrebačkoj školi crtanog filma”? | Zagreb film | Zagrebfilm | Jadran film; Croatia film
 Iz kojeg je djela stih „O lijepa, o draga, o slatka slobodo”? | Dubravka | | Osman; Judita
-Koje je godine na saboru u Cetinu izabran Ferdinand Habsburški za hrvatskog kralja? | 1527 | | 1102; 1573
+U kojem je stoljeću na saboru u Cetinu izabran Ferdinand Habsburški za hrvatskog kralja? | 16. stoljeće | 16.; 16. st; XVI; XVI. stoljeće | 15. stoljeće; 17. stoljeće
 Kako se zvalo poznato pulsko brodogradilište osnovano 1856.? | Uljanik | | Brodosplit; 3. maj
 Na kojem se otoku nalazi grad Vis i bivša vojna baza? | Vis | | Lastovo; Hvar
 U kojem se gradu nalazi Tvrđa, barokna utvrda iz 18. stoljeća? | Osijek | | Slavonski Brod; Karlovac
@@ -237,5 +237,5 @@ Kako se zove derbi između Hajduka i Rijeke? | Jadranski derbi | | Vječni derbi
 Kako se zovu navijači Dinama Zagreb? | Bad Blue Boys | BBB | Torcida; Armada
 Kako se zovu navijači HNK Rijeke? | Armada | | Torcida; Kohorta
 Kako se zovu navijači NK Osijeka? | Kohorta | | Armada; Torcida
-Koje je godine osnovan Hajduk Split? | 1911 | | 1945; 1921
-Koje je godine osnovan Dinamo Zagreb? | 1945 | | 1911; 1924
+U kojem je desetljeću osnovan Hajduk Split? | 1910-ih | 1910-e; 10-ih; 10-e | 1900-ih; 1920-ih
+U kojem je desetljeću osnovan Dinamo Zagreb? | 1940-ih | 1940-e; 40-ih; 40-e; četrdesete | 1930-ih; 1950-ih

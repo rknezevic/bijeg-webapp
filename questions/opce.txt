@@ -184,7 +184,7 @@ Tko je suosnivač Microsofta zajedno s Paulom Allenom? | Bill Gates | Gates | St
 Tko je suosnovao Apple sa Steveom Wozniakom? | Steve Jobs | Jobs | Bill Gates; Tim Cook
 Tko je osnivač Facebooka? | Mark Zuckerberg | Zuckerberg | Jack Dorsey; Larry Page
 Koja je tvrtka razvila operacijski sustav Android? | Google | | Apple; Samsung
-Koje je godine predstavljen prvi iPhone? | 2007 | | 2005; 2010
+U kojem je desetljeću predstavljen prvi iPhone? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Koja je zemlja domovina tvrtke Nokia? | Finska | | Švedska; Norveška
 Iz koje je zemlje automobilska marka Volvo? | Švedska | | Norveška; Njemačka
 Iz koje je zemlje automobilska marka Škoda? | Češka | | Slovačka; Poljska
@@ -272,20 +272,20 @@ Tko je bio britanski premijer većim dijelom Drugog svjetskog rata? | Winston Ch
 Tko je bio predsjednik SAD-a većim dijelom Drugog svjetskog rata? | Franklin D. Roosevelt | Roosevelt; Franklin Roosevelt; FDR | Harry Truman; Dwight Eisenhower
 Tko je bio sovjetski vođa za vrijeme Drugog svjetskog rata? | Josif Staljin | Staljin; Stalin | Vladimir Lenjin; Nikita Hruščov
 Koje je godine pao Berlinski zid? | 1989 | | 1991; 1987
-Koje je godine izgrađen Berlinski zid? | 1961 | | 1949; 1953
-Koje se godine ponovno ujedinila Njemačka? | 1990 | | 1989; 1991
-Koje se godine raspao Sovjetski Savez? | 1991 | | 1989; 1993
+U kojem je desetljeću izgrađen Berlinski zid? | 1960-ih | 1960-e; 60-ih; 60-e; šezdesete | 1950-ih; 1970-ih
+U kojem se desetljeću ponovno ujedinila Njemačka? | 1990-ih | 1990-e; 90-ih; 90-e; devedesete | 1980-ih; 2000-ih
+U kojem se desetljeću raspao Sovjetski Savez? | 1990-ih | 1990-e; 90-ih; 90-e; devedesete | 1980-ih; 2000-ih
 Tko je bio posljednji vođa Sovjetskog Saveza? | Mihail Gorbačov | Gorbačov | Boris Jeljcin; Leonid Brežnjev
 Tko je predvodio Oktobarsku revoluciju u Rusiji 1917.? | Vladimir Iljič Lenjin | Lenjin; Lenin | Josif Staljin; Lav Trocki
-Koje je godine izbila Francuska revolucija? | 1789 | | 1776; 1815
+U kojem je stoljeću izbila Francuska revolucija? | 18. stoljeće | 18.; 18. st; XVIII; XVIII. stoljeće | 17. stoljeće; 19. stoljeće
 Koju su tvrđavu-zatvor Parižani zauzeli 14. srpnja 1789.? | Bastilja | Bastille | Versailles; Louvre
 Koja je francuska kraljica pogubljena 1793., žena Luja XVI.? | Marija Antoaneta | Marie Antoinette; Marija Antonija | Katarina Medici; Eleonora Akvitanska
 Koji je francuski car konačno poražen kod Waterlooa 1815.? | Napoleon Bonaparte | Napoleon | Luj XIV.; Karlo Veliki
-Koje je godine bila bitka kod Waterlooa? | 1815 | | 1812; 1805
+U kojem je stoljeću bila bitka kod Waterlooa? | 19. stoljeće | 19.; 19. st; XIX; XIX. stoljeće | 18. stoljeće; 20. stoljeće
 Na koji je otok Napoleon prognan nakon Waterlooa, gdje je i umro? | Sveta Helena | Sv. Helena; Sveta Jelena | Elba; Korzika
 Na kojem je otoku rođen Napoleon? | Korzika | | Elba; Sardinija
 Kojeg kralja zovu „Kralj Sunce”? | Luj XIV. | Luj XIV; Louis XIV; Luj 14 | Luj XVI.; Henrik IV.
-Koje je godine potpisana američka Deklaracija o neovisnosti? | 1776 | | 1789; 1783
+U kojem je stoljeću potpisana američka Deklaracija o neovisnosti? | 18. stoljeće | 18.; 18. st; XVIII; XVIII. stoljeće | 17. stoljeće; 19. stoljeće
 Tko je bio prvi predsjednik SAD-a? | George Washington | Washington | Thomas Jefferson; John Adams
 Koji je američki predsjednik ukinuo ropstvo i ubijen je 1865.? | Abraham Lincoln | Lincoln | George Washington; Ulysses Grant
 Koji je američki predsjednik ubijen u Dallasu 1963.? | John F. Kennedy | Kennedy; JFK; John Kennedy | Richard Nixon; Lyndon Johnson
@@ -294,13 +294,13 @@ Tko je bio prvi crni predsjednik SAD-a? | Barack Obama | Obama | Joe Biden; Coli
 Tko je održao govor „Imam san” 1963.? | Martin Luther King | Martin Luther King Jr.; MLK; King | Malcolm X; Nelson Mandela
 Koji je južnoafrički vođa proveo 27 godina u zatvoru prije nego je postao predsjednik? | Nelson Mandela | Mandela | Desmond Tutu; Jacob Zuma
 Tko je vodio nenasilnu borbu za neovisnost Indije? | Mahatma Gandhi | Gandhi; Gandi | Jawaharlal Nehru; Indira Gandhi
-Koje je godine Indija stekla neovisnost? | 1947 | | 1950; 1945
+U kojem je desetljeću Indija stekla neovisnost? | 1940-ih | 1940-e; 40-ih; 40-e; četrdesete | 1930-ih; 1950-ih
 Od koje je zemlje Indija stekla neovisnost? | Ujedinjeno Kraljevstvo | Velika Britanija; Britanija; Engleska | Francuska; Portugal
 Tko je bio prvi rimski car? | August | Oktavijan; Oktavijan August | Julije Cezar; Neron
 Koji je rimski vojskovođa prešao Rubikon? | Julije Cezar | Cezar; Gaj Julije Cezar | Pompej; Marko Antonije
 Kojeg je dana ubijen Julije Cezar („Martovske ide”)? | 15. ožujka | 15 ožujka; 15.3. | 1. ožujka; 15. travnja
-Koje je godine propalo Zapadno Rimsko Carstvo? | 476 | | 410; 1453
-Koje su godine Osmanlije osvojile Carigrad? | 1453 | | 1389; 1529
+U kojem je stoljeću propalo Zapadno Rimsko Carstvo? | 5. stoljeće | 5.; 5. st; V; V. stoljeće | 4. stoljeće; 6. stoljeće
+U kojem su stoljeću Osmanlije osvojile Carigrad? | 15. stoljeće | 15.; 15. st; XV; XV. stoljeće | 14. stoljeće; 16. stoljeće
 Kako se danas zove grad koji se nekoć zvao Carigrad (Konstantinopol)? | Istanbul | Istambul | Ankara; Izmir
 Koji je vulkan 79. godine zatrpao Pompeje? | Vezuv | Vezuvij | Etna; Stromboli
 Koji je makedonski kralj stvorio carstvo do Indije? | Aleksandar Veliki | Aleksandar Makedonski | Filip II.; Darije
@@ -309,15 +309,15 @@ Tko je bio prvi car ujedinjene Kine i dao izgraditi Terakota vojsku? | Qin Shi H
 Koji je mongolski vladar stvorio najveće kopneno carstvo? | Džingis-kan | Džingis kan; Genghis Khan; Temudžin | Kublaj-kan; Atila
 Tko je bio vođa Huna? | Atila | Attila | Džingis-kan; Alarik
 Koji je franački kralj okrunjen za cara 800. godine? | Karlo Veliki | Charlemagne | Pipin Mali; Oton I.
-Koje je godine bila bitka kod Hastingsa? | 1066 | | 1215; 966
+U kojem je stoljeću bila bitka kod Hastingsa? | 11. stoljeće | 11.; 11. st; XI; XI. stoljeće | 10. stoljeće; 12. stoljeće
 Koji je engleski dokument iz 1215. ograničio vlast kralja? | Magna Carta | Magna Charta; Velika povelja | Bill of Rights; Habeas Corpus
 Koji je engleski kralj imao šest žena? | Henrik VIII. | Henrik VIII; Henry VIII; Henrik 8 | Edvard VI.; Rikard III.
 Koja je engleska kraljica vladala 63 godine, u 19. stoljeću? | Kraljica Viktorija | Viktorija; Victoria | Elizabeta I.; Marija I.
 Koliko je godina vladala kraljica Elizabeta II.? | 70 | sedamdeset | 63; 65
-Koje je godine umrla kraljica Elizabeta II.? | 2022 | | 2021; 2023
+U kojem je desetljeću umrla kraljica Elizabeta II.? | 2020-ih | 2020-e | 2010-ih; 2000-ih
 Koja je francuska junakinja spaljena na lomači 1431.? | Ivana Orleanska | Jeanne d'Arc; Ivana Arška; Jeanne d Arc | Katarina Sijenska; Marija Antoaneta
 Tko je započeo protestantsku reformaciju 1517.? | Martin Luther | Luther | Jean Calvin; Ulrich Zwingli
-Koje je godine Martin Luther objavio 95 teza? | 1517 | | 1492; 1555
+U kojem je stoljeću Martin Luther objavio 95 teza? | 16. stoljeće | 16.; 16. st; XVI; XVI. stoljeće | 15. stoljeće; 17. stoljeće
 Koji je portugalski moreplovac prvi doplovio morem do Indije? | Vasco da Gama | da Gama | Bartolomeu Dias; Ferdinand Magellan
 Čija je ekspedicija prva oplovila Zemlju? | Ferdinand Magellan | Magellan; Magelan; Fernão de Magalhães | Vasco da Gama; James Cook
 Koji je britanski moreplovac istražio Australiju i Pacifik u 18. stoljeću? | James Cook | Cook; kapetan Cook | Francis Drake; Abel Tasman
@@ -355,15 +355,15 @@ U kojem je gradu 1945. potpisana Povelja Ujedinjenih naroda? | San Francisco | |
 U kojem je gradu sjedište UN-a? | New York | Njujork | Ženeva; Beč
 U kojem je gradu sjedište NATO-a? | Bruxelles | Brisel | Strasbourg; Haag
 U kojem je gradu sjedište Europskog parlamenta (službeno)? | Strasbourg | Strazbur | Bruxelles; Luxembourg
-Koje je godine uveden euro kao gotovina? | 2002 | | 1999; 2000
+U kojem je desetljeću uveden euro kao gotovina? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Koliko zvjezdica ima zastava Europske unije? | 12 | dvanaest | 15; 27
 Koja je država izašla iz Europske unije 2020.? | Ujedinjeno Kraljevstvo | Velika Britanija; Britanija; UK | Grčka; Norveška
 Kako se zvao britanski izlazak iz EU? | Brexit | | Grexit; Britout
 Koja je država darovala Kip slobode SAD-u? | Francuska | | Engleska; Italija
-Koje je godine bio teroristički napad na Blizance u New Yorku? | 2001 | | 2000; 2003
+U kojem je desetljeću bio teroristički napad na Blizance u New Yorku? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Kako se zvao hladnoratovski savez istočnog bloka? | Varšavski pakt | Varšavski ugovor | NATO; Kominform
 Kako se zvala kriza 1962. kad je svijet bio na rubu nuklearnog rata? | Kubanska kriza | kubanska raketna kriza | Berlinska kriza; Sueska kriza
-Koje se godine dogodila nuklearna nesreća u Černobilu? | 1986 | | 1979; 1991
+U kojem se desetljeću dogodila nuklearna nesreća u Černobilu? | 1980-ih | 1980-e; 80-ih; 80-e; osamdesete | 1970-ih; 1990-ih
 U kojoj je današnjoj državi Černobil? | Ukrajina | | Rusija; Bjelorusija
 Koja je japanska nuklearna elektrana stradala nakon tsunamija 2011.? | Fukušima | Fukushima | Hirošima; Osaka
 Tko je bio vođa kubanske revolucije? | Fidel Castro | Castro | Che Guevara; Fulgencio Batista
@@ -373,7 +373,7 @@ Koji je kineski vođa proglasio Narodnu Republiku Kinu 1949.? | Mao Zedong | Mao
 Koja je dinastija izgradila većinu današnjeg Kineskog zida? | dinastija Ming | Ming | Qin; Han
 Koji je rat trajao od 1955. do 1975. u jugoistočnoj Aziji? | Vijetnamski rat | Vijetnam; rat u Vijetnamu | Korejski rat; Indokineski rat
 Koja je zemlja 1867. prodala Aljasku SAD-u? | Rusija | Ruska Carevina | Kanada; Velika Britanija
-Koje je godine Amerika ušla u Prvi svjetski rat? | 1917 | | 1914; 1918
+U kojem je desetljeću Amerika ušla u Prvi svjetski rat? | 1910-ih | 1910-e; 10-ih; 10-e | 1900-ih; 1920-ih
 Kako se zvao savez Njemačke, Austro-Ugarske i Italije prije Prvog svjetskog rata? | Trojni savez | | Antanta; Osovina
 Kako se zvao savez Francuske, Rusije i Ujedinjenog Kraljevstva u Prvom svjetskom ratu? | Antanta | | Trojni savez; Osovina
 Kojim je mirovnim ugovorom 1919. formalno završen Prvi svjetski rat s Njemačkom? | Versajski mir | Versailles; Versajski ugovor | Trianonski mir; Bečki kongres
@@ -384,12 +384,12 @@ Koja je habsburška vladarica vladala od 1740. do 1780.? | Marija Terezija | Mar
 Koja je ruska carica poznata kao „Velika” vladala u 18. stoljeću? | Katarina Velika | Katarina II.; Katarina II | Ana Ivanovna; Elizabeta Petrovna
 Koji je ruski car osnovao Sankt Peterburg? | Petar Veliki | Petar I.; Petar I | Ivan Grozni; Nikola II.
 Kako se zvao posljednji ruski car, ubijen 1918.? | Nikola II. | Nikola II; Nikolaj II; Nikolaj II. | Aleksandar III.; Petar Veliki
-Koje je godine Titanic potonuo? | 1912 | | 1905; 1915
+U kojem je desetljeću Titanic potonuo? | 1910-ih | 1910-e; 10-ih; 10-e | 1900-ih; 1920-ih
 Koja su braća 1903. izvela prvi let motornim zrakoplovom? | braća Wright | Wright; Wrightovi | braća Lumière; braća Montgolfier
 Koja su braća izumila kinematograf i prikazala prvi film 1895.? | braća Lumière | Lumière; Lumiere; braća Lumiere | braća Wright; braća Grimm
 Koja su braća poznata po zbirci bajki poput „Snjeguljice” i „Pepeljuge”? | braća Grimm | Grimm | braća Lumière; braća Wright
 Koja su braća 1783. podigla prvi balon na vrući zrak s ljudima? | braća Montgolfier | Montgolfier | braća Wright; braća Lumière
-Koje je godine održana prva moderna Olimpijada? | 1896 | | 1900; 1912
+U kojem je stoljeću održana prva moderna Olimpijada? | 19. stoljeće | 19.; 19. st; XIX; XIX. stoljeće | 18. stoljeće; 20. stoljeće
 U kojem su gradu održane prve moderne Olimpijske igre? | Atena | Atene | Pariz; London
 Tko je bio inicijator modernih Olimpijskih igara? | Pierre de Coubertin | Coubertin; de Coubertin | Avery Brundage; Juan Antonio Samaranch
 Koji je diktator vladao Španjolskom od 1939. do 1975.? | Francisco Franco | Franco | Antonio Salazar; Benito Mussolini
@@ -419,7 +419,7 @@ Tko je bila prva žena premijerka Indije? | Indira Gandhi | Indira | Sonia Gandh
 U kojem se gradu nalazi slavna crkva Sagrada Família? | Barcelona | | Madrid; Sevilla
 Tko je arhitekt crkve Sagrada Família? | Antoni Gaudí | Gaudi; Gaudí | Le Corbusier; Santiago Calatrava
 U kojem se gradu nalazi Eiffelov toranj? | Pariz | | Lyon; Bruxelles
-Koje je godine dovršen Eiffelov toranj? | 1889 | | 1900; 1871
+U kojem je stoljeću dovršen Eiffelov toranj? | 19. stoljeće | 19.; 19. st; XIX; XIX. stoljeće | 18. stoljeće; 20. stoljeće
 U kojem se gradu nalazi Koloseum? | Rim | | Atena; Verona
 U kojem se gradu nalazi Kosi toranj? | Pisa | | Firenca; Bologna
 U kojem se gradu nalazi Akropola? | Atena | Atene | Sparta; Solun

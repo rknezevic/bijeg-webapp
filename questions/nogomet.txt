@@ -89,7 +89,7 @@ Na kojem je Svjetskom prvenstvu prvi put korišten VAR? | 2018 | Rusija 2018 | 2
 Koja je reprezentacija igrala tri finala svjetskih prvenstava i nijedno nije osvojila? | Nizozemska | Holandija | Mađarska; Švedska
 U kojem gradu se nalazi sjedište FIFA-e? | Zürich | Zurich; Cirih | Ženeva; Nyon
 U kojem se gradu nalazi sjedište UEFA-e? | Nyon | | Zürich; Bruxelles
-Koje je godine osnovana FIFA? | 1904 | | 1930; 1954
+U kojem je desetljeću osnovana FIFA? | 1900-ih | 1900-e; 00-ih; 00-e | 1890-ih; 1910-ih
 Kako se zove pokal koji se od 1974. dodjeljuje svjetskom prvaku? | Pokal FIFA Svjetskog prvenstva | FIFA World Cup Trophy; FIFA pokal | Jules Rimet; Henri Delaunay
 Kako se zvao prvi pokal svjetskog prvenstva, koji je Brazil zauvijek zadržao 1970.? | Jules Rimet | pokal Jules Rimet | Henri Delaunay; Coupe du Monde
 # --- Europsko prvenstvo ---
@@ -118,7 +118,7 @@ U kojem je gradu igrano finale Eura 1976.? | Beograd | | Zagreb; Prag
 Tko je najbolji strijelac u povijesti europskih prvenstava? | Cristiano Ronaldo | Ronaldo; CR7 | Michel Platini; Antoine Griezmann
 Koja će zemlja, uz Tursku, organizirati Euro 2032.? | Italija | | Grčka; Španjolska
 U kojoj će zemlji, uz Wales, Škotsku i Irsku, biti većina utakmica Eura 2028.? | Engleska | Ujedinjeno Kraljevstvo | Francuska; Njemačka
-Koje je godine Hrvatska prvi put igrala na Europskom prvenstvu? | 1996 | | 1992; 2000
+U kojem je desetljeću Hrvatska prvi put igrala na Europskom prvenstvu? | 1990-ih | 1990-e; 90-ih; 90-e; devedesete | 1980-ih; 2000-ih
 Tko je izbacio Hrvatsku jedanaestercima u četvrtfinalu Eura 2008.? | Turska | | Rusija; Španjolska
 Koji je hrvatski igrač zabio Turskoj u 119. minuti četvrtfinala Eura 2008.? | Ivan Klasnić | Klasnić | Ivica Olić; Luka Modrić
 Tko je bio izbornik Hrvatske na Euru 2008.? | Slaven Bilić | Bilić | Zlatko Kranjčar; Igor Štimac
@@ -232,7 +232,7 @@ Tko je najbolji strijelac u povijesti hrvatske reprezentacije? | Davor Šuker | 
 Tko ima najviše nastupa za hrvatsku reprezentaciju? | Luka Modrić | Modrić | Darijo Srna; Ivan Perišić
 U kojem je ukrajinskom klubu Darijo Srna proveo većinu karijere? | Šahtar Donjeck | Šahtar; Shakhtar | Dinamo Kijev; Dnjipro
 # --- Premier liga ---
-Koje je godine osnovana Premier liga? | 1992 | | 1888; 1998
+U kojem je desetljeću osnovana Premier liga? | 1990-ih | 1990-e; 90-ih; 90-e; devedesete | 1980-ih; 2000-ih
 Koji klub ima najviše naslova prvaka Premier lige? | Manchester United | Man United; United | Manchester City; Chelsea
 Koji je klub u sezoni 2003./04. osvojio Premier ligu bez poraza? | Arsenal | | Chelsea; Manchester United
 Kako se naziva Arsenalova momčad koja nije izgubila nijednu utakmicu 2003./04.? | Invincibles | Nepobjedivi | Galácticos; Busby Babes

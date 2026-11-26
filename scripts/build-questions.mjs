@@ -14,6 +14,7 @@ const FILES = [
   ['sport', 'sport', 'all'],
   ['geografija', 'geografija', 'all'],
   ['matematika', 'matematika', 'all'],
+  ['rijeci', 'hrvatska', 'all'],
   ['igrice_brzi', 'igrice', 'open'],
   ['igrice_ploca', 'igrice', 'board'],
 ];

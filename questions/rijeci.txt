@@ -1,0 +1,103 @@
+# Posuđenice u hrvatskom — germanizmi, turcizmi, anglizmi (kategorija Hrvatska)
+# --- Opće ---
+Kako se zovu riječi preuzete iz turskog jezika? | turcizmi | turcizam | germanizmi; anglizmi
+Kako se zovu riječi preuzete iz njemačkog jezika? | germanizmi | germanizam | turcizmi; talijanizmi
+Kako se zovu riječi preuzete iz engleskog jezika? | anglizmi | anglizam; anglicizmi | germanizmi; galicizmi
+Kako se zovu riječi preuzete iz talijanskog jezika? | talijanizmi | talijanizam | romanizmi; galicizmi
+Kako se zovu riječi preuzete iz francuskog jezika? | galicizmi | galicizam | talijanizmi; anglizmi
+Koja je hrvatska riječ predložena kao zamjena za „selfie”? | sebić | sebićka | samoslika; selfić
+# --- Germanizmi ---
+Koja je standardna hrvatska riječ za germanizam „šraf”? | vijak | | čavao; matica
+Koja je standardna hrvatska riječ za germanizam „šrafciger”? | odvijač | odvrtač | kliješta; ključ
+Koja je standardna hrvatska riječ za germanizam „šparet”? | štednjak | | hladnjak; pećnica
+Koja je standardna hrvatska riječ za germanizam „špajza”? | smočnica | ostava | podrum; tavan
+Koja je standardna hrvatska riječ za germanizam „šnicla”? | odrezak | | pljeskavica; kotlet
+Koja je standardna hrvatska riječ za germanizam „fruštuk”? | doručak | | ručak; užina
+Koja je standardna hrvatska riječ za germanizam „cušpajz”? | varivo | gulaš | juha; prilog
+Koja je standardna hrvatska riječ za „vešmašina”? | perilica rublja | perilica; veš mašina | sušilica; perilica posuđa
+Koja je standardna hrvatska riječ za germanizam „špigl”? | ogledalo | zrcalo | prozor; ormar
+Koja je standardna hrvatska riječ za germanizam „šlafrok”? | kućni ogrtač | ogrtač | pidžama; kaput
+Koja je standardna hrvatska riječ za germanizam „flaša”? | boca | | čaša; vrč
+Koja je standardna hrvatska riječ za germanizam „cigla”? | opeka | | crijep; kamen
+Koja je standardna hrvatska riječ za germanizam „štrik”? | uže | konop | lanac; žica
+Koja je standardna hrvatska riječ za „bormašina”? | bušilica | | pila; odvijač
+Koja je standardna hrvatska riječ za „pegla”? | glačalo | | sušilo; četka
+Koja je standardna hrvatska riječ za germanizam „tišljar”? | stolar | | zidar; bravar
+Koja je standardna hrvatska riječ za germanizam „vic”? | šala | | priča; zagonetka
+Koja je standardna hrvatska riječ za germanizam „luft”? | zrak | | vjetar; para
+Koja je standardna hrvatska riječ za germanizam „ringišpil”? | vrtuljak | | ljuljačka; tobogan
+Koja je standardna hrvatska riječ za germanizam „feler”? | greška | pogreška; mana | kvar; šteta
+Koja je standardna hrvatska riječ za germanizam „šlag”? | tučeno vrhnje | šlag vrhnje; vrhnje | maslac; sladoled
+Koja je standardna hrvatska riječ za germanizam „cajger”? | kazaljka | | brojčanik; opruga
+Koja je standardna hrvatska riječ za germanizam „šteker”? | utikač | | utičnica; prekidač
+Koja je standardna hrvatska riječ za germanizam „vekerica”? | budilica | budilnik | ura; zvono
+Koja je standardna hrvatska riječ za germanizam „šparati”? | štedjeti | | trošiti; posuđivati
+Koja je standardna hrvatska riječ za germanizam „krigla”? | vrč | vrč za pivo | čaša; boca
+Kad se kaže „platiti ceh”, što je germanizam „ceh”? | račun | | kazna; porez
+Što znači germanizam „fajrunt”? | kraj radnog vremena | kraj posla; kraj radnog dana; završetak rada | početak posla; stanka za ručak
+Iz kojeg jezika dolazi riječ „gemišt” (vino s mineralnom vodom)? | njemačkog | njemački | mađarskog; talijanskog
+Iz kojeg jezika dolazi riječ „šnaps”? | njemačkog | njemački | ruskog; turskog
+Koja je standardna hrvatska riječ za germanizam „ziherica”? | sigurnosna igla | zihernadla | pribadača; kopča
+Koja je standardna hrvatska riječ za germanizam „farba”? | boja | | lak; ljepilo
+# --- Turcizmi ---
+Iz kojeg jezika dolazi riječ „čarapa”? | turskog | turski | njemačkog; talijanskog
+Iz kojeg jezika dolazi riječ „jastuk”? | turskog | turski | njemačkog; mađarskog
+Iz kojeg jezika dolazi riječ „čekić”? | turskog | turski | njemačkog; latinskog
+Iz kojeg jezika dolazi riječ „dućan”? | turskog | turski | talijanskog; njemačkog
+Iz kojeg jezika dolazi riječ „pamuk”? | turskog | turski | grčkog; mađarskog
+Iz kojeg jezika dolazi riječ „šator”? | turskog | turski | francuskog; njemačkog
+Iz kojeg jezika dolazi riječ „kutija”? | turskog | turski | talijanskog; njemačkog
+Iz kojeg jezika dolazi riječ „džep”? | turskog | turski | engleskog; njemačkog
+Iz kojeg jezika dolazi riječ „bubreg”? | turskog | turski | latinskog; mađarskog
+Iz kojeg jezika dolazi riječ „budala”? | turskog | turski | mađarskog; talijanskog
+Što znači turcizam „avlija”? | dvorište | | vrt; kuhinja
+Što znači turcizam „komšija”? | susjed | | rođak; prijatelj
+Što znači turcizam „sokak”? | ulica | uska ulica; uličica | trg; most
+Što znači turcizam „ćuprija”? | most | | brana; cesta
+Što znači turcizam „bakšiš”? | napojnica | | mito; plaća
+Što znači turcizam „kirija”? | najamnina | stanarina; najam | porez; kredit
+Što znači turcizam „ćošak”? | kut | ugao | zid; stol
+Što znači turcizam „dušek”? | madrac | | jastuk; deka
+Što znači turcizam „kesa”? | vrećica | vreća | kutija; košara
+Što znači turcizam „sirće”? | ocat | | ulje; sol
+Što znači turcizam „jorgan”? | pokrivač | poplun | jastuk; madrac
+Što znači turcizam „ćilim”? | sag | tepih | zavjesa; stolnjak
+Što znači turcizam „kašika”? | žlica | | vilica; nož
+Što znači turcizam „tepsija”? | pladanj | lim; protvan | lonac; tava
+Što znači turcizam „fildžan”? | šalica za kavu | šalica; šalica bez ručke | čaša za vino; tanjur
+Što znači turcizam „merak”? | užitak | gušt; zadovoljstvo | tuga; ljutnja
+Što znači turcizam „sevdah”? | ljubavna čežnja | čežnja; ljubavna tuga | bijes; radost
+Što znači turcizam „jok”? | ne | nema | da; možda
+Što znači turcizam „džaba”? | besplatno | badava; zabadava | skupo; na kredit
+Što znači turcizam „mahala”? | četvrt | gradska četvrt; kvart | selo; tržnica
+Što znači turcizam „kaldrma”? | kamena cesta | popločena cesta; kameni pločnik; kaldrmisana cesta | makadam; asfalt
+Što znači turcizam „dernek”? | veselje | slavlje; zabava; sajam | sprovod; svađa
+Što znači turcizam „ćef”? | volja | užitak; ćud | tuga; strah
+Koje je hrvatsko jelo od mljevenog mesa zamotanog u kiseli kupus i dolazi od turske riječi? | sarma | | punjene paprike; ćevapi
+Kako se zove posuda s dugim grlom za kuhanje turske kave? | džezva | | ibrik; fildžan
+# --- Anglizmi ---
+Koja je hrvatska riječ za anglizam „kompjuter”? | računalo | | pisač; zaslon
+Koja je hrvatska riječ za anglizam „vikend”? | kraj tjedna | | blagdan; godišnji odmor
+Koja je hrvatska riječ za anglizam „šoping”? | kupovina | kupnja | prodaja; razgledavanje
+Koja je hrvatska riječ za anglizam „mejl” (e-mail)? | e-pošta | e-poruka; elektronička pošta | poruka; dopis
+Koja je hrvatska riječ za anglizam „link”? | poveznica | veza | stranica; adresa
+Koja je hrvatska riječ za anglizam „softver”? | programska podrška | računalni program; program; programi | sklopovlje; operacijski sustav
+Koja je hrvatska riječ za anglizam „hardver”? | sklopovlje | računalna oprema | programska podrška; mreža
+Koja je hrvatska riječ za anglizam „printer”? | pisač | | skener; ispisnik
+Koja je hrvatska riječ za anglizam „password”? | lozinka | zaporka | korisničko ime; šifrant
+Koja je hrvatska riječ za anglizam „download”? | preuzimanje | | prijenos; spremanje
+Koja je hrvatska riječ za anglizam „deadline”? | rok | krajnji rok | sastanak; početak
+Koja je hrvatska riječ za anglizam „feedback”? | povratna informacija | povratna veza | prijedlog; pohvala
+Koja je hrvatska riječ za anglizam „event”? | događanje | događaj | sastanak; izlet
+Koja je hrvatska riječ za anglizam „menadžer”? | upravitelj | voditelj; rukovoditelj | vlasnik; tajnik
+Koja je hrvatska riječ za anglizam „lider”? | vođa | predvodnik | pobjednik; savjetnik
+Koja je hrvatska riječ za anglizam „hit”? | uspješnica | | promašaj; novitet
+Koja je hrvatska riječ za nogometni anglizam „golman”? | vratar | | branič; napadač
+Koja je hrvatska riječ za nogometni anglizam „penal”? | jedanaesterac | kazneni udarac | slobodni udarac; korner
+Koja je hrvatska riječ za nogometni anglizam „ofsajd”? | zaleđe | | prekršaj; aut
+Koja je hrvatska riječ za nogometni anglizam „bek”? | branič | | vezni igrač; vratar
+Koja je hrvatska riječ za nogometni anglizam „korner”? | udarac iz kuta | kut | jedanaesterac; ubacivanje
+Koja je hrvatska riječ za anglizam „fer”? | pošten | pošteno | nepošten; lijep
+Koja je hrvatska riječ za anglizam „hendikep”? | nedostatak | prepreka; otežavajuća okolnost | prednost; bonus
+Koja je hrvatska riječ za anglizam „dizajn”? | oblikovanje | | izrada; uređenje
+Koja je hrvatska riječ za anglizam „šou”? | predstava | priredba; emisija | koncert; utakmica

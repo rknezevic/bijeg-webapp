@@ -11,15 +11,15 @@ Kako se zove Sonicov zli doktor? | Dr. Eggman | Eggman; Robotnik; Dr. Robotnik |
 Koji je studio napravio prve igre Crash Bandicoot? | Naughty Dog | | Insomniac Games; Sucker Punch
 Koji je studio napravio prve igre Spyro? | Insomniac Games | Insomniac | Naughty Dog; Rare
 Koji je studio napravio The Last of Us? | Naughty Dog | | Insomniac Games; Guerrilla Games
-Koje je godine izašao GTA V? | 2013 | | 2011; 2015
-Koje je godine izašla puna verzija Minecrafta? | 2011 | | 2009; 2013
-Koje je godine izašao Fortnite Battle Royale? | 2017 | | 2015; 2019
-Koje je godine izašao prvi Super Mario Bros.? | 1985 | | 1983; 1990
-Koje su godine u Japanu izašle prve Pokémon igre? | 1996 | | 1998; 1993
-Koje je godine izašao Pong? | 1972 | | 1968; 1980
-Koje je godine izašao PlayStation 5? | 2020 | | 2019; 2021
-Koje je godine izašao Nintendo Switch? | 2017 | | 2016; 2018
-Koje je godine izašao prvi Xbox? | 2001 | | 1999; 2003
+U kojem je desetljeću izašao GTA V? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašla puna verzija Minecrafta? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašao Fortnite Battle Royale? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašao prvi Super Mario Bros.? | 1980-ih | 1980-e; 80-ih; 80-e; osamdesete | 1970-ih; 1990-ih
+U kojem su desetljeću u Japanu izašle prve Pokémon igre? | 1990-ih | 1990-e; 90-ih; 90-e; devedesete | 1980-ih; 2000-ih
+U kojem je desetljeću izašao Pong? | 1970-ih | 1970-e; 70-ih; 70-e; sedamdesete | 1960-ih; 1980-ih
+U kojem je desetljeću izašao PlayStation 5? | 2020-ih | 2020-e | 2010-ih; 2000-ih
+U kojem je desetljeću izašao Nintendo Switch? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašao prvi Xbox? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Kako se zove glavni lik serijala Doom? | Doomguy | Doom Slayer; Doom guy | Master Chief; B.J. Blazkowicz
 U kojem je serijalu glavni junak B.J. Blazkowicz? | Wolfenstein | | Doom; Quake
 Koji se dio Fallouta iz 2008. odvija oko Washingtona? | Fallout 3 | | Fallout: New Vegas; Fallout 4
@@ -64,16 +64,16 @@ U kojoj je državi nastao Tetris? | Sovjetski Savez | SSSR; Rusija | SAD; Japan
 Iz koje je zemlje tvrtka koja je napravila PUBG? | Južna Koreja | Koreja | Kina; Japan
 Iz koje je zemlje tvrtka koja je napravila Genshin Impact? | Kina | | Japan; Južna Koreja
 Na kojoj je konzoli 2001. izašao Halo: Combat Evolved? | Xbox | | PlayStation 2; GameCube
-Koje je godine izašao Elden Ring? | 2022 | | 2020; 2021
-Koje je godine izašao The Witcher 3: Wild Hunt? | 2015 | | 2013; 2017
-Koje je godine izašao Red Dead Redemption 2? | 2018 | | 2016; 2019
-Koje je godine izašao Skyrim? | 2011 | | 2009; 2013
-Koje je godine izašao Cyberpunk 2077? | 2020 | | 2019; 2021
-Koje je godine izašao Half-Life 2? | 2004 | | 2002; 2006
-Koje je godine izašao World of Warcraft? | 2004 | | 2001; 2007
-Koje je godine izašao The Last of Us? | 2013 | | 2011; 2015
+U kojem je desetljeću izašao Elden Ring? | 2020-ih | 2020-e | 2010-ih; 2000-ih
+U kojem je desetljeću izašao The Witcher 3: Wild Hunt? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašao Red Dead Redemption 2? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašao Skyrim? | 2010-ih | 2010-e | 2000-ih; 2020-ih
+U kojem je desetljeću izašao Cyberpunk 2077? | 2020-ih | 2020-e | 2010-ih; 2000-ih
+U kojem je desetljeću izašao Half-Life 2? | 2000-ih | 2000-e | 1990-ih; 2010-ih
+U kojem je desetljeću izašao World of Warcraft? | 2000-ih | 2000-e | 1990-ih; 2010-ih
+U kojem je desetljeću izašao The Last of Us? | 2010-ih | 2010-e | 2000-ih; 2020-ih
 Koji je studio napravio Baldur's Gate 3? | Larian Studios | Larian | BioWare; Obsidian
-Koje je godine izašao The Legend of Zelda: Breath of the Wild? | 2017 | | 2015; 2019
+U kojem je desetljeću izašao The Legend of Zelda: Breath of the Wild? | 2010-ih | 2010-e | 2000-ih; 2020-ih
 Koji glumac igra glavnu ulogu u igri Death Stranding? | Norman Reedus | Reedus | Keanu Reeves; Kevin Spacey
 U kojoj je igri glumio Keanu Reeves? | Cyberpunk 2077 | Cyberpunk | Death Stranding; Call of Duty: Advanced Warfare
 U kojoj je igri glumio Kevin Spacey? | Call of Duty: Advanced Warfare | Advanced Warfare | Cyberpunk 2077; Detroit: Become Human

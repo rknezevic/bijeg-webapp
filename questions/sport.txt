@@ -21,7 +21,7 @@ Koji je turnir Iva Majoli osvojila 1997.? | Roland Garros | French Open; Roland-
 Koji je hrvatski tenisač poznat po rekordnom broju asova? | Ivo Karlović | Karlović | Goran Ivanišević; Ivan Ljubičić
 S kojim je statusom Goran Ivanišević 2001. ušao u Wimbledon? | pozivnica | wild card; pozivnicom | nositelj; kvalifikant
 Kako se zove ekipno natjecanje reprezentacija u muškom tenisu? | Davis Cup | Davisov kup | Fed Cup; Hopman Cup
-Koje je godine Hrvatska prvi put osvojila Davis Cup? | 2005 | | 2018; 2010
+U kojem je desetljeću Hrvatska prvi put osvojila Davis Cup? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Protiv koga je Hrvatska osvojila Davis Cup 2018.? | Francuska | | Argentina; Španjolska
 Koji je španjolski tenisač postao najmlađi broj 1 na ATP listi 2022.? | Carlos Alcaraz | Alcaraz | Rafael Nadal; Jannik Sinner
 Iz koje je države tenisač Jannik Sinner? | Italija | | Austrija; Švicarska
@@ -60,11 +60,11 @@ Kako se zove završni turnir četiri najbolje momčadi Eurolige? | Final Four | 
 Koliko igrača ima rukometna momčad na terenu (s vratarom)? | 7 | sedam | 6; 8
 Koliko traje jedno poluvrijeme u rukometu? | 30 minuta | 30 | 25 minuta; 35 minuta
 S koje se udaljenosti izvodi sedmerac u rukometu? | 7 metara | 7 | 9 metara; 6 metara
-Koje je godine Hrvatska osvojila svjetsko prvenstvo u rukometu? | 2003 | | 2005; 1995
+U kojem je desetljeću Hrvatska osvojila svjetsko prvenstvo u rukometu? | 2000-ih | 2000-e | 1990-ih; 2010-ih
 Na kojim je Olimpijskim igrama Hrvatska osvojila prvo rukometno zlato? | Atlanta 1996 | Atlanta; 1996 | Sydney 2000; Barcelona 1992
 Koji je hrvatski rukometaš proglašen najboljim rukometašem svijeta 2003.? | Ivano Balić | Balić | Petar Metličić; Mirza Džomba
 Koliko igrača ima vaterpolska momčad u vodi (s vratarom)? | 7 | sedam | 6; 8
-Koje je godine Hrvatska osvojila olimpijsko zlato u vaterpolu? | 2012 | London 2012 | 2016; 2008
+U kojem je desetljeću Hrvatska osvojila olimpijsko zlato u vaterpolu? | 2010-ih | 2010-e | 2000-ih; 2020-ih
 Koji hrvatski klub ima najviše naslova europskog prvaka u vaterpolu? | Mladost | HAVK Mladost; Mladost Zagreb | Jug; Jadran
 Iz kojeg je grada vaterpolski klub Jug? | Dubrovnik | | Split; Rijeka
 Koliko igrača ima odbojkaška momčad na terenu? | 6 | šest | 5; 7
@@ -173,7 +173,7 @@ U kojem se gradu održavaju Olimpijske igre 2032.? | Brisbane | | Sydney; Melbou
 U kojem su gradu održane Olimpijske igre 2024.? | Pariz | | London; Los Angeles
 U kojem su gradu održane Olimpijske igre 2021. (Igre 2020.)? | Tokio | Tokyo | Peking; Osaka
 Koliko se često održavaju Ljetne olimpijske igre? | svake 4 godine | 4; svake četiri godine | svake 2 godine; svake 3 godine
-Koje se godine Hrvatska prvi put natjecala kao samostalna država na Ljetnim OI? | 1992 | Barcelona 1992 | 1996; 1988
+U kojem se desetljeću Hrvatska prvi put natjecala kao samostalna država na Ljetnim OI? | 1990-ih | 1990-e; 90-ih; 90-e; devedesete | 1980-ih; 2000-ih
 Olimpijski krugovi su crni, zeleni, žuti, crveni i …? | plava | plavi | narančasta; ljubičasta
 # --- Dodatno ---
 Koliko traje jedna četvrtina u vaterpolu? | 8 minuta | 8 | 10 minuta; 12 minuta
