@@ -6,7 +6,7 @@ import type { Room } from '../types';
  * Plays sounds when the room changes:
  *  - lock-in sound when the player or chaser answers on the board,
  *  - an intense ticking clock for the 4 seconds the other side has left,
- *  - correct / wrong / chaser-step on reveal, fanfare when a player gets home,
+ *  - coin on a correct cash-builder answer, correct / wrong for the player on reveal, fanfare when a player gets home,
  *    sad trombone when caught, and stings at the start of each round.
  * Nothing plays on the first render, only on changes.
  */
@@ -29,16 +29,15 @@ export function useGameSounds(room: Room | null, offsetMs: () => number) {
         if (r.outcome === 'home') sfx.home();
         else if (r.outcome === 'caught') sfx.caught();
         else {
+          // Only the player's answer makes a sound; the chaser's is silent.
           if (r.pOk) sfx.correct();
           else sfx.wrong();
-          if (r.cOk) window.setTimeout(() => sfx.chaserStep(), 350);
         }
       }
       if (ph === 'finished') {
         if (room.state.result?.winner === 'team') sfx.home();
         else sfx.caught();
       }
-      if (ph === 'final_pushback') sfx.wrong();
     }
 
     // Lock-in on the board (same question, a side just locked).
@@ -46,18 +45,12 @@ export function useGameSounds(room: Room | null, offsetMs: () => number) {
       if ((h.lockP && !hb.lockP) || (h.lockC && !hb.lockC)) sfx.lockIn();
     }
 
-    // Cash builder & final: little feedback after each answer.
+    // Cash builder: a quiet coin "cha-ching" per correct answer.
+    // The final chase has no per-answer sounds.
     const cl = room.state.cash?.last;
     const cb = before.state.cash?.last;
     if (ph === 'cash' && cl && cl.seq !== cb?.seq) {
-      if (cl.ok) sfx.correct();
-      else sfx.wrong();
-    }
-    const fl = room.state.final?.last;
-    const fb = before.state.final?.last;
-    if (fl && fl.seq !== fb?.seq && (ph === 'final_team' || ph === 'final_chaser')) {
-      if (fl.ok && fl.by === 'chaser') sfx.chaserStep();
-      else if (fl.ok) sfx.correct();
+      if (cl.ok) sfx.coin();
       else sfx.wrong();
     }
   }, [room]);

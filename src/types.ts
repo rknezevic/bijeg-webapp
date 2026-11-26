@@ -14,7 +14,7 @@ export type Phase =
   | 'final_pushback'
   | 'finished';
 
-export type Category = 'hrvatska' | 'opce' | 'nogomet' | 'sport' | 'geografija' | 'matematika' | 'glazba' | 'stihovi' | 'igrice';
+export type Category = 'hrvatska' | 'opce' | 'nogomet' | 'sport' | 'geografija' | 'matematika' | 'glazba' | 'stihovi' | 'igrice' | 'filmovi' | 'priroda';
 
 export interface QuestionView {
   id: number;

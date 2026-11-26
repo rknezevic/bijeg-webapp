@@ -1,0 +1,96 @@
+# Priroda i društvo — lakša pitanja s upisom odgovora (brzi krug i finale).
+# Format: pitanje | točan odgovor | drugi prihvaćeni odgovori (;) | dva netočna odgovora (;)
+Koje godišnje doba dolazi nakon zime? | proljeće | proljece | ljeto; jesen
+Koje godišnje doba dolazi nakon ljeta? | jesen | | zima; proljeće
+Koliko godišnjih doba ima godina? | 4 | četiri | 3; 6
+Koliko dana ima tjedan? | 7 | sedam | 5; 6
+Koliko mjeseci ima godina? | 12 | dvanaest | 10; 13
+Koliko sati ima dan? | 24 | dvadeset četiri | 12; 20
+Koliko minuta ima jedan sat? | 60 | šezdeset | 100; 50
+Koji je dan u tjednu nakon srijede? | četvrtak | cetvrtak | utorak; petak
+Na kojoj se strani svijeta Sunce izlazi? | istok | istoku | zapad; sjever
+Na kojoj strani svijeta Sunce zalazi? | zapad | zapadu | istok; jug
+Koji instrument pokazuje strane svijeta? | kompas | busola | barometar; termometar
+Kojim instrumentom mjerimo temperaturu? | termometar | toplomjer | barometar; kompas
+Kako se zove smrznuta voda? | led | | para; rosa
+Kako se zove voda u plinovitom stanju? | vodena para | para | led; magla
+Kako se zovu kapljice vode koje se ujutro nađu na travi? | rosa | | inje; tuča
+Kako se zove oborina u obliku ledenih kuglica? | tuča | grad; tuca | snijeg; susnježica
+Kako se zove pojava kad nakon kiše na nebu vidimo šarene pruge? | duga | | munja; polarna svjetlost
+Kako se zove svjetlosni bljesak tijekom oluje? | munja | sijevanje | grom; duga
+Kako se zove zvuk koji prati munju? | grom | grmljavina | jeka; tutanj
+Koji organ koristimo za disanje? | pluća | pluca | srce; jetra
+Koji organ pumpa krv kroz tijelo? | srce | | pluća; bubrezi
+Kojim osjetilom osjećamo miris? | njuh | nos | okus; sluh
+Kojim organom vidimo? | oko | oči; oci | uho; nos
+Kojim organom čujemo? | uho | uši; usi | oko; jezik
+Kojim osjetilom osjećamo okus hrane? | okus | jezik | njuh; dodir
+Koliko osjetila ima čovjek (tradicionalno)? | 5 | pet | 4; 7
+Koliko prstiju ima čovjek na obje ruke? | 10 | deset | 8; 12
+Što štiti mozak? | lubanja | glava; kosti lubanje | rebra; kralježnica
+Što štiti srce i pluća? | rebra | prsni koš | lubanja; zdjelica
+Kako se zove mladunče ovce? | janje | janjac | jare; tele
+Kako se zove mladunče svinje? | prase | prasić | tele; janje
+Kako se zove mladunče psa? | štene | stene; psić | mače; tele
+Kako se zove mladunče kokoši? | pile | pilić | pače; guščić
+Kako se zove mužjak kokoši? | pijetao | pijevac; kokot | gusak; purić
+Kako se zove ženka svinje? | krmača | krmaca | kobila; ovca
+Kako se zove ženka konja? | kobila | | krava; krmača
+Koja domaća životinja daje vunu? | ovca | ovce | koza; krava
+Koja životinja prede kad je zadovoljna? | mačka | mačak; mace | pas; zec
+Koju životinju zovemo kraljem životinja? | lav | | tigar; slon
+Koja životinja ima surlu? | slon | | nosorog; tapir
+Koja životinja nosi kućicu na leđima i ostavlja sluzav trag? | puž | puz | kornjača; rak
+Koja životinja zimi spava u brlogu? | medvjed | | vuk; lisica
+Kako se zove dugi zimski san nekih životinja? | zimski san | hibernacija | mitarenje; seoba
+Koja ptica noću huče? | sova | | vrana; lastavica
+Koja ptica u jesen odlazi u toplije krajeve i nosi blato za gnijezdo? | lastavica | lasta | vrabac; sova
+Od čega pčele prave med? | nektar | cvjetni nektar; nektara | peluda; vosak
+Kako se zove kuća pčela koju gradi čovjek? | košnica | kosnica | gnijezdo; mravinjak
+Kako se zove mladunče žabe koje živi u vodi? | punoglavac | punoglavci | ličinka; gusjenica
+Koji dio biljke upija vodu iz tla? | korijen | korjen | list; cvijet
+Koji dio drveta je prekriven korom? | deblo | stablo | krošnja; korijen
+Kako se zove zeleni pigment u lišću? | klorofil | | karoten; melanin
+Kako se zovu stabla koja zimi ne gube lišće, poput bora? | zimzelena | zimzeleno; crnogorica; četinjače | listopadna; bjelogorica
+Kako se zove šuma u kojoj rastu hrast, bukva i grab? | bjelogorična | bjelogorica; listopadna | crnogorična; zimzelena
+Koji plod raste na hrastu? | žir | zir | kesten; orah
+Koje voće raste na vinovoj lozi? | grožđe | grozde; grožde | trešnja; šljiva
+Od kojeg se ploda pravi maslinovo ulje? | maslina | masline | orah; suncokret
+Od koje se biljke pravi šećer u Hrvatskoj (u Slavoniji)? | šećerna repa | repa; secerna repa | šećerna trska; kukuruz
+Koja biljka visoke stabljike ima velik žuti cvijet koji se okreće prema suncu? | suncokret | suncokreta | maslačak; tulipan
+Koji je proljetni cvijet bijelih zvončića, često prvi nakon zime? | visibaba | | ljubičica; tratinčica
+Koliko je vremena potrebno Zemlji da se okrene oko svoje osi? | jedan dan | 24 sata; dan; 1 dan | jedan tjedan; jedna godina
+Koji je glavni grad Republike Hrvatske? | Zagreb | | Split; Rijeka
+Kako se zove hrvatska himna? | Lijepa naša domovino | Lijepa naša; Lijepa nasa | Rajska djevo; Vila Velebita
+Koje su boje hrvatske zastave? | crvena, bijela i plava | crveno bijelo plavo; crvena bijela plava | crvena, bijela i zelena; plava, bijela i žuta
+Kako se zove hrvatski grb s crvenim i bijelim poljima? | šahovnica | sahovnica | lilijan; trolist
+Kako se zove novac koji se koristi u Hrvatskoj od 2023.? | euro | eur | kuna; dinar
+Kako se zove sabor u kojem se donose zakoni? | Hrvatski sabor | sabor | Vlada; Ustavni sud
+Tko je na čelu općine? | načelnik | općinski načelnik; nacelnik | župan; gradonačelnik
+Tko je na čelu županije? | župan | zupan | načelnik; ministar
+Tko je na čelu grada? | gradonačelnik | gradonacelnik | župan; načelnik
+Koliko županija ima Hrvatska (bez Zagreba)? | 20 | dvadeset | 21; 18
+Koji je broj hitne pomoći u Hrvatskoj? | 194 | | 192; 193
+Koja boja svjetla na semaforu znači „stani”? | crvena | crveno | zelena; žuta
+Koja boja svjetla na semaforu znači „kreni”? | zelena | zeleno | crvena; žuta
+Kako se zovu bijele pruge na cesti za prelazak pješaka? | zebra | pješački prijelaz | ležeći policajac; pločnik
+Kojom stranom ceste trebaju hodati pješaci izvan naselja kad nema nogostupa? | lijevom | lijeva; lijevo | desnom; sredinom
+Kako se zove dio ulice namijenjen pješacima? | nogostup | pločnik; trotoar | kolnik; biciklistička staza
+Kako se zove dio ceste za vozila? | kolnik | | nogostup; bankina
+Kako se zove osoba koja liječi životinje? | veterinar | | farmaceut; agronom
+Kako se zove osoba koja peče kruh? | pekar | | mesar; kuhar
+Kako se zove osoba koja gasi požare? | vatrogasac | | policajac; spasilac
+Kako se zove osoba koja raznosi pisma? | poštar | postar | kurir; tajnik
+Kako se zove osoba koja izrađuje namještaj od drva? | stolar | | zidar; bravar
+Kako se zove osoba koja vozi zrakoplov? | pilot | | kapetan; stjuard
+Koji je dan Dan državnosti Hrvatske? | 30. svibnja | 30 svibnja; 30.5. | 25. lipnja; 8. listopada
+Koji se blagdan slavi 25. prosinca? | Božić | Bozic | Uskrs; Nova godina
+Kojeg se datuma slavi Nova godina? | 1. siječnja | 1 siječnja; 1.1. | 31. prosinca; 6. siječnja
+Kojoj skupini životinja pripada šišmiš? | sisavci | sisavac | ptice; gmazovi
+Kako se zove Mjesec kad je potpuno osvijetljen? | uštap | pun mjesec; puni mjesec; ustap | mlađak; prva četvrt
+Kako se zove Mjesec kad se uopće ne vidi? | mlađak | mladi mjesec; mladjak | uštap; prva četvrt
+Kako se zove zgrada u kojoj na farmi žive kokoši? | kokošinjac | kokosinjac | štala; svinjac
+Kako se zove zgrada u kojoj žive krave i konji? | štala | staja; stala | kokošinjac; svinjac
+Kojom bojom označavamo more na zemljopisnoj karti? | plavom | plava; plavo | zelenom; smeđom
+Kojom bojom označavamo planine na zemljopisnoj karti? | smeđom | smeđa; smedja | plavom; zelenom
+Kojom bojom označavamo nizine na zemljopisnoj karti? | zelenom | zelena; zeleno | smeđom; žutom

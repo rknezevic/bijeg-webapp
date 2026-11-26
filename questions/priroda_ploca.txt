@@ -1,0 +1,102 @@
+# Priroda i društvo — teža pitanja, samo za ploču (A/B/C).
+# Format: pitanje | točan odgovor | drugi prihvaćeni odgovori (;) | dva netočna odgovora (;)
+Kako se zove kruženje vode u prirodi? | kruženje vode | vodeni ciklus; hidrološki ciklus | fotosinteza; erozija
+Kako se zove prijelaz vode iz tekućeg u plinovito stanje? | isparavanje | isparivanje; evaporacija | kondenzacija; taljenje
+Kako se zove prijelaz vodene pare u kapljice vode? | kondenzacija | ukapljivanje | isparavanje; sublimacija
+Kako se zove prijelaz leda u vodu? | taljenje | otapanje; topljenje | smrzavanje; isparavanje
+Kako se zove smrznuta rosa na tlu i biljkama? | inje | mraz | rosa; tuča
+Kako se zove lagani noćni vjetar koji uz Jadran puše s kopna prema moru? | burin | | maestral; jugo
+Kako se zove ljetni osvježavajući vjetar koji poslijepodne puše s mora na kopno? | maestral | maestro; smorac | bura; jugo
+Kako se zove hladan, jak i mahovit sjeveroistočni vjetar na Jadranu? | bura | | jugo; maestral
+Kako se zove topli, vlažni jugoistočni vjetar koji donosi kišu na Jadran? | jugo | široko; šilok | bura; tramontana
+Kojom mjernom jedinicom mjerimo tlak zraka? | hektopaskal | hPa; milibar | stupanj Celzija; milimetar
+Kojim instrumentom mjerimo tlak zraka? | barometar | tlakomjer | termometar; higrometar
+Kojim instrumentom mjerimo vlažnost zraka? | higrometar | vlagomjer | barometar; anemometar
+Kojim instrumentom mjerimo brzinu vjetra? | anemometar | vjetromjer | barometar; higrometar
+Kako se zove umanjeni prikaz Zemljine površine na papiru? | zemljovid | karta; geografska karta | globus; skica
+Kako se zove umanjeni model Zemlje u obliku kugle? | globus | | zemljovid; atlas
+Kako se zove crta koja dijeli Zemlju na sjevernu i južnu polutku? | ekvator | polutnik | nulti meridijan; obratnica
+Kako se zove crta s koje se mjere geografske dužine, kroz Greenwich? | nulti meridijan | početni meridijan; Greenwich meridijan | ekvator; obratnica raka
+Kako se zove pojava kad Mjesec zakloni Sunce? | pomrčina Sunca | pomrcina sunca; Sunčeva pomrčina; pomrčina | pomrčina Mjeseca; mlađak
+Koliko otprilike dana traje jedan Mjesečev ciklus mijena? | 29,5 | 29; 30; oko 29 | 14; 365
+Kako se zove pojava kad noć i dan traju jednako dugo? | ravnodnevica | ekvinocij | solsticij; polarna noć
+Kada je proljetna ravnodnevica? | oko 21. ožujka | 21. ožujka; 20. ožujka; ožujak | oko 21. lipnja; oko 23. rujna
+Kada počinje astronomska zima? | oko 21. prosinca | 21. prosinca; 22. prosinca; prosinac | oko 1. prosinca; oko 21. siječnja
+Kako se zove dio biljke u kojem nastaje sjeme? | plod | plodnica | list; stabljika
+Kako se zove prenošenje peluda s cvijeta na cvijet? | oprašivanje | oprasivanje; polinacija | oplodnja; klijanje
+Kako se zove početak rasta biljke iz sjemenke? | klijanje | | cvjetanje; oprašivanje
+Koji plin biljke otpuštaju tijekom fotosinteze? | kisik | O2 | ugljikov dioksid; dušik
+Koji plin čovjek izdiše? | ugljikov dioksid | CO2; ugljični dioksid | kisik; dušik
+Kako se zovu životinje koje se hrane samo biljkama? | biljojedi | biljojed; herbivori | mesojedi; svejedi
+Kako se zovu životinje koje jedu i biljke i meso? | svejedi | svejed; omnivori | biljojedi; mesojedi
+Kako se zove niz u kojem jedan organizam služi kao hrana drugome? | hranidbeni lanac | lanac prehrane; prehrambeni lanac | životni ciklus; kruženje tvari
+Kako se zovu organizmi koji razgrađuju uginula bića? | razlagači | razgrađivači; reducenti | proizvođači; potrošači
+Kako se zovu životinje bez kralježnice? | beskralježnjaci | beskraljesnjaci; beskralješnjaci | kralježnjaci; sisavci
+Kojoj skupini životinja pripadaju zmije i gušteri? | gmazovi | gmaz; reptili | vodozemci; sisavci
+Kojoj skupini životinja pripadaju daždevnjak i žaba? | vodozemci | vodozemac; amfibije | gmazovi; ribe
+Kako dišu ribe? | škrgama | škrge; skrge | plućima; kožom
+Kako se zove kad zmija skida staru kožu? | presvlačenje | svlačenje kože; mitarenje | hibernacija; metamorfoza
+Kako se kod nas zove slijepi špiljski vodozemac Proteus anguinus? | čovječja ribica | čovjekova ribica; proteus | špiljski daždevnjak; špiljska kozica
+Koja velika ptica strvinar gnijezdi se na liticama otoka Cresa? | bjeloglavi sup | sup; bjeloglavi supovi | suri orao; sivi sokol
+Koja je najveća europska zvijer koja živi u Gorskom kotaru? | smeđi medvjed | medvjed; mrki medvjed | vuk; ris
+Koja divlja mačka s čupercima na ušima živi u hrvatskim šumama? | ris | | divlja mačka; gepard
+Kako se zove glavni krvni sud koji izlazi iz srca? | aorta | glavna arterija | vena; kapilara
+Kako se zovu krvne žile koje vode krv prema srcu? | vene | vena | arterije; kapilare
+Kako se zovu najtanje krvne žile? | kapilare | kapilara | arterije; vene
+Koje krvne stanice prenose kisik? | crvene krvne stanice | eritrociti; crvena krvna zrnca | bijele krvne stanice; trombociti
+Koje stanice krvi brane tijelo od bolesti? | bijele krvne stanice | leukociti; bijela krvna zrnca | crvene krvne stanice; trombociti
+Koji organ pročišćava krv i stvara mokraću? | bubrezi | bubreg | jetra; slezena
+Koliko mliječnih zubi ima dijete? | 20 | dvadeset | 24; 32
+Kako se zove mišić koji odvaja prsnu od trbušne šupljine? | ošit | dijafragma; osit | rebreni mišić; trbušni mišić
+Kako se zove cijev koja hranu vodi od usta do želuca? | jednjak | ezofagus | dušnik; grkljan
+Kako se zove cijev koja zrak vodi prema plućima? | dušnik | dusnik; traheja | jednjak; žučovod
+Koji organ proizvodi žuč? | jetra | jetre | gušterača; žučni mjehur
+Kako se zovu lijekovi protiv bakterijskih infekcija? | antibiotici | antibiotik | analgetici; vitamini
+Tko je razvio prvo cjepivo protiv bjesnoće? | Louis Pasteur | Pasteur | Alexander Fleming; Edward Jenner
+Kako se zove znanost o vremenu i atmosferi? | meteorologija | | geologija; klimatologija
+Kako se zove znanost o stijenama i građi Zemlje? | geologija | | geografija; meteorologija
+Kako se zove pojava kad se tlo trese zbog pomicanja ploča? | potres | zemljotres | vulkanska erupcija; klizište
+Kojom ljestvicom se mjeri magnituda potresa? | Richterovom | Richter; Rihter; Richterova | Beaufortovom; Mercallijevom
+Kojom ljestvicom se mjeri jačina vjetra? | Beaufortovom | Beaufort; Beaufortova | Richterovom; Celzijevom
+Kako se zove rastaljena stijena u unutrašnjosti Zemlje? | magma | | lava; bazalt
+Kako se zove otvor na vrhu vulkana? | krater | grotlo | kaldera; gejzir
+Kako se zove pojava otapanja vapnenca vodom koja stvara špilje i ponikve? | krš | kras; krs | erozija; abrazija
+Kako se zove udubina u kršu u obliku lijevka? | ponikva | vrtača | jama; dolac
+Kako se zovu sige koje rastu odozgo, sa stropa špilje? | stalaktiti | stalaktit | stalagmiti; stalagnati
+Kako se zovu sige koje rastu odozdo, s dna špilje? | stalagmiti | stalagmit | stalaktiti; stalagnati
+Kako se zove mjesto gdje rijeka izvire? | izvor | vrelo | ušće; delta
+Kako se zove mjesto gdje rijeka utječe u more ili drugu rijeku? | ušće | usce | izvor; pritok
+Koja rijeka ima najdulji tok kroz Hrvatsku? | Sava | | Drava; Kupa
+Kako se zove najveće prirodno jezero u Hrvatskoj, kod Biograda? | Vransko jezero | Vransko | Prokljansko jezero; Visovačko jezero
+Na kojem se otoku nalazi drugo Vransko jezero, važan izvor pitke vode? | Cres | | Krk; Rab
+Koji je najviši vrh Hrvatske? | Dinara | Sinjal; Dinara (Sinjal) | Biokovo; Velebit
+Koja je najveća hrvatska planina po površini? | Velebit | | Dinara; Biokovo
+Koji nacionalni park čine slapovi i jezera na rijeci Krki? | NP Krka | Krka | Plitvice; Paklenica
+Koji je nacionalni park poznat po kanjonima Velike i Male Paklenice? | Paklenica | NP Paklenica | Risnjak; Sjeverni Velebit
+Koji je nacionalni park u Istri sastavljen od otočja nasuprot Fažane? | Brijuni | Brioni | Kornati; Mljet
+Koji je nacionalni park s najviše otoka u Jadranu? | Kornati | NP Kornati | Brijuni; Mljet
+Koji je hrvatski nacionalni park na otoku s dva slana jezera? | Mljet | NP Mljet | Kornati; Brijuni
+Kako se zove park prirode s poplavnim močvarama uz Dunav u Baranji? | Kopački rit | Kopacki rit | Lonjsko polje; Vransko jezero
+Kako se zove park prirode u Posavini poznat po rodama? | Lonjsko polje | | Kopački rit; Žumberak
+Kako se zove dokument u kojem su zapisana osnovna pravila države? | Ustav | ustav | Zakon o državi; Proračun
+Koje godine je donesen „Božićni ustav” Republike Hrvatske? | 1990. | 1990 | 1991.; 1992.
+Koliko godina traje mandat predsjednika Republike Hrvatske? | 5 | pet | 4; 6
+Koliko godina traje mandat zastupnika Hrvatskog sabora? | 4 | četiri | 5; 6
+Koja su tri dijela državne vlasti? | zakonodavna, izvršna i sudbena | zakonodavna izvrsna sudbena; zakonodavna izvršna sudska | vojna, crkvena i sudbena; lokalna, državna i europska
+Tko u Hrvatskoj predlaže i provodi zakone, a vodi je predsjednik Vlade? | Vlada | Vlada Republike Hrvatske | Sabor; Ustavni sud
+Kako se zove plan prihoda i rashoda države za godinu? | proračun | državni proračun; budžet | porez; bilanca
+Kako se zove novac koji građani plaćaju državi? | porez | porezi; davanja | proračun; subvencija
+Kako se zove brat od majke? | ujak | | stric; tetak
+Kako se zove brat od oca? | stric | | ujak; tetak
+Kako se zove muž tete? | tetak | teco; tetac | stric; ujak
+Kako se zove muževa majka? | svekrva | | punica; šurjakinja
+Kako se zove ženina majka? | punica | tašta | svekrva; zaova
+Kako se zove ženin brat? | šurjak | surjak; šogor | djever; zet
+Kako se zove muževa sestra? | zaova | | šogorica; jetrva
+Kako se zove odvajanje otpada po vrsti za ponovnu uporabu? | recikliranje | reciklaža | kompostiranje; spaljivanje
+U koju boju spremnika u Hrvatskoj odvajamo papir? | plavu | plavi; plava | žutu; zelenu
+U koju boju spremnika u Hrvatskoj odvajamo plastiku i metal? | žutu | žuti; žuta; zutu | plavu; zelenu
+Koji je plin glavni krivac za efekt staklenika? | ugljikov dioksid | CO2; ugljični dioksid | kisik; vodik
+Kako se zove sloj atmosfere koji nas štiti od UV zračenja? | ozonski omotač | ozon; ozonski sloj; ozonski omotac | troposfera; ionosfera
+Kako se zove energija dobivena od Sunca? | sunčeva energija | solarna energija; suncana energija | geotermalna energija; nuklearna energija
+Kako se zove energija dobivena iz vjetra pomoću vjetrenjača? | energija vjetra | eolska energija; vjetroenergija | hidroenergija; solarna energija

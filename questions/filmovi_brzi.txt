@@ -1,0 +1,144 @@
+# Filmovi i serije — poznatija pitanja s upisom odgovora (brzi krug i finale).
+# Format: pitanje | točan odgovor | drugi prihvaćeni odgovori (;) | dva netočna odgovora (;)
+Kako se zove dječak čarobnjak s ožiljkom u obliku munje? | Harry Potter | Harry; Hari Poter; Potter | Ron Weasley; Draco Malfoy
+Kako se zove Harryjev najbolji prijatelj s crvenom kosom? | Ron Weasley | Ron; Weasley | Neville Longbottom; Seamus Finnigan
+Kako se zove najpametnija Harryjeva prijateljica? | Hermiona Granger | Hermione; Hermiona; Granger | Ginny Weasley; Luna Lovegood
+Kako se zove ravnatelj Hogwartsa s dugom bijelom bradom? | Albus Dumbledore | Dumbledore | Severus Snape; Rubeus Hagrid
+Kako se zove Harryjev najveći neprijatelj, „Onaj-čije-se-ime-ne-smije-izgovoriti”? | Voldemort | Lord Voldemort; Tom Riddle | Grindelwald; Lucius Malfoy
+Kako se zove div koji čuva ključeve Hogwartsa? | Hagrid | Rubeus Hagrid | Filch; Dobby
+Kako se zove kućni vilenjak koji pomaže Harryju? | Dobby | Dobi | Kreacher; Winky
+Kako se zove sport na metlama iz Harryja Pottera? | Quidditch | Kviddič; Kvidič | Gobstones; Kvaffl
+Kako se zove hobit koji nosi Prsten u „Gospodaru prstenova”? | Frodo | Frodo Baggins; Frodo Bagins | Bilbo; Sam
+Kako se zove sivi čarobnjak iz „Gospodara prstenova”? | Gandalf | Gandalf Sivi | Saruman; Radagast
+Kako se zove stvorenje koje Prsten zove „moje zlato”? | Gollum | Golum; Smeagol; Sméagol | Dobby; Gimli
+Tko je režirao filmsku trilogiju „Gospodar prstenova”? | Peter Jackson | Jackson | Ridley Scott; Guillermo del Toro
+Kako se zove otac Lukea Skywalkera? | Darth Vader | Vader; Anakin Skywalker; Anakin | Darth Maul; Obi-Wan Kenobi
+Kako se zove mali zeleni Jedi učitelj iz „Ratova zvijezda”? | Yoda | Joda | Obi-Wan; Chewbacca
+Kako se zove dlakavi suputnik Hana Sola? | Chewbacca | Chewie; Čubaka | Ewok; Jabba
+Tko je redatelj i tvorac prvih „Ratova zvijezda”? | George Lucas | Lucas | Steven Spielberg; Ridley Scott
+Kako se zove robot u obliku kante iz „Ratova zvijezda” koji pišti? | R2-D2 | R2D2; Artoo | C-3PO; BB-8
+Kako se zove princeza koju glumi Carrie Fisher u „Ratovima zvijezda”? | Leia | princeza Leia; Leia Organa | Padmé; Rey
+Kako se zove svjetleći mač Jedija? | svjetlosni mač | laserski mač; lightsaber | blaster; električni mač
+Kako se zove ogar zelene kože iz DreamWorksova crtića? | Shrek | Šrek | Fiona; Gargamel
+Kako se zove Shrekov brbljavi prijatelj magarac? | Magarac | Donkey | Mačak; Fiona
+Kako se zove Shrekova žena? | Fiona | princeza Fiona | Aurora; Merida
+Kako se zove kauboj igračka iz „Priče o igračkama”? | Woody | Vudi | Buzz; Jessie
+Kako se zove svemirski ranger iz „Priče o igračkama”? | Buzz Svjetlosni | Buzz Lightyear; Buzz | Woody; Zurg
+Kako se zove riba klaun koju otac traži u Pixarovu filmu? | Nemo | | Dory; Marlin
+Kako se zove zaboravna plava riba iz „Potrage za Nemom”? | Dory | Dori | Nemo; Gill
+Kako se zove crveni trkaći automobil iz Pixarovih „Automobila”? | Munja McQueen | Lightning McQueen; McQueen; Munja | Mater; Doc Hudson
+Kako se zove starija sestra s ledenim moćima iz „Snježnog kraljevstva”? | Elsa | | Anna; Rapunzel
+Kako se zove Elsina mlađa sestra? | Anna | Ana | Moana; Merida
+Kako se zove pjesma koju Elsa pjeva u „Snježnom kraljevstvu”, u originalu? | Let It Go | Pusti sve; Sad sam slobodna | Into the Unknown; Show Yourself
+Kako se zove Simbin otac u „Kralju lavova”? | Mufasa | | Scar; Rafiki
+Kako se zove Simbin zli stric? | Scar | Skar | Mufasa; Shenzi
+Kako se zovu prijatelji Simbe, merkat i bradavičasta svinja? | Timon i Pumba | Timon i Pumbaa; Pumba i Timon | Rafiki i Zazu; Nala i Sarabi
+Što znači izraz „Hakuna matata”? | bez brige | nema brige; nema problema; bez problema | sretan put; laku noć
+Kako se zove Disneyjev miš s crvenim hlačicama? | Miki Maus | Mickey Mouse; Miki; Mickey | Jerry; Šilja
+Kako se zove Disneyjeva patka u mornarskoj odjeći? | Pajo Patak | Donald Duck; Donald; Paja Patak | Baja Patak; Daisy
+Kako se zove bogati ujak Paje Patka? | Baja Patak | Scrooge McDuck; Joakim; Uncle Scrooge | Šilja; Hjuj
+Kako se zove mačak koji stalno lovi miša Jerryja? | Tom | | Sylvester; Garfield
+Kako se zove kanarinac kojeg lovi mačak Sylvester? | Tweety | Twiti; Tweety Bird | Woodstock; Zazu
+Kako se zove zec koji pita „Šta ima, doco?”? | Bugs Bunny | Bugs; Zeko Bugs; Duško Dugouško | Roger Rabbit; Daffy Duck
+Kako se zove pas detektiv koji se boji duhova? | Scooby-Doo | Scooby; Skubi Du; Skubi | Pluto; Odie
+Kako se zovu mala plava šumska bića s bijelim kapicama? | Štrumpfovi | Strumpfovi; Smurfovi; Smurfs | Patuljci; Minioni
+Kako se zove zli čarobnjak koji lovi Štrumpfove? | Gargamel | | Azrael; Papa Štrumpf
+Kako se zovu žuta stvorenja s naočalama iz „Gru na zadatku”? | Minioni | Minions; Miniji | Štrumpfovi; Ewoci
+Kako se zove spužva koja živi u ananasu na dnu mora? | Spužva Bob | SpongeBob; Spužva Bob Skockani; Bob Skockani | Patrick; Squidward
+Kako se zove SpongeBobov najbolji prijatelj, ružičasta morska zvijezda? | Patrick | Patrik | Sandy; Gary
+Kako se zove otac obitelji Simpson? | Homer | Homer Simpson | Bart; Ned
+Kako se zove najstariji sin obitelji Simpson? | Bart | Bart Simpson | Lisa; Milhouse
+Kako se zovu kamenodobni junaci Fred i Barney? | Kremenko | Flintstones; Kremenkovi | Jetsonovi; Simpsonovi
+Kako se zove kojot koji uporno juri pticu Trkačicu? | Wile E. Coyote | Kojot; Vile Kojot; Wile Coyote | Taz; Pepe
+Kako se zove medvjedić koji voli med, prijatelj Praščića? | Winnie the Pooh | Winnie; Pooh; Medo Winnie; Vini Pu | Paddington; Baloo
+Kako se zove medvjed iz Perua koji voli marmeladu? | Paddington | | Pooh; Baloo
+Kako se zove dječak koji ne želi odrasti i živi u Nigdjezemskoj? | Petar Pan | Peter Pan | Pinokio; Kapetan Kuka
+Kako se zove vila Petra Pana? | Zvončica | Tinker Bell; Zvoncica | Vila Plavica; Fiona
+Kako se zove pirat s kukom umjesto ruke? | Kapetan Kuka | Captain Hook; Kuka | Jack Sparrow; Crnobradi
+Kako se zove ekscentrični pirat kojeg glumi Johnny Depp? | Jack Sparrow | Kapetan Jack Sparrow; Sparrow | Hector Barbossa; Will Turner
+Koji je glumac utjelovio Iron Mana u Marvelovim filmovima? | Robert Downey Jr. | Robert Downey; Downey | Chris Evans; Mark Ruffalo
+Koji je superjunak Tony Stark? | Iron Man | Ajron Men; Ironman; Čelični čovjek | Kapetan Amerika; Thor
+Koji je Marvelov junak bog groma s čekićem? | Thor | Tor | Loki; Hulk
+Kako se zove Thorov prevrtljivi brat? | Loki | | Odin; Heimdall
+Koji se superjunak pretvara u zelenog diva kad se naljuti? | Hulk | Halk | Shrek; Groot
+Kako se zove ljubičasti Marvelov negativac koji skuplja Kamenja beskonačnosti? | Thanos | Tanos | Ultron; Loki
+Kako se zove stablo-junak koji govori samo „Ja sam Groot”? | Groot | Grut | Rocket; Drax
+Kako se zove Batmanov najveći neprijatelj, klaun? | Joker | Džoker | Pingvin; Riddler
+Kako se zove grad u kojem djeluje Batman? | Gotham | Gotham City | Metropolis; Central City
+Kako se zove Batmanov batler? | Alfred | Alfred Pennyworth | Jarvis; Lucius
+Koji je superjunak Diana Prince? | Wonder Woman | Čudesna žena; Wonderwoman | Supergirl; Catwoman
+Kako se zove planet s kojeg dolazi Superman? | Kripton | Krypton | Apokolips; Oa
+Koji glumac igra Jamesa Bonda u filmovima od „Casino Royalea” 2006. do „Nije vrijeme za smrt”? | Daniel Craig | Craig | Pierce Brosnan; Sean Connery
+Koji je bio prvi filmski James Bond? | Sean Connery | Connery | Roger Moore; Daniel Craig
+Kako se zove Bondov omiljeni koktel? | martini | votka martini; vodka martini | mojito; negroni
+Koji je glumac Jack Sparrow, Edward Škaroruki i Willy Wonka? | Johnny Depp | Depp | Orlando Bloom; Tim Burton
+U kojem filmu Tom Hanks kaže „Život je kao kutija čokoladnih bombona”? | Forrest Gump | Forest Gump | Cast Away; Big
+Koji glumac igra Forresta Gumpa? | Tom Hanks | Hanks | Tom Cruise; Kevin Costner
+Koji glumac igra Ethana Hunta u „Nemogućoj misiji”? | Tom Cruise | Cruise | Tom Hardy; Brad Pitt
+Koji je austrijski glumac igrao Terminatora? | Arnold Schwarzenegger | Schwarzenegger; Arnold; Švarceneger | Sylvester Stallone; Dolph Lundgren
+Koju rečenicu Terminator govori prije odlaska? | I'll be back | Vratit ću se; Ill be back | Hasta la vista; Get to the chopper
+Koji glumac igra Rockyja i Ramba? | Sylvester Stallone | Stallone; Stalone | Arnold Schwarzenegger; Bruce Willis
+Koji glumac igra Johna McClanea u „Umri muški”? | Bruce Willis | Willis | Mel Gibson; Harrison Ford
+Koji glumac igra Neoa u „Matrixu”? | Keanu Reeves | Reeves; Keanu | Laurence Fishburne; Hugo Weaving
+Koju tabletu Neo uzima u „Matrixu”? | crvenu | crvena | plavu; zelenu
+Koji glumac igra Indianu Jonesa? | Harrison Ford | Ford | Kevin Costner; Mel Gibson
+Kojeg arheologa s bičem i šeširom glumi Harrison Ford? | Indiana Jones | Indiana; Indy | Allan Quatermain; Lara Croft
+Kakve su životinje oživljene u „Jurskom parku”? | dinosauri | dinosaurusi | mamuti; zmajevi
+Tko je režirao „Jurski park” i „E.T.”? | Steven Spielberg | Spielberg | James Cameron; George Lucas
+Kako se zove vanzemaljac koji želi „zvati kući”? | E.T. | ET; Izvanzemaljac | Alf; Yoda
+Kako se zove plavo pleme s Pandore u filmu „Avatar”? | Na'vi | Navi | Ewoci; Klingonci
+Tko je režirao „Avatar”? | James Cameron | Cameron | Steven Spielberg; Peter Jackson
+Kako se zove golemi gorila koji se penje na Empire State Building? | King Kong | Kong | Godzilla; Mighty Joe
+Kako se zove japansko čudovište koje izlazi iz mora i ruši Tokio? | Godzilla | Godzila; Gojira | King Kong; Mothra
+Kako se zove morski pas koji napada kupače u Spielbergovu filmu iz 1975.? | Ralje | Jaws | Duboko plavo; Megalodon
+Kako se zove kip koji dobivaju dobitnici Oscara (nadimak)? | Oscar | Oskar | Emmy; Grammy
+Koji je komičar s brkovima, šeširom i štapom glumio Skitnicu? | Charlie Chaplin | Chaplin; Čaplin | Buster Keaton; Stan Laurel
+Kako se zove kultni dvojac debeljuškastog i mršavog komičara? | Stanlio i Olio | Laurel i Hardy; Laurel and Hardy | Abbott i Costello; Bud i Terence
+Koja glumica glumi Hermionu u filmovima o Harryju Potteru? | Emma Watson | Watson | Emma Stone; Keira Knightley
+Koji glumac glumi Harryja Pottera? | Daniel Radcliffe | Radcliffe | Rupert Grint; Tom Felton
+Kako se zove serija o šestero prijatelja iz New Yorka iz 1990-ih? | Prijatelji | Friends | Kako sam upoznao vašu majku; Seinfeld
+Kako se zove kafić u kojem se okupljaju „Prijatelji”? | Central Perk | Central Park | Monk's Café; MacLaren's
+Koji lik iz „Prijatelja” stalno pita „How you doin'?”? | Joey | Joey Tribbiani | Chandler; Ross
+Kako se zove serija o profesoru kemije koji postaje proizvođač droge? | Breaking Bad | Brejking Bed; Na putu prema dolje | Ozark; Narcos
+Kako se zove glavni lik serije „Breaking Bad”? | Walter White | Walter; Heisenberg; Walt | Jesse Pinkman; Saul Goodman
+Kako se zove HBO-ova serija o borbi za Željezno prijestolje? | Igra prijestolja | Game of Thrones; GoT | Vikinzi; Kruna
+U kojem je hrvatskom gradu sniman King's Landing iz „Igre prijestolja”? | Dubrovnik | | Split; Šibenik
+Kako se zove Netflixova serija o djeci iz Hawkinsa i Naopakom svijetu? | Stranger Things | Čudne stvari | Dark; The OA
+Kako se zove djevojčica s moćima i brojem umjesto imena u „Stranger Things”? | Eleven | Jedanaest; El; 11 | Max; Nancy
+Kako se zove korejska Netflixova serija u kojoj se igraju dječje igre za život? | Squid Game | Igra lignje | Alice in Borderland; Kingdom
+Kako se zove španjolska serija o pljački Kraljevske kovnice novca? | Papirnata kuća | La casa de papel; Money Heist | Elita; Narcos
+Kako se zove britanska serija o bandi iz Birminghama s kapama? | Peaky Blinders | Piki Blajnders | Boardwalk Empire; Gangs of London
+Kako se zove serija o liječnicima bolnice Seattle Grace? | Uvod u anatomiju | Grey's Anatomy; Greys Anatomy | Hitna služba; Dr. House
+Kako se zove mrzovoljni liječnik sa štapom iz serije „Dr. House”? | Gregory House | House; Greg House | James Wilson; Eric Foreman
+Kako se zove serija o znanstvenicima Sheldonu i Leonardu? | Teorija velikog praska | The Big Bang Theory; Big Bang Theory | Silicijska dolina; Mladi Sheldon
+Kako se zove serija o Tedu Mosbyju koji djeci priča kako je upoznao njihovu majku? | Kako sam upoznao vašu majku | How I Met Your Mother; HIMYM | Prijatelji; Novakinja
+Kako se zove hrvatska humoristična serija o malom dalmatinskom mistu iz 1970-ih, prema Miljenku Smoji? | Naše malo misto | Nase malo misto | Malo misto; Velo misto
+Kako se zove bosanska humoristična serija o Izetu Fazlinoviću? | Lud, zbunjen, normalan | Lud zbunjen normalan; LZN | Bitange i princeze; Crna hronika
+Kako se zove legendarna srpska serija o obitelji Popadić? | Bolji život | | Srećni ljudi; Grlom u jagode
+Kako se zove dječak šegrt iz hrvatskog animiranog filma iz 1997. prema romanu Ivane Brlić-Mažuranić? | Hlapić | Šegrt Hlapić; Segrt Hlapic | Palčić; Pinokio
+Kako se zove ćelavi profesor iz zagrebačkog crtića koji rješava probleme izumima? | Profesor Baltazar | Baltazar | Profesor Kalkulus; Profesor Umnik
+Koji glumac igra Jokera u filmu „Joker” iz 2019.? | Joaquin Phoenix | Phoenix; Joakin Feniks | Heath Ledger; Jared Leto
+Koji glumac igra Wolverinea? | Hugh Jackman | Jackman | Ryan Reynolds; Chris Hemsworth
+Koji glumac igra Deadpoola? | Ryan Reynolds | Reynolds | Ryan Gosling; Hugh Jackman
+Koji je glumac Marvelov Kapetan Amerika? | Chris Evans | Evans | Chris Pratt; Chris Hemsworth
+Koji glumac glumi Kena u filmu „Barbie” iz 2023.? | Ryan Gosling | Gosling | Ryan Reynolds; Chris Pine
+Kako se zove film iz 2023. o ocu atomske bombe? | Oppenheimer | Openhajmer | Manhattan; Trinity
+Tko je režirao „Oppenheimera”, „Početak” i „Interstellar”? | Christopher Nolan | Nolan | Denis Villeneuve; Ridley Scott
+Kako se zove brod u filmu Jamesa Camerona iz 1997.? | Titanic | Titanik | Lusitania; Britannic
+Koja glumica glumi Rose u filmu „Titanic”? | Kate Winslet | Winslet | Kate Hudson; Nicole Kidman
+Kako se zove crvenokosa sirena iz Disneyjeva crtića? | Ariel | Arijel; Mala sirena | Ursula; Melody
+Kako se zove pas Dorothy iz „Čarobnjaka iz Oza”? | Toto | | Rex; Pluto
+Kako se zove drvena lutka koju Geppetto izrađuje? | Pinokio | Pinocchio | Hlapić; Petar Pan
+Kako se zove sobarica koja izgubi staklenu cipelicu? | Pepeljuga | Cinderella | Snjeguljica; Trnoružica
+Koliko patuljaka živi sa Snjeguljicom? | 7 | sedam | 6; 8
+Kako se zove ružni čovjek-zvijer iz Disneyjeva filma s Belle? | Zvijer | Beast | Gaston; Shrek
+Kako se zove mladić s čarobnom svjetiljkom iz Disneyjeva crtića? | Aladin | Aladdin | Ali Baba; Sindbad
+Kako se zove plavi duh iz Aladinove svjetiljke? | Duh | Genie; Dzin; Džin | Jafar; Abu
+Kako se zove polinezijska djevojka koja plovi oceanom u Disneyjevu filmu iz 2016.? | Moana | Vaiana | Lilo; Mulan
+Kako se zove kineska djevojka koja se preruši u vojnika? | Mulan | | Pocahontas; Jasmine
+Kako se zove štakor kuhar iz Pixarova filma „Ratatouille”? | Remy | Remi | Linguini; Emile
+Kako se zove robot koji čisti smeće na napuštenoj Zemlji? | WALL-E | Wall E; Volli | EVE; R2-D2
+Kako se zove Pixarov film o djevojčici Riley i njezinim osjećajima? | Izvrnuto obrnuto | Inside Out | Duša; Coco
+Kako se zove animirani film s mamutom Mannyjem i lijenjivcem Sidom? | Ledeno doba | Ice Age | Madagaskar; Zemlja predaka
+Kako se zove lav iz „Madagaskara”? | Alex | Aleks | Marty; Melman
+Kako se zove panda koja postaje Zmajev ratnik? | Po | | Shifu; Tigrica

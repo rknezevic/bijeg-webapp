@@ -1,0 +1,128 @@
+# Filmovi i serije — teža pitanja, samo za ploču (A/B/C).
+# Format: pitanje | točan odgovor | drugi prihvaćeni odgovori (;) | dva netočna odgovora (;)
+Koji je film osvojio prvog Oscara za najbolji film (1929.)? | Krila | Wings | Građanin Kane; Prohujalo s vihorom
+Koji film drži rekord od 11 Oscara zajedno s „Ben-Hurom” i „Titanicom”? | Gospodar prstenova: Povratak kralja | Povratak kralja | Avatar; Kum II
+Koji je prvi film koji nije na engleskom jeziku osvojio Oscara za najbolji film? | Parazit | Parasite | Roma; Život je lijep
+Iz koje je zemlje film „Parazit” Bonga Joon-hoa? | Južna Koreja | Koreja | Japan; Kina
+Koji je glumac osvojio Oscara za ulogu Jokera u „Vitezu tame”? | Heath Ledger | Ledger | Jared Leto; Jack Nicholson
+Koji je glumac konačno osvojio Oscara za film „Povratnik” (2016.)? | Leonardo DiCaprio | DiCaprio | Tom Hardy; Matthew McConaughey
+Koja je glumica rekorderka s četiri Oscara za glavnu ulogu? | Katharine Hepburn | Hepburn | Meryl Streep; Bette Davis
+Koji je redatelj snimio „Psiho” i „Ptice”? | Alfred Hitchcock | Hitchcock | Orson Welles; Billy Wilder
+Koji je redatelj snimio „Pakleni šund” i „Kill Bill”? | Quentin Tarantino | Tarantino | Robert Rodriguez; Guy Ritchie
+Koji je redatelj snimio „Isijavanje” i „2001: Odiseju u svemiru”? | Stanley Kubrick | Kubrick | Ridley Scott; Roman Polanski
+Koji je redatelj snimio „Taksistu” i „Dobre momke”? | Martin Scorsese | Scorsese | Francis Ford Coppola; Sidney Lumet
+Koji je redatelj snimio „Gladijatora” i „Osmog putnika”? | Ridley Scott | Scott | James Cameron; Tony Scott
+Koji je redatelj snimio „Dinu” (2021.) i „Blade Runner 2049”? | Denis Villeneuve | Villeneuve | Christopher Nolan; Alex Garland
+Koji je japanski redatelj snimio „Avanture male Chihiro”? | Hayao Miyazaki | Miyazaki | Akira Kurosawa; Makoto Shinkai
+Kako se zove japanski studio koji je snimio „Mog susjeda Totora”? | Studio Ghibli | Ghibli | Toei; Studio Pierrot
+Koji je redatelj snimio „Sedam samuraja”? | Akira Kurosawa | Kurosawa | Hayao Miyazaki; Yasujirō Ozu
+Koji je redatelj snimio „Građanina Kanea” i u njemu glumio? | Orson Welles | Welles | John Ford; Howard Hawks
+Koja je posljednja riječ Charlesa Fostera Kanea u „Građaninu Kaneu”? | Rosebud | Ružin pupoljak | Xanadu; Mother
+Koji je talijanski redatelj snimio „Slatki život”? | Federico Fellini | Fellini | Michelangelo Antonioni; Roberto Rossellini
+Koji je Talijan glumio i režirao „Život je lijep”? | Roberto Benigni | Benigni | Marcello Mastroianni; Giuseppe Tornatore
+Tko je skladao glazbu za „Ratove zvijezda”, „Ralje” i „Jurski park”? | John Williams | Williams | Hans Zimmer; Danny Elfman
+Tko je skladao glazbu za „Gladijatora” i „Početak”? | Hans Zimmer | Zimmer | John Williams; Howard Shore
+Tko je skladao glazbu za špageti-vesterne Sergia Leonea? | Ennio Morricone | Morricone | Nino Rota; Hans Zimmer
+Koji je glumac „čovjek bez imena” u Leoneovoj dolarskoj trilogiji? | Clint Eastwood | Eastwood | Lee Van Cleef; John Wayne
+Kako se zove talijanski redatelj „Dobrog, lošeg, zlog”? | Sergio Leone | Leone | Sergio Corbucci; Dario Argento
+Koji glumac igra Vita Corleonea u prvom „Kumu”? | Marlon Brando | Brando | Al Pacino; Robert De Niro
+Koji glumac igra Michaela Corleonea u „Kumu”? | Al Pacino | Pacino | Robert De Niro; James Caan
+Koji je glumac mladog Vita Corleonea u „Kumu II”? | Robert De Niro | De Niro | Al Pacino; Joe Pesci
+Koji glumac igra Hannibala Lectera u „Kad jaganjci utihnu”? | Anthony Hopkins | Hopkins | Gary Oldman; Ralph Fiennes
+Koja glumica igra Clarice Starling u „Kad jaganjci utihnu”? | Jodie Foster | Foster | Julianne Moore; Sigourney Weaver
+Koji glumac igra Tylera Durdena u „Klubu boraca”? | Brad Pitt | Pitt | Edward Norton; Jared Leto
+Koje je prvo pravilo Kluba boraca? | Ne pričaš o Klubu boraca | ne pricas o klubu boraca | Uvijek se boriš do kraja; Nema oružja
+Koji glumac igra Andyja Dufresnea u „Iskupljenju u Shawshanku”? | Tim Robbins | Robbins | Morgan Freeman; Kevin Spacey
+Po čijoj je pripovijesti snimljeno „Iskupljenje u Shawshanku”? | Stephen King | King | John Grisham; Dean Koontz
+Koji glumac igra Maximusa u „Gladijatoru”? | Russell Crowe | Crowe | Joaquin Phoenix; Gerard Butler
+Koji film počinje rečenicom „Davno, u dalekoj galaksiji...”? | Ratovi zvijezda | Star Wars | Zvjezdane staze; Dina
+Kako se zove svemirski brod Hana Sola? | Millennium Falcon | Milenijski sokol; Falcon | Enterprise; Nostromo
+Kako se zove brod kapetana Kirka u „Zvjezdanim stazama”? | Enterprise | USS Enterprise | Voyager; Millennium Falcon
+Kako se zove vulkanac s ušiljenim ušima iz „Zvjezdanih staza”? | Spock | Spok | Data; Worf
+Kako se zove računalo HAL u „2001: Odiseji u svemiru”, puno ime? | HAL 9000 | HAL; Hal 9000 | HAL 2000; SKYNET
+Kako se zove umjetna inteligencija koja u „Terminatoru” pokreće rat strojeva? | Skynet | Skajnet | Matrix; HAL 9000
+Kako se zove stvorenje iz filma „Osmi putnik” (1979.)? | ksenomorf | Alien; Xenomorph | Predator; Thing
+Kako se zove glumica koja igra Ellen Ripley u „Osmom putniku”? | Sigourney Weaver | Weaver | Linda Hamilton; Jamie Lee Curtis
+Kako se zove hotel u „Isijavanju”? | Overlook | Hotel Overlook | Bates; Grand Budapest
+Kako se zove motel u Hitchcockovu „Psihu”? | Bates Motel | Bates; Batesov motel | Overlook; Motel Norman
+Kako se zove ubojica s maskom hokejaškog golmana u „Petku 13.”? | Jason Voorhees | Jason | Michael Myers; Freddy Krueger
+Kako se zove ubojica s rukavicom-noževima iz „Strave u Ulici brijestova”? | Freddy Krueger | Freddy; Kruger | Jason Voorhees; Chucky
+Kako se zove ubojiti lutak iz „Dječje igre”? | Chucky | Čaki | Annabelle; Billy
+Koji je film u kojem kostimirani ubojica nosi masku Ghostface? | Vrisak | Scream | Noć vještica; Petak 13.
+Kako se zove klaun-čudovište iz Kingova romana „To”? | Pennywise | Penivajz | Pogo; Krusty
+Koji je kultni film iz 1999. snimljen kao „pronađena snimka” o vještici? | Vještica iz Blaira | Blair Witch Project; Blair Witch | Paranormalna aktivnost; Egzorcist
+Kako se zove grad u kojem se odvija „Povratak u budućnost”? | Hill Valley | | Hawkins; Twin Peaks
+Kojim automobilom putuje kroz vrijeme Marty McFly? | DeLorean | DeLorean DMC-12 | Ford Mustang; Chevrolet Corvette
+Koliko gigavata treba vremeplovu u „Povratku u budućnost”? | 1,21 | 1.21; 1,21 gigavat | 2,42; 0,88
+Kako se zove mladić kojeg glumi Michael J. Fox u „Povratku u budućnost”? | Marty McFly | Marty; McFly | Doc Brown; Biff Tannen
+U kojem gradu žive Ghostbusters (Istjerivači duhova)? | New York | NY | Chicago; Boston
+Koja je glumica igrala Holly Golightly u „Doručku kod Tiffanyja”? | Audrey Hepburn | Hepburn | Grace Kelly; Marilyn Monroe
+U kojem filmu Marilyn Monroe stoji iznad otvora podzemne pa joj se diže haljina? | Sedam godina vjernosti | The Seven Year Itch | Neki to vole vruće; Gospoda više vole plavuše
+Koji je crno-bijeli film iz 1942. o baru u Maroku? | Casablanca | Kazablanka | Malteški sokol; Grozdovi gnjeva
+Koji film o Južnjakinji Scarlett O'Hara je osvojio Oscara 1940.? | Prohujalo s vihorom | Gone with the Wind | Casablanca; Ben-Hur
+U kojem filmu Charlton Heston vozi slavnu utrku kočija? | Ben-Hur | Ben Hur | Spartak; Kleopatra
+Koji je glumac utjelovio Lawrencea od Arabije? | Peter O'Toole | O'Toole; Peter OToole | Omar Sharif; Alec Guinness
+Koji je glumac igrao Obi-Wana Kenobija u prvim „Ratovima zvijezda”? | Alec Guinness | Guinness | Peter Cushing; Ewan McGregor
+U kojem je filmu Jack Nicholson rekao „Here's Johnny!”? | Isijavanje | The Shining | Let iznad kukavičjeg gnijezda; Batman
+Za koji je film Jack Nicholson osvojio prvog Oscara za glavnu ulogu? | Let iznad kukavičjeg gnijezda | Let iznad kukavicjeg gnijezda; One Flew Over the Cuckoo's Nest | Kineska četvrt; Isijavanje
+Koji film Jamesa Camerona iz 2009. bio je najgledaniji u povijesti? | Avatar | | Titanic; Osvetnici: Završnica
+Koji Marvelov film iz 2019. je završio sagu o Thanosu? | Osvetnici: Završnica | Avengers: Endgame; Endgame; Zavrsnica | Rat beskonačnosti; Doba Ultrona
+Koji je bio prvi film Marvelova filmskog svemira (2008.)? | Iron Man | Ironman | Kapetan Amerika; Hulk
+Kako se zove fiktivna afrička zemlja Crne Pantere? | Wakanda | Vakanda | Zamunda; Genovia
+Kako se zove metal od kojeg je štit Kapetana Amerike? | vibranij | vibranium | adamantij; titanij
+Kako se zove metal kojim su presvučene Wolverineove kosti? | adamantij | adamantium | vibranij; uru
+Kako se zove pravo ime Hulka? | Bruce Banner | Banner | Bruce Wayne; Tony Stark
+Kako se zove profesor koji vodi X-Men? | Charles Xavier | Profesor X; Xavier | Magneto; Nick Fury
+Koji glumac igra Batmana u „Vitezu tame” (2008.)? | Christian Bale | Bale | Ben Affleck; Michael Keaton
+Kako se zove novinarka u koju je zaljubljen Superman? | Lois Lane | Lois | Lana Lang; Mary Jane
+Kako se zove ujak Petera Parkera koji kaže „Velika moć donosi veliku odgovornost”? | Ben | ujak Ben; Ben Parker | Fred; Richard
+Kako se zove zla žena koja želi krzno dalmatinaca u „101 dalmatincu”? | Cruella de Vil | Cruella; Kruela | Ursula; Maleficent
+Kako se zove morska vještica iz „Male sirene”? | Ursula | Uršula | Cruella; Maleficent
+Kako se zove zla vila koja uspava Trnoružicu? | Maleficent | Zloguka | Ursula; Zla kraljica
+Kako se zove papiga Jafara u „Aladinu”? | Iago | Jago | Abu; Zazu
+Kako se zove ptica, Mufasin savjetnik u „Kralju lavova”? | Zazu | | Iago; Rafiki
+Kako se zove Pixarov prvi dugometražni film (1995.)? | Priča o igračkama | Toy Story | Život buba; Čudovišta iz ormara
+Kako se zove dinosaur igračka iz „Priče o igračkama”? | Rex | Reks | Hamm; Slinky
+Kako se zove zelena jednooka zvijer iz „Čudovišta iz ormara”? | Mike Wazowski | Mike; Wazowski | Sulley; Randall
+Kako se zove djevojčica koju Sulley zove „Boo”? | Boo | Bu | Lilo; Riley
+U kojem je meksičkom prazniku smješten Pixarov „Coco”? | Dan mrtvih | Dia de los Muertos; Día de Muertos | Cinco de Mayo; Las Posadas
+Kako se zove starac koji leti kućom na balonima u „Up”? | Carl | Carl Fredricksen | Russell; Charles
+Kako se zove Pixarov film iz 2022. u kojem se djevojčica pretvara u crvenu pandu? | Turning Red | Crvena | Luca; Elemental
+Koji je prvi cjelovečernji animirani film Disneyja (1937.)? | Snjeguljica i sedam patuljaka | Snjeguljica | Pinokio; Bambi
+Kako se zove jelen kojemu lovci ubiju majku u Disneyjevu klasiku? | Bambi | | Thumper; Flower
+Kako se zove kraljevstvo kojim vlada Elsa iz „Snježnog kraljevstva”? | Arendelle | Arendel | Corona; DunBroch
+Kako se zove tigar iz „Knjige o džungli”? | Shere Khan | Šir Kan; Sher Khan | Bagheera; Kaa
+Kako se zove crna pantera iz „Knjige o džungli”? | Bagheera | Bagira | Baloo; Kaa
+Koliko sezona ima serija „Igra prijestolja”? | 8 | osam | 7; 9
+Kako se zove kuća Jona Snowa (po ocu koji ga je odgojio)? | Stark | Starkovi | Lannister; Targaryen
+Kako se zove kraljica zmajeva u „Igri prijestolja”? | Daenerys Targaryen | Daenerys; Dany; Khaleesi | Cersei Lannister; Sansa Stark
+Kako se zove patuljasti lik kojeg glumi Peter Dinklage? | Tyrion Lannister | Tyrion | Jaime Lannister; Bran Stark
+Koja je rečenica moto kuće Stark? | Zima dolazi | Winter is coming | Čuj me kako rićem; Vatra i krv
+Koji se hrvatski grad uz Dubrovnik koristio kao Meereen u „Igri prijestolja”? | Split | | Šibenik; Zadar
+Kako se zove odvjetnik iz „Breaking Bad” koji dobiva vlastitu seriju? | Saul Goodman | Saul; Jimmy McGill | Mike Ehrmantraut; Gus Fring
+Kako se zove prequel „Breaking Bada” o odvjetniku? | Better Call Saul | | El Camino; Ozark
+Kako se zove mafijaški šef iz New Jerseyja koji ide psihijatrici? | Tony Soprano | Tony; Soprano | Tony Montana; Vito Corleone
+Kako se zove HBO-ova serija o policiji i dilerima Baltimorea? | Žica | The Wire | Detektiv; Oz
+Kako se zove agentica FBI-a koja s Foxom Mulderom istražuje paranormalno? | Dana Scully | Scully | Clarice Starling; Laura Palmer
+Koje se ubojstvo istražuje u seriji „Twin Peaks”? | Laura Palmer | Laure Palmer; Laura | Teresa Banks; Audrey Horne
+Kako se zove serija o propaloj papirnoj tvrtki Dunder Mifflin? | Ured | The Office | Parkovi i rekreacija; Silicijska dolina
+Tko je tvorac „Simpsonovih”? | Matt Groening | Groening | Seth MacFarlane; Trey Parker
+Kako se zove pas obitelji Griffin u „Family Guyju”? | Brian | Brajan | Stewie; Snoopy
+Koji dječak iz „South Parka” u gotovo svakoj epizodi pogine? | Kenny | Keni | Kyle; Stan
+Kako se zove znanstvenik-djed iz crtića „Rick i Morty”? | Rick | Rick Sanchez | Morty; Jerry
+Kako se zove Sheldonova djevojka, kasnije žena, u „Teoriji velikog praska”? | Amy | Amy Farrah Fowler | Penny; Bernadette
+Kako se zove britanski izvanzemaljski putnik kroz vrijeme s TARDIS-om? | Doktor | Doctor Who; Doctor | Kapetan; Majstor
+Kako se zove kraljica čiju vladavinu prati Netflixova „Kruna”? | Elizabeta II. | Elizabeta; Elizabeth II | Viktorija; Elizabeta I.
+Kako se zove šahovska čudo-djevojka iz serije „Gambit kraljice”? | Beth Harmon | Beth | Jolene; Alma
+U kojoj državi se odvija serija „Narcos” u prvim sezonama? | Kolumbija | | Meksiko; Venezuela
+Koji je narkobos glavni lik prvih sezona „Narcosa”? | Pablo Escobar | Escobar | El Chapo; Félix Gallardo
+Koji je hrvatski film Dalibora Matanića osvojio nagradu žirija Un Certain Regard u Cannesu 2015.? | Zvizdan | | Fine mrtve djevojke; Ministarstvo ljubavi
+Koji je hrvatski redatelj snimio „Kad mrtvi zapjevaju”? | Krsto Papić | Papić | Antun Vrdoljak; Vinko Brešan
+Koji je redatelj snimio „Kako je počeo rat na mom otoku” i „Maršal”? | Vinko Brešan | Brešan | Rajko Grlić; Lordan Zafranović
+Tko je režirao hrvatski film „Svećenikova djeca”? | Vinko Brešan | Brešan; Vinko Bresan | Dalibor Matanić; Hrvoje Hribar
+Koji je bosanski film Danisa Tanovića osvojio Oscara 2002.? | Ničija zemlja | No Man's Land; Nicija zemlja | Grbavica; Quo vadis, Aida?
+Koji je srpski kultni film o obitelji Topalović i pogrebnom poduzeću? | Maratonci trče počasni krug | Maratonci | Ko to tamo peva; Balkanski špijun
+Koji je kultni film u kojem se putnici autobusom voze prema Beogradu 1941.? | Ko to tamo peva | Tko to tamo pjeva | Maratonci trče počasni krug; Varljivo leto '68
+Koji je redatelj snimio „Underground” i „Crna mačka, bijeli mačor”? | Emir Kusturica | Kusturica | Goran Paskaljević; Srđan Dragojević
+Koji je hrvatski glumac igrao u „Hitnoj službi” dr. Luku Kovača? | Goran Višnjić | Višnjić; Visnjic | Rade Šerbedžija; Zrinko Ogresta
+Koji je hrvatski glumac igrao Borisa „Oštricu” u filmu „Snatch”? | Rade Šerbedžija | Šerbedžija; Serbedzija | Goran Višnjić; Dragan Despot

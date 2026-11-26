@@ -17,6 +17,10 @@ const FILES = [
   ['rijeci', 'hrvatska', 'all'],
   ['igrice_brzi', 'igrice', 'open'],
   ['igrice_ploca', 'igrice', 'board'],
+  ['filmovi_brzi', 'filmovi', 'open'],
+  ['filmovi_ploca', 'filmovi', 'board'],
+  ['priroda_brzi', 'priroda', 'open'],
+  ['priroda_ploca', 'priroda', 'board'],
 ];
 
 const norm = (s) =>

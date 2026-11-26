@@ -12,12 +12,13 @@ A multiplayer quiz game in the style of a TV chase show, in Croatian. One **chas
    1. `supabase/migrations/20261125000000_init.sql`: tables, security and game logic.
    2. `supabase/migrations/20261125010000_h2h_rush.sql`: the 4-second rule on the board.
    3. `supabase/migrations/20261125020000_songs.sql`: song recognition on the board.
-   4. `supabase/seed.sql`: 1,900 questions.
-   5. `supabase/seed_songs.sql`: 560 songs.
+   4. `supabase/seed.sql`: 2,664 questions.
+   5. `supabase/seed_songs.sql`: 778 songs.
    6. `supabase/migrations/20261125030000_stihovi.sql`: "Nadopuni stih" questions on the board.
    7. `supabase/migrations/20261125040000_high_offer.sql`: higher offer leaves one empty step between the chaser and the player.
    8. `supabase/migrations/20261125050000_igrice.sql`: video game questions (run before `seed.sql`).
    9. `supabase/migrations/20261126000000_ready.sql`: "Spreman sam" buttons between rounds; song options from the same artist.
+   10. `supabase/migrations/20261126010000_filmovi_priroda.sql`: the categories *Filmovi i serije* and *Priroda i društvo* (run before `seed.sql`). On an existing database, `supabase/seed_filmovi_priroda.sql` does the migration and adds only the new questions.
 
    If you use the Supabase CLI instead, run `supabase db push` and then run `seed.sql`.
 4. **Check Realtime.** Under *Database → Publications → supabase_realtime*, the tables `rooms` and `room_players` must be on. The migration turns them on, but it's worth checking.
@@ -76,8 +77,12 @@ Tko je zabio pobjednički gol protiv Engleske u polufinalu 2018.? | Mario Mandž
 | `rijeci.txt` (loanwords: germanisms, turcisms, anglicisms — category Hrvatska) | 98 |
 | `igrice_brzi.txt` (video games, typed rounds only) | 103 |
 | `igrice_ploca.txt` (video games, board only) | 101 |
+| `filmovi_brzi.txt` (films and TV series, easier, typed rounds only) | 142 |
+| `filmovi_ploca.txt` (films and TV series, harder, board only) | 126 |
+| `priroda_brzi.txt` (nature and society, easier, typed rounds only) | 94 |
+| `priroda_ploca.txt` (nature and society, harder, board only) | 100 |
 
-Every question works in both formats:
+Questions in the `_brzi` files appear only in the cash builder and the final, and questions in the `_ploca` files only on the board. All other questions work in both formats:
 
 - **Open answer** for the cash builder and the final.
 - **A/B/C** for the head-to-head, using the correct answer plus the two wrong options.
@@ -126,8 +131,10 @@ All sounds are generated in the browser with the Web Audio API (`src/lib/sound.t
 |---|---|
 | Lock-in on the board | "dunk-ding" |
 | The 4 seconds after one side answers | Ticking clock with a heartbeat, faster in the last second, then a buzzer |
-| Correct / wrong answer | Short jingle / low "bonk" |
-| Chaser gains a step | Ominous low hit |
+| Correct answer in the cash builder | Quiet coin "cha-ching" |
+| Wrong answer in the cash builder | Low "bonk" |
+| Player's answer revealed on the board | Short jingle / low "bonk" (the chaser's answer is silent) |
+| Answers in the final chase | No sound |
 | Player reaches home, or the team wins | Brass fanfare |
 | Player caught, or the chaser wins | Boom + sad trombone |
 | New player and the final | Dramatic sting |

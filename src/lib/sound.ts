@@ -253,6 +253,16 @@ export const sfx = {
     noise(0.2, 0.5, 0.12, 9000, 0.5, 'highpass', 0.6);
   },
 
+  /** Cash builder correct answer: quiet "cha-ching" like coins / a till. */
+  coin() {
+    noise(0, 0.07, 0.05, 5000, 0.8, 'highpass', 0.1);
+    [[2637, 0.06], [3520, 0.11]].forEach(([f, at]) => {
+      tone(f, at, 0.35, { type: 'sine', gain: 0.07, verb: 0.25 });
+      tone(f * 2.76, at, 0.18, { type: 'sine', gain: 0.025, verb: 0.25 });
+    });
+    noise(0.1, 0.3, 0.03, 9000, 0.5, 'highpass', 0.4);
+  },
+
   /** Wrong answer: dissonant low stab. */
   wrong() {
     tone(N(-21), 0, 0.5, { type: 'sawtooth', gain: 0.22, filter: 1400, filterTo: 300, verb: 0.3 });
