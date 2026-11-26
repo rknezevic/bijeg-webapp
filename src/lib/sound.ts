@@ -57,7 +57,7 @@ function ac(): AudioContext | null {
     if (!C) return null;
     ctx = new C();
     const master = ctx.createGain();
-    master.gain.value = 1.1;
+    master.gain.value = 0.5; // overall game volume
     const comp = ctx.createDynamicsCompressor();
     comp.threshold.value = -16;
     comp.knee.value = 6;

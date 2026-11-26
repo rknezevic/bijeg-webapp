@@ -17,6 +17,7 @@ A multiplayer quiz game in the style of a TV chase show, in Croatian. One **chas
    6. `supabase/migrations/20261125030000_stihovi.sql`: "Nadopuni stih" questions on the board.
    7. `supabase/migrations/20261125040000_high_offer.sql`: higher offer leaves one empty step between the chaser and the player.
    8. `supabase/migrations/20261125050000_igrice.sql`: video game questions (run before `seed.sql`).
+   9. `supabase/migrations/20261126000000_ready.sql`: "Spreman sam" buttons between rounds; song options from the same artist.
 
    If you use the Supabase CLI instead, run `supabase db push` and then run `seed.sql`.
 4. **Check Realtime.** Under *Database → Publications → supabase_realtime*, the tables `rooms` and `room_players` must be on. The migration turns them on, but it's worth checking.

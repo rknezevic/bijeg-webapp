@@ -28,6 +28,8 @@ export const api = {
     call('choose_role', { p_room: room, p_role: role, p_seat: seat ?? null }),
   startGame: (room: string) => call('start_game', { p_room: room }),
   resetRoom: (room: string) => call('reset_room', { p_room: room }),
+  setReady: (room: string) => call('set_ready', { p_room: room }),
+  forceReady: (room: string) => call('force_ready', { p_room: room }),
   tick: (room: string) => call<string>('tick', { p_room: room }),
   cashAnswer: (room: string, qid: number, text: string) =>
     call<{ ok?: boolean }>('cash_answer', { p_room: room, p_qid: qid, p_text: text }),

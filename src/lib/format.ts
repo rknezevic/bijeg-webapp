@@ -17,15 +17,12 @@ export const CATEGORY: Record<Category, string> = {
 
 /** Full length of each timed phase, used to draw the countdown ring. */
 export const PHASE_SECONDS: Partial<Record<Phase, number>> = {
-  intro: 5,
   cash: 60,
   offer_set: 25,
   offer_pick: 15,
   h2h: 20,
   h2h_reveal: 4,
-  final_intro: 6,
   final_team: 120,
-  final_chaser_intro: 6,
   final_chaser: 120,
   final_pushback: 10,
 };
@@ -34,6 +31,7 @@ export const PHASE_LABEL: Record<Phase, string> = {
   lobby: 'Predvorje',
   intro: 'Sljedeći igrač',
   cash: 'Brzi krug',
+  h2h_ready: 'Prije dvoboja',
   offer_set: 'Ponuda lovca',
   offer_pick: 'Ponuda lovca',
   h2h: 'Dvoboj',

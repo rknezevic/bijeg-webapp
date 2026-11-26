@@ -2,6 +2,7 @@ export type Phase =
   | 'lobby'
   | 'intro'
   | 'cash'
+  | 'h2h_ready'
   | 'offer_set'
   | 'offer_pick'
   | 'h2h'
@@ -95,6 +96,8 @@ export interface GameState {
   h2h?: H2HState | null;
   final?: FinalState;
   result?: { winner: 'team' | 'chaser'; pot: number; each: number };
+  /** players who clicked "Spreman sam" in the current waiting phase */
+  ready?: string[];
 }
 
 export interface Room {

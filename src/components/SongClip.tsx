@@ -73,7 +73,7 @@ export function SongClip({ deezer, start, autoPlay }: Props) {
     const a = audio.current;
     if (!a) return;
     try {
-      a.volume = 1;
+      a.volume = 0.7;
       a.currentTime = start;
       await a.play();
       setState('playing');

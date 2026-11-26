@@ -50,7 +50,7 @@ begin
   assert (r.state->>'current')::uuid = pid_h;
 
   -- ===== Player 1: Robi =====
-  perform pg_temp.expire(rid); perform public.tick(rid);
+  perform pg_temp.as_user(H); perform public.set_ready(rid);  -- intro: player ready
   select * into r from public.rooms where id = rid; assert r.phase = 'cash', 'cash expected ' || r.phase;
   for i in 1..3 loop
     select * into r from public.rooms where id = rid; select * into s from public.room_secrets where room_id = rid;
@@ -72,6 +72,12 @@ begin
   perform pg_temp.as_user(M); res := public.cash_answer(rid, qid, 'x'); assert res ? 'ignored';
 
   perform pg_temp.expire(rid); perform public.tick(rid);
+  select * into r from public.rooms where id = rid; assert r.phase = 'h2h_ready', 'h2h_ready expected';
+  perform pg_temp.as_user(H); perform public.set_ready(rid);
+  select * into r from public.rooms where id = rid; assert r.phase = 'h2h_ready', 'must wait for chaser';
+  perform pg_temp.as_user(M); perform public.set_ready(rid);  -- not required, ignored
+  select * into r from public.rooms where id = rid; assert r.phase = 'h2h_ready', 'spectator ready ignored';
+  perform pg_temp.as_user(CH); perform public.set_ready(rid);
   select * into r from public.rooms where id = rid; assert r.phase = 'offer_set';
   raise notice 'default offers: %', r.state->'offer';
   perform pg_temp.as_user(CH); perform public.set_offers(rid, 8000, 200);
@@ -97,8 +103,8 @@ begin
   assert (select status from public.room_players where id = pid_h) = 'home';
 
   -- ===== Player 2: Marko — no answers, offers by timeout, caught =====
-  perform pg_temp.expire(rid); perform public.tick(rid);   -- cash
-  perform pg_temp.expire(rid); perform public.tick(rid);   -- offer_set
+  perform pg_temp.as_user(M); perform public.set_ready(rid);   -- intro -> cash
+  perform pg_temp.expire(rid); perform public.tick(rid); perform pg_temp.as_user(M); perform public.set_ready(rid); perform pg_temp.as_user(CH); perform public.set_ready(rid);   -- cash -> h2h_ready -> offer_set
   perform pg_temp.expire(rid); perform public.tick(rid);   -- offer_pick
   perform pg_temp.expire(rid); perform public.tick(rid);   -- h2h (mid)
   select * into r from public.rooms where id = rid;
@@ -118,13 +124,13 @@ begin
   assert (select status from public.room_players where room_id = rid and user_id = M::uuid) = 'caught';
 
   -- ===== Player 3: Luka — low offer, both correct, gets home =====
-  perform pg_temp.expire(rid); perform public.tick(rid);   -- cash
+  perform pg_temp.as_user(L); perform public.set_ready(rid);   -- intro -> cash
   perform pg_temp.as_user(L);
   select * into r from public.rooms where id = rid; select * into s from public.room_secrets where room_id = rid;
   perform public.cash_answer(rid, (r.state->'cash'->'q'->>'id')::bigint, s.ans);
-  perform pg_temp.expire(rid); perform public.tick(rid);   -- offer_set
+  perform pg_temp.expire(rid); perform public.tick(rid); perform pg_temp.as_user(H); perform public.force_ready(rid);   -- cash -> h2h_ready, host skips wait
   perform pg_temp.expire(rid); perform public.tick(rid);   -- offer_pick (defaults)
-  perform public.pick_offer(rid, 'low');
+  perform pg_temp.as_user(L); perform public.pick_offer(rid, 'low');
   select * into r from public.rooms where id = rid;
   assert (r.state->'h2h'->>'player')::int = 4;
   for i in 1..3 loop
@@ -140,7 +146,7 @@ begin
   assert (r.state->'final'->>'head')::int = 2 and jsonb_array_length(r.state->'final'->'finalists') = 2;
 
   -- ===== Final: team =====
-  perform pg_temp.expire(rid); perform public.tick(rid);
+  perform pg_temp.as_user(H); perform public.set_ready(rid); perform pg_temp.as_user(L); perform public.set_ready(rid); perform pg_temp.as_user(CH); perform public.set_ready(rid);
   select * into r from public.rooms where id = rid; assert r.phase = 'final_team';
   for i in 1..3 loop
     select * into r from public.rooms where id = rid; select * into s from public.room_secrets where room_id = rid;
@@ -157,8 +163,8 @@ begin
   raise notice 'team: team=% feed=%', r.state->'final'->'team', r.state->'final'->'feed';
   assert (r.state->'final'->>'team')::int = 5;
 
-  perform pg_temp.expire(rid); perform public.tick(rid);  -- chaser intro
-  perform pg_temp.expire(rid); perform public.tick(rid);  -- final_chaser
+  perform pg_temp.expire(rid); perform public.tick(rid);  -- final_chaser_intro (waits)
+  perform pg_temp.as_user(CH); perform public.set_ready(rid);  -- final_chaser
   select * into r from public.rooms where id = rid; assert r.phase = 'final_chaser';
 
   perform pg_temp.as_user(CH);

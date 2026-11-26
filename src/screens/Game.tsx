@@ -116,6 +116,8 @@ function PhaseView({ ctx }: { ctx: Ctx }) {
   switch (ctx.room.phase) {
     case 'lobby':
       return <Lobby ctx={ctx} />;
+    case 'h2h_ready':
+      return <H2HReady ctx={ctx} />;
     case 'intro':
       return <Intro ctx={ctx} />;
     case 'cash':
@@ -160,6 +162,73 @@ function QuestionCard({ q, big }: { q: QuestionView | null | undefined; big?: bo
   );
 }
 
+/** Who still needs to click "Spreman sam" before the game goes on. */
+function readyNeeded(ctx: Ctx): string[] {
+  const st = ctx.room.state;
+  const chaser = ctx.chaser?.id;
+  switch (ctx.room.phase) {
+    case 'intro':
+      return st.current ? [st.current] : [];
+    case 'h2h_ready':
+      return [st.current, chaser].filter(Boolean) as string[];
+    case 'final_intro':
+      return [...(st.final?.finalists ?? []), ...(chaser ? [chaser] : [])];
+    case 'final_chaser_intro':
+      return chaser ? [chaser] : [];
+    default:
+      return [];
+  }
+}
+
+function ReadyPanel({ ctx }: { ctx: Ctx }) {
+  const needed = readyNeeded(ctx);
+  const ready = ctx.room.state.ready ?? [];
+  const mine = !!ctx.me && needed.includes(ctx.me.id);
+  const iAmReady = !!ctx.me && ready.includes(ctx.me.id);
+  return (
+    <div className="ready">
+      <div className="chips">
+        {needed.map((id) => (
+          <span key={id} className={`chip ready__chip${ready.includes(id) ? ' is-ready' : ''}`}>
+            {ready.includes(id) ? '✓ ' : '… '}
+            {ctx.name(id)}
+          </span>
+        ))}
+      </div>
+      {mine && !iAmReady && (
+        <button type="button" className="btn btn--gold btn--lg ready__btn" onClick={() => ctx.act(() => api.setReady(ctx.room.id))}>
+          Spreman sam!
+        </button>
+      )}
+      {mine && iAmReady && <p className="muted">Čekamo ostale…</p>}
+      {!mine && <p className="muted">Čekamo da svi budu spremni…</p>}
+      {ctx.isHost && (
+        <button type="button" className="btn btn--ghost btn--small" onClick={() => ctx.act(() => api.forceReady(ctx.room.id))}>
+          Kreni bez čekanja
+        </button>
+      )}
+    </div>
+  );
+}
+
+function H2HReady({ ctx }: { ctx: Ctx }) {
+  const c = ctx.room.state.cash;
+  return (
+    <div className="intro">
+      <span className="eyebrow">Brzi krug je gotov</span>
+      <h1 className="intro__name">{ctx.current?.nickname}</h1>
+      <div className="bank">
+        <span className="muted">Osvojeno u brzom krugu</span>
+        <span className="bank__value">{euro(c?.bank)}</span>
+      </div>
+      <p className="intro__label">
+        Slijedi dvoboj s lovcem <span className="txt-red">{ctx.chaser?.nickname}</span>
+      </p>
+      <ReadyPanel ctx={ctx} />
+    </div>
+  );
+}
+
 function Intro({ ctx }: { ctx: Ctx }) {
   const first = (ctx.room.state.idx ?? 0) === 0;
   const mine = ctx.me?.id === ctx.current?.id;
@@ -169,8 +238,8 @@ function Intro({ ctx }: { ctx: Ctx }) {
       <p className="intro__label">Na redu je</p>
       <h1 className="intro__name">{ctx.current?.nickname}</h1>
       <p className="muted">Brzi krug · 60 sekundi · 500 € za svaki točan odgovor</p>
-      {mine && <p className="intro__you">Spremi se — ti si na redu!</p>}
-      <Timer ctx={ctx} size={88} seconds />
+      {mine && <p className="intro__you">Ti si na redu! Klikni kad budeš spreman.</p>}
+      <ReadyPanel ctx={ctx} />
     </div>
   );
 }
@@ -259,7 +328,7 @@ function OfferPick({ ctx }: { ctx: Ctx }) {
     <div className="col">
       <div className="row-between">
         <div>
-          <span className="eyebrow">Prije susreta</span>
+          <span className="eyebrow">Prije dvoboja</span>
           <h2 className="h2">
             <span className="txt-red">{ctx.chaser?.nickname}</span> nudi
           </h2>
@@ -428,7 +497,7 @@ function FinalIntro({ ctx }: { ctx: Ctx }) {
       <p className="muted">
         {f.head > 0 ? `Prednost: ${koraka(f.head)} (jedan za svakog igrača na cilju).` : 'Nitko nije stigao do cilja — finale igraju svi.'} 2 minute, svaki točan odgovor je korak. Tko prvi upiše, taj se računa.
       </p>
-      <Timer ctx={ctx} size={88} seconds />
+      <ReadyPanel ctx={ctx} />
     </div>
   );
 }
@@ -497,7 +566,7 @@ function FinalChaserIntro({ ctx }: { ctx: Ctx }) {
         mora stići {koraka(f.team)} u 2 minute
       </p>
       <p className="muted">Kad lovac pogriješi, sat staje i kapetan {ctx.name(f.captain)} ima 10 sekundi da ga vrati korak unatrag.</p>
-      <Timer ctx={ctx} size={88} seconds />
+      <ReadyPanel ctx={ctx} />
     </div>
   );
 }
