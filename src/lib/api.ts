@@ -30,6 +30,8 @@ export const api = {
   resetRoom: (room: string) => call('reset_room', { p_room: room }),
   setReady: (room: string) => call('set_ready', { p_room: room }),
   forceReady: (room: string) => call('force_ready', { p_room: room }),
+  reviewToggle: (room: string, i: number) => call('review_toggle', { p_room: room, p_i: i }),
+  reviewApprove: (room: string) => call('review_approve', { p_room: room }),
   tick: (room: string) => call<string>('tick', { p_room: room }),
   cashAnswer: (room: string, qid: number, text: string) =>
     call<{ ok?: boolean }>('cash_answer', { p_room: room, p_qid: qid, p_text: text }),

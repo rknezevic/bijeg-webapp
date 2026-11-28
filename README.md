@@ -19,6 +19,7 @@ A multiplayer quiz game in the style of a TV chase show, in Croatian. One **chas
    8. `supabase/migrations/20261125050000_igrice.sql`: video game questions (run before `seed.sql`).
    9. `supabase/migrations/20261126000000_ready.sql`: "Spreman sam" buttons between rounds; song options from the same artist.
    10. `supabase/migrations/20261126010000_filmovi_priroda.sql`: the categories *Filmovi i serije* and *Priroda i društvo* (run before `seed.sql`). On an existing database, `supabase/seed_filmovi_priroda.sql` does the migration and adds only the new questions.
+   11. `supabase/migrations/20261128000000_review.sql`: the host reviews the answers of each 1-minute round before the game goes on.
 
    If you use the Supabase CLI instead, run `supabase db push` and then run `seed.sql`.
 4. **Check Realtime.** Under *Database → Publications → supabase_realtime*, the tables `rooms` and `room_players` must be on. The migration turns them on, but it's worth checking.
@@ -47,6 +48,7 @@ SPA routing is already set up (`vercel.json`, `public/_redirects`).
 | Lobby | Everyone joins through `/s/CODE`. Each person picks the chaser seat (only one) or a player seat (1–4). The host starts the game. |
 | Intro | "Na redu je …" animation (5 s). |
 | Cash builder | 60 s of open questions, 500 € per correct answer. *Dalje* skips. After a wrong answer or a skip, the correct answer shows briefly and the next question appears right away. |
+| Review | All answers of the minute are listed. The host (room creator) can click any typed answer to accept it (or reject one the game accepted); the amount is recalculated. The game continues once the host clicks *Odgovori su OK, idemo dalje* and the player and the chaser are ready. *Kreni bez čekanja* still skips everything. |
 | Offer | The chaser sets a higher offer (one empty step between the chaser and the player) and a lower offer (start 4 steps ahead). The player picks: higher offer, own amount (3 steps ahead), or lower offer. If time runs out, the player keeps their own amount. |
 | Head-to-head | A/B/C questions. The player and the chaser each answer on their own screen. Answers are revealed only once both have locked in. As soon as one side locks in, the other has only 4 seconds left (with a ticking clock). Every step the chaser has covered turns red. A player who reaches the bottom row (CILJ) is home and adds their money to the team pot. A player the chaser catches is out and watches the rest of the game. |
 | Final (team) | 2 minutes. Only the first answer typed by any finalist counts. Each player who made it home gives the team 1 step head start. If nobody made it home, every player plays the final for their cash-builder money. |

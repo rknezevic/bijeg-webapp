@@ -32,6 +32,19 @@ export interface CashState {
   skipped: number;
   bank: number;
   last: { seq: number; given: string | null; answer: string; ok: boolean | null } | null;
+  /** every answer of the minute, for the host's review */
+  log?: CashLogEntry[];
+}
+
+export interface CashLogEntry {
+  i: number;
+  q: string;
+  a: string;
+  /** what was typed; null = skipped */
+  g: string | null;
+  ok: boolean | null;
+  /** what the automatic check said */
+  auto: boolean | null;
 }
 
 export interface OfferState {
@@ -98,6 +111,8 @@ export interface GameState {
   result?: { winner: 'team' | 'chaser'; pot: number; each: number };
   /** players who clicked "Spreman sam" in the current waiting phase */
   ready?: string[];
+  /** after the minute: the host has approved the answers */
+  approved?: boolean;
 }
 
 export interface Room {

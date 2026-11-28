@@ -266,3 +266,23 @@ body:has(.theme-chaser) { background: #13090a; }
 @keyframes pulse { from { opacity: 1; } to { opacity: 0.55; } }
 @keyframes flash { 50% { filter: brightness(1.6); } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+
+/* Host review of the 1-minute round */
+.review { width: 100%; display: flex; flex-direction: column; gap: 10px; text-align: left; }
+.review__head { display: flex; flex-direction: column; gap: 2px; align-items: center; }
+.review__list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; max-height: 46vh; overflow-y: auto; }
+.review__item { border-radius: 10px; background: var(--surface); border: 1px solid transparent; }
+.review__item.is-ok { border-color: var(--green); background: var(--green-bg); }
+.review__item.is-bad { border-color: var(--red); background: var(--red-bg); }
+.review__item.is-skip { opacity: 0.65; }
+.review__btn { all: unset; box-sizing: border-box; display: flex; gap: 10px; align-items: flex-start; width: 100%; padding: 10px 12px; }
+button.review__btn { cursor: pointer; }
+button.review__btn:hover { filter: brightness(1.15); }
+button.review__btn:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; border-radius: 10px; }
+.review__mark { font-weight: 800; font-size: 18px; width: 20px; flex: none; text-align: center; }
+.is-ok .review__mark { color: var(--green-soft); }
+.is-bad .review__mark { color: var(--red-soft); }
+.review__text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.review__q { font-size: 13px; opacity: 0.8; }
+.review__a { font-weight: 600; overflow-wrap: anywhere; }
+.review__flag { color: var(--gold); font-size: 12px; font-weight: 700; }

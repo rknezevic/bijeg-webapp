@@ -221,10 +221,65 @@ function H2HReady({ ctx }: { ctx: Ctx }) {
         <span className="muted">Osvojeno u brzom krugu</span>
         <span className="bank__value">{euro(c?.bank)}</span>
       </div>
+      <CashReview ctx={ctx} />
       <p className="intro__label">
         Slijedi dvoboj s lovcem <span className="txt-red">{ctx.chaser?.nickname}</span>
       </p>
       <ReadyPanel ctx={ctx} />
+    </div>
+  );
+}
+
+/** All answers of the minute. The host can accept a wrong one (or reject an accepted one) and must approve the list. */
+function CashReview({ ctx }: { ctx: Ctx }) {
+  const log = ctx.room.state.cash?.log ?? [];
+  const approved = ctx.room.state.approved !== false;
+  const host = ctx.players.find((p) => p.user_id === ctx.room.host_user);
+  return (
+    <div className="review">
+      <div className="review__head">
+        <span className="eyebrow">Odgovori iz brzog kruga</span>
+        {ctx.isHost && !approved && <span className="muted small">Klikni na odgovor da ga priznaš ili poništiš.</span>}
+      </div>
+      {log.length === 0 && <p className="muted center">Nije bilo odgovora.</p>}
+      <ol className="review__list">
+        {log.map((e) => {
+          const cls = e.g === null ? 'is-skip' : e.ok ? 'is-ok' : 'is-bad';
+          const changed = e.g !== null && e.ok !== e.auto;
+          const canToggle = ctx.isHost && e.g !== null;
+          const body = (
+            <>
+              <span className="review__mark">{e.g === null ? '–' : e.ok ? '✓' : '✗'}</span>
+              <span className="review__text">
+                <span className="review__q">{e.q}</span>
+                <span className="review__a">
+                  {e.g === null ? <em>preskočeno</em> : <>„{e.g}”</>}
+                  {(e.g === null || !e.ok || changed) && <span className="muted"> · točno: {e.a}</span>}
+                  {changed && <span className="review__flag">{e.ok ? ' priznao domaćin' : ' poništio domaćin'}</span>}
+                </span>
+              </span>
+            </>
+          );
+          return (
+            <li key={e.i} className={`review__item ${cls}`}>
+              {canToggle ? (
+                <button type="button" className="review__btn" onClick={() => ctx.act(() => api.reviewToggle(ctx.room.id, e.i))}>
+                  {body}
+                </button>
+              ) : (
+                <div className="review__btn">{body}</div>
+              )}
+            </li>
+          );
+        })}
+      </ol>
+      {!approved && ctx.isHost && (
+        <button type="button" className="btn btn--gold" onClick={() => ctx.act(() => api.reviewApprove(ctx.room.id))}>
+          Odgovori su OK, idemo dalje
+        </button>
+      )}
+      {!approved && !ctx.isHost && <p className="muted center">Čekamo da domaćin {host?.nickname ?? ''} pregleda odgovore…</p>}
+      {approved && log.length > 0 && <p className="txt-green center small">✓ Domaćin je odobrio odgovore</p>}
     </div>
   );
 }

@@ -78,7 +78,28 @@ begin
   perform pg_temp.as_user(M); perform public.set_ready(rid);  -- not required, ignored
   select * into r from public.rooms where id = rid; assert r.phase = 'h2h_ready', 'spectator ready ignored';
   perform pg_temp.as_user(CH); perform public.set_ready(rid);
-  select * into r from public.rooms where id = rid; assert r.phase = 'offer_set';
+  select * into r from public.rooms where id = rid; assert r.phase = 'h2h_ready', 'must wait for host review';
+  assert jsonb_array_length(r.state->'cash'->'log') = 5, 'cash log should have 5 entries';
+  begin
+    perform pg_temp.as_user(CH); perform public.review_toggle(rid, 3);
+    raise exception 'non-host toggle should fail';
+  exception when others then
+    if sqlerrm like 'non-host%' then raise; end if;
+    raise notice 'ok non-host toggle refused: %', sqlerrm;
+  end;
+  perform pg_temp.as_user(H); perform public.review_toggle(rid, 3);   -- accept the wrong one
+  select * into r from public.rooms where id = rid;
+  assert (r.state->'cash'->>'bank')::int = 2000, 'toggle should add 500';
+  assert (select bank from public.room_players where id = (r.state->>'current')::uuid) = 2000, 'player bank 2000';
+  perform public.review_toggle(rid, 4);   -- skipped: no effect
+  perform public.review_toggle(rid, 0);   -- reject a correct one
+  select * into r from public.rooms where id = rid;
+  assert (r.state->'cash'->>'bank')::int = 1500 and (r.state->'cash'->>'wrong')::int = 1, 'reject should remove 500';
+  perform public.review_toggle(rid, 0);   -- back to correct -> 2000
+  perform public.review_approve(rid);
+  select * into r from public.rooms where id = rid; assert r.phase = 'offer_set', 'approve should continue';
+  assert (r.state->'offer'->>'bank')::int = 2000, 'offer uses reviewed bank';
+  raise notice 'REVIEW OK';
   raise notice 'default offers: %', r.state->'offer';
   perform pg_temp.as_user(CH); perform public.set_offers(rid, 8000, 200);
   select * into r from public.rooms where id = rid; assert r.phase = 'offer_pick';
@@ -104,7 +125,7 @@ begin
 
   -- ===== Player 2: Marko — no answers, offers by timeout, caught =====
   perform pg_temp.as_user(M); perform public.set_ready(rid);   -- intro -> cash
-  perform pg_temp.expire(rid); perform public.tick(rid); perform pg_temp.as_user(M); perform public.set_ready(rid); perform pg_temp.as_user(CH); perform public.set_ready(rid);   -- cash -> h2h_ready -> offer_set
+  perform pg_temp.expire(rid); perform public.tick(rid); perform pg_temp.as_user(M); perform public.set_ready(rid); perform pg_temp.as_user(CH); perform public.set_ready(rid); perform pg_temp.as_user(H); perform public.review_approve(rid);   -- cash -> h2h_ready -> offer_set
   perform pg_temp.expire(rid); perform public.tick(rid);   -- offer_pick
   perform pg_temp.expire(rid); perform public.tick(rid);   -- h2h (mid)
   select * into r from public.rooms where id = rid;
